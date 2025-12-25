@@ -1,5 +1,8 @@
 # CHARACTERS.md
 
+## Novel Title
+**The Agalmic Engine**
+
 ## Protagonist: Elena Smith
 
 **Age**: 28 (chronological), appears late 20s through maintenance treatments

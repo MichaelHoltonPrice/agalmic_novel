@@ -1,6 +1,9 @@
 # OUTLINE.md
 
-## Working Title
+## Novel Title
+**The Agalmic Engine**
+
+## Core Arc / Working Title
 **The Canon Sprint**
 
 ## Logline

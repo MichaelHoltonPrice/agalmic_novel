@@ -1,5 +1,8 @@
 # PREMISE.md
 
+## Novel Title
+**The Agalmic Engine**
+
 ## Core Vision
 
 This novel presents a future of abundance—a world where agalmic principles have reshaped economics, scarcity is largely solved, and humanity has room to grow.

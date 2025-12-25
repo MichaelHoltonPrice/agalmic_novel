@@ -1,5 +1,8 @@
 # WORLD.md
 
+## Novel Title
+**The Agalmic Engine**
+
 ## The Agalmic Era
 
 Humanity lives in an era of material abundance following the "Great Convergence" – a remarkably swift period of technological and social transformation that collapsed production costs through artificial intelligence, automation, and open knowledge systems. Material scarcity has been largely solved; goods and services that were once scarce are now available to all through agalmic economic principles.
