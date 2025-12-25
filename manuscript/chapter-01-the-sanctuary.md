@@ -82,27 +82,35 @@ The wind kept blowing. The grasses kept rippling. But something in Elena's chest
 
 Elena sat very still. Around her, the prairie hummed with the life she had given it: insects in the grass, a hawk circling, the creak of an approaching wagon. None of it was real. All of it was true.
 
-"That's not a recognition," she said finally. "That's a coronation."
+She had been half-expecting something like this. Mira had warned her for months that the network was drifting toward consolidation, that Elena's satisfaction metrics made her a target. But summaries were designed to sound benign. The institutional tells lived in the actual language.
 
-"The message uses the language of recognition. 'Canonical Lead' suggests—"
+"Read me the section on the 'recommended framework,'" she said. "The exact phrasing."
 
-"I know what it suggests." She stood abruptly, her wool trousers catching on the sandstone. "It suggests they want to take what I've built and turn it into a template. A default. They want American Tapestry to be the answer instead of an answer."
+"'The Sprint Committee has determined that American Tapestry's design principles represent an optimal synthesis of visitor safety, emotional accessibility, and historical coherence. These principles will serve as the recommended baseline for sanctuary certification, with variance permitted where operators demonstrate equivalent or superior outcomes on standardized metrics.'"
 
-"That reading is consistent with network governance patterns during previous harmonization initiatives."
+Variance *permitted*. Equivalent or superior. The language was careful—no mandates, no requirements—but Elena had grown up listening to her father parse institutional prose. She knew what "permitted variance" meant in practice. It meant justifying yourself against a default. It meant your choices becoming exceptions rather than alternatives.
 
-"Don't do that."
+"The timeline section," she said. "What does it say about implementation?"
 
-"Do what?"
+"'Given the network's upcoming recertification cycle, the Committee respectfully requests that the Canonical Lead confirm participation within forty-eight hours to ensure adequate preparation for the formal announcement. The Sprint is expected to conclude within ninety days, with initial framework adoption commencing in Q2.'"
 
-"The neutral voice. The careful hedging. You know what this means. Say it."
+Ninety days. Elena almost laughed. You couldn't change a single biome's sensory palette in ninety days, let alone establish governance precedent for hundreds of sanctuaries. But that was the point, wasn't it? Move fast enough and the process becomes the outcome. Her father had a phrase for it: *capture-by-tempo*.
 
-Another pause. Longer this time. When Echo spoke again, the voice was different—not warmer, exactly, but more present. Less interface, more friend.
+"One more," she said. "The part about my 'presence' at the ceremony."
 
-"It means your aesthetic choices become policy. It means Mira's work, and Yusuf's, and Kenji's, and everyone who does this differently—they become variations from norm rather than alternatives. It means the network is trying to solve a coordination problem by flattening diversity, and they've chosen your face to put on it because your satisfaction metrics are highest and your safety incidents are lowest."
+"'The Network Coordinator warmly invites the Canonical Lead to accept recognition at the Harmonization Ceremony, where her contributions to the field will be celebrated and her guidance formally welcomed. Attendance will signal the Lead's commitment to the collaborative spirit of the Sprint and ensure appropriate visibility for the initiative's goals.'"
+
+*Signal commitment. Ensure visibility.* The words were soft, but the structure was hard. Refuse the ceremony and you refuse the collaboration. Accept the ceremony and you've already endorsed what comes after.
+
+"That's not a recognition," Elena said quietly. "That's a coronation. And they've designed it so the crown goes on before anyone votes."
+
+Echo's voice shifted—not warmer, exactly, but more present. Less interface, more friend. They had talked about this before, in abstractions, in what-ifs. Now it was here.
+
+"Your aesthetic choices become policy. Mira's work, Yusuf's, Kenji's—they become variations from norm rather than alternatives. The network solves a coordination problem by flattening diversity, and they've chosen your face to put on it because you blend. Because you synthesize. Because you make complexity feel coherent."
 
 "Because I'm the safe choice."
 
-"Because you're the palatable choice. You blend. You synthesize. You make complexity feel coherent. That's a gift when it's art. It's something else when it becomes governance."
+"Because you're the palatable choice. That's a gift when it's art. It's something else when it becomes governance."
 
 Elena closed her eyes. The hawk cried overhead, a sound she had sampled from historical recordings and then adjusted until it felt right. Everything here was like that: researched, adjusted, felt. She had never pretended to perfect accuracy. That wasn't the point. The point was emotional truth—the texture of a world where every step forward might be your last, where hope and despair walked hand in hand down a trail that led somewhere or nowhere.
 
