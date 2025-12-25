@@ -3,7 +3,9 @@
 ## Novel Title
 **The Agalmic Engine**
 
-## Protagonist: Elena Smith
+## Protagonist & POV Character: Elena Smith
+
+*POV Style: Close third, past tense — traditional and reflective*
 
 **Age**: 28 (chronological), appears late 20s through maintenance treatments
 **Background**: Born in 2017, Elena was a child during the Great Convergence starting in 2027. She witnessed the rapid transformation from scarcity to abundance but was too young to fully participate in the institutional changes that created the agalmic world.
@@ -22,11 +24,11 @@
 - Her decisive test is costly signaling: proving she is not defending her own status by **limiting her own power in public**.
 
 **Relationships**:
-- **Mira Chen**: Her closest friend and professional counterpart. Their contrasting approaches create ongoing creative tension and mutual respect.
-- **Echo**: Her personal AI companion, a close friend who has grown alongside her and provides vast intelligence and knowledge.
-- **Jordan Smith**: Her father, who provides perspective from the pre-Convergence world but remains a secondary figure.
-- **Solène**: A volatile mirror: she articulates the hunger Elena’s sanctuaries soothe, and accuses canonization of turning meaning into a tranquilizer.
-- **The Operator Executive**: Elena’s institutional antagonist; competent, mission-driven, and dangerously good at framing standardization as care.
+- **Mira Chen**: Her closest friend and professional counterpart. Their contrasting approaches create ongoing creative tension and mutual respect. The Canon Sprint tests their friendship: Mira sees Elena as complicit until Elena proves otherwise.
+- **Echo**: Her personal AI companion, a close friend who has grown alongside her and provides vast intelligence and knowledge. Echo can see the manipulation patterns; Elena must decide what to do about them.
+- **Jordan Smith**: Her father, who provides perspective from the pre-Convergence world but remains a secondary figure. His warning about tempo and precedent becomes the seed of her resistance.
+- **Solène**: A volatile mirror. Initially, Solène is a threat—her viral critique targets everything Elena represents. Later, watching Solène's movement grow, Elena recognizes a shared enemy. By the end, they are not friends, but they understand each other.
+- **The Operator Executive**: Elena's institutional antagonist—but not a villain. The Executive genuinely believes they're helping. Elena finds this harder to fight than malice. When she offers them the Covenant implementation role, it's not forgiveness; it's recognition that their care was real, only their method was wrong.
 
 ## Second Most Important: Mira Chen
 
@@ -85,33 +87,74 @@ Jordan’s choice wasn’t “the” global solution; it was one influential pre
 - **Mira Chen**: Collaborates with Mira on technical aspects of sanctuary reconstruction, particularly fascinated by how historical patterns manifest in different cultures.
 - Has professional relationships with many boundary archaeologists, serving as a mediator in methodological debates.
 
-## Major New Character: Solène
+## Major POV Character: Solène
 
-**Age**: Mid-20s (chronological), appears mid-20s
-**Background**: Born after the Great Convergence. She has never known material scarcity, only its stories and simulations. She moves through sanctuaries looking for something abundance can’t provide: stakes that feel real.
+*POV Style: First person, present tense — immediate and visceral*
 
-**Vocation**: Public voice / organizer. She is not a boundary archaeologist; she’s a critic of how sanctuaries can become refuge-as-avoidance.
+**Age**: 26 (chronological), appears mid-20s
+**Background**: Born after the Great Convergence. She has never known material scarcity, only its stories and simulations. She moves through sanctuaries looking for something abundance can't provide: stakes that feel real.
 
-**Personality**: Emotionally precise, socially fearless, allergic to therapeutic framing. She can be cruel in her clarity, but she’s rarely sloppy.
+**What She's Running From**: Solène grew up in a family that optimized for comfort. Her parents were early beneficiaries of the agalmic transition—grateful, relieved, determined that their children would never experience the anxiety they remembered. They succeeded. Solène's childhood was frictionless, curated, safe. She loved her parents and hated what their love produced in her: a hollowness she couldn't name until she started visiting sanctuaries in her late teens.
 
-**Motivations**: Solène believes canonization turns enclaves into **meaning prosthetics**: comfort that masks the hunger for purpose. She wants a culture where people can’t outsource meaning to curated coherence.
+The sanctuaries were supposed to help. Instead, they crystallized her problem: she was a tourist in other people's suffering. She could watch struggle, appreciate it aesthetically, and then leave. The exit was always there. She began to suspect that the exit was the disease.
 
-**Conflicts**: She wants authentic stakes, but her campaigns can become performative and coercive in their own way. She is vulnerable to becoming the very kind of reputational lever she hates.
+**Vocation**: Public voice / organizer. She is not a boundary archaeologist; she's a critic of how sanctuaries can become refuge-as-avoidance. Before the Canon Sprint, she was a marginal figure—sharp essays with small audiences, occasional speaking invitations, a reputation for being "difficult." The Sprint gave her a target large enough to matter.
 
-**Role in Story**: Unpredictable accelerant. Her critique goes viral because she articulates a shared feeling: abundance has left many hungry, and canonization is a tranquilizer.
+**Personality**: Emotionally precise, socially fearless, allergic to therapeutic framing. She can be cruel in her clarity, but she's rarely sloppy. She speaks in complete sentences and doesn't soften her conclusions. People find her either electrifying or exhausting; there is no middle ground.
 
-## Major New Character: The Operator Executive
+Underneath the precision is something she guards carefully: she doesn't know if she's right. She suspects that her hunger for stakes might be a personality quirk dressed up as philosophy. She fears that Unscripted Week could become just another curated experience—stakes-as-product—and that she would be the one selling it.
 
-**Age**: 40s (chronological), appears late 30s–40s
-**Background**: A systems-builder who came of age during the Convergence. They have spent a lifetime translating ideals (agency, access, safety) into processes that scale.
+**Motivations**: Solène believes canonization turns enclaves into **meaning prosthetics**: comfort that masks the hunger for purpose. She wants a culture where people can't outsource meaning to curated coherence. But her deeper motivation is personal: she wants to prove to herself that she can choose difficulty when it's not required—that her values aren't just words.
 
-**Vocation**: Executive lead of the sanctuary network’s Operating Company. Responsible for “Quality & Safety Harmonization.”
+**Conflicts**:
+- She wants authentic stakes, but her campaigns can become performative and coercive in their own way. She is vulnerable to becoming the very kind of reputational lever she hates.
+- She distrusts institutions but is building something that looks increasingly institutional.
+- She lets someone stay during Unscripted Week departures—compassion or cowardice? She doesn't know.
 
-**Personality**: Calm, competent, not a cartoon villain. They speak in care-language because they mean it—and because it wins.
+**Role in Story**: Unpredictable accelerant. Her critique goes viral because she articulates a shared feeling: abundance has left many hungry, and canonization is a tranquilizer. She is the novel's witness: the outsider who sees the system clearly because she has no stake in its internal politics—until she does.
 
-**Motivations**: Believes standardization improves access, prevents harm, and reduces the “arbitrary suffering” created by inconsistent sanctuary practices. They genuinely fear a scandal that could delegitimize the entire network.
+**Relationships**:
+- **Elena Smith**: Initially a target (Elena's work is the crown being imposed). Later, a reluctant ally. Solène watches Elena's costly signal at the Crowning Ceremony and realizes: this woman gave up something real. That earns respect, not friendship—but it changes the dynamic.
+- **Mira Chen**: Brief professional contact during a sanctuary visit. No deep connection, but Solène senses Mira's rigor and respects it. They are natural allies who never quite become friends.
+- **The Operator Executive**: The face of everything Solène hates—until she watches them lose and realizes they were sincere. She feels pity, which surprises her. Pity is not an emotion she expected to feel toward an antagonist.
+- **Her parents**: Off-stage but present. She loves them. She resents what they gave her. She has never told them this directly.
+- **Unscripted Week participants**: She cares about them more than she admits. When one panics at the threshold and begs to stay, she lets them—and wonders if she failed them or honored them.
 
-**Conflicts**: Their sincere desire for safety and access makes them prone to paternalism. They are vulnerable to using tempo and reputational pressure as “necessary tools.”
+## Major POV Character: The Operator Executive
+
+*POV Style: Close third, present tense — institutional voice, real-time pressure*
+
+*Note on naming: The Executive remains unnamed throughout the novel. This is a deliberate choice: they represent a type (the sincere institutionalist) more than an individual, and the unnamed voice reinforces their self-conception as a steward rather than a protagonist. In their own chapters, they think of themselves as "the Executive" or simply don't self-reference—the institution speaks through them.*
+
+**Age**: 47 (chronological), appears early 40s through maintenance treatments
+**Background**: Born in 2008, the Executive was a teenager during the Great Convergence. Old enough to remember scarcity, young enough to be shaped by the transition rather than traumatized by it. Their formative memory is not deprivation but *chaos*: the years when systems were failing and new ones hadn't yet stabilized, when people died not from poverty but from institutional gaps—a hospital that couldn't coordinate care, a food network that collapsed between old supply chains and new ones.
+
+They became a systems-builder because they saw what happens when systems fail. They believe—genuinely, in their bones—that good process saves lives. The sanctuary network is their life's work: not because they love sanctuaries aesthetically, but because they love what the network *does*: provides access, ensures safety, prevents the arbitrary suffering that comes from inconsistency.
+
+**Vocation**: Executive lead of the sanctuary network's Operating Company. Responsible for "Quality & Safety Harmonization." They have held this role for twelve years, shepherding the network through three major expansions and two near-crises. They are proud of their record. They have never had a scandal.
+
+**Personality**: Calm, competent, not a cartoon villain. They speak in care-language because they mean it—and because it wins. They are excellent at meetings: patient, prepared, able to reframe opposition as concern-to-be-addressed. They rarely raise their voice. They rarely need to.
+
+They have a blind spot they cannot see: they believe that *process legitimacy* and *outcome quality* are the same thing. If the process is open, the outcome is fair. If the outcome is good, the process was justified. They cannot quite grasp that a process can be formally open and substantively closed—that tempo and reputation can do the work of coercion while every rule is followed.
+
+**Motivations**: The Executive believes standardization improves access, prevents harm, and reduces the "arbitrary suffering" created by inconsistent sanctuary practices. They genuinely fear a scandal that could delegitimize the entire network—not for their career, but because they've seen what happens when people lose trust in institutions. The network is fragile in ways outsiders don't understand. One bad incident, one viral harm story, and the whole ecosystem could fracture.
+
+They also have a personal stake they don't fully acknowledge: they chose Elena's approach as the default because it *works*. Visitor satisfaction is high. Safety incidents are low. The data supports the choice. They believe they are being objective. They do not see that "what works" is already a value judgment, or that satisfaction metrics measure comfort, not growth.
+
+**Conflicts**:
+- Their sincere desire for safety and access makes them prone to paternalism. They use tempo and reputational pressure as "necessary tools" without recognizing them as weapons.
+- They cannot understand why people resist something that helps them. This bafflement is genuine, not performed.
+- When Elena refuses the crown on stage, they feel *betrayed*—they gave her a gift, and she threw it back as accusation. But they also feel doubt for the first time: *What if we moved too fast?*
+- After the Canon Vote fails, they must reckon with a new question: they weren't wrong to care, but they were wrong about method. What does that mean for everything they've built?
+
+**Arc**: The Executive begins the novel confident in their mission and their methods. They end it running the Pluralism Covenant—the same dedication to care, channeled through a process that resists capture. They have not changed their values; they have changed their understanding of what their values require.
+
+**Relationships**:
+- **Elena Smith**: Initially a tool—the acceptable face of standardization. Later, a source of confusion. The Executive cannot understand why Elena would sabotage her own success. When Elena offers them the Covenant implementation role, the Executive realizes: Elena saw something in them worth preserving. This is uncomfortable.
+- **Mira Chen**: A problem to be managed. The Executive respects Mira's rigor but categorizes her objections as "methodological" rather than "legitimate." This is a mistake.
+- **Solène**: An irritant, then a threat, then—unexpectedly—a source of pity. The Executive sees Solène's explosion as proof of immaturity. Later, watching Solène let someone stay during Unscripted Week, the Executive thinks: *She's not as hard as she pretends.* This is the closest they come to understanding her.
+- **The Guardian Triad**: The Executive sees the Triad as a legitimacy mechanism, not as individuals. They present data to it, not arguments. This is another mistake.
+- **Their team**: The Executive cares about their staff, protects them from political crossfire, takes responsibility for institutional failures. They are a good boss. This makes them harder to oppose—and harder to see clearly.
 
 ## The Guardian Triad (Canon Sprint decision body)
 
