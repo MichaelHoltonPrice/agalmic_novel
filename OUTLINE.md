@@ -1,10 +1,7 @@
 # OUTLINE.md
 
-## Novel Title
+## Working Title
 **The Agalmic Engine**
-
-## Core Arc / Working Title
-**The Canon Sprint**
 
 ## Logline
 When Elena's cultural enclave is selected as the "standard model" for an entire agalmic sanctuary network—quietly sidelining her friend Mira—she realizes the rollout is being captured through tempo, reputational coercion, and procedural compliance. To stop a monoculture she would personally benefit from, Elena must burn her own status in public and force the network to adopt a pluralism charter that makes it expensive for anyone (including her) to turn taste into policy.
