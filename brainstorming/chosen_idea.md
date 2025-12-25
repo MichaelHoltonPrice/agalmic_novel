@@ -1,5 +1,19 @@
 # Idea 13: The Canon Sprint (Iteration on Ideas 4/5/12)
 
+## Structural Consensus (December 2025)
+
+After evaluating 12 distinct outline approaches, the consensus is:
+
+**Primary structure**: Outline 3 ("The Convergence") — three-POV interleaved narrative with Elena, Solène, and the Operator Executive as co-equal perspectives.
+
+**Tempo innovation**: From Outline 6 ("The Countdown") — explicit countdown chapter labels (`T-72 Hours`, `T-0`, etc.), but **only in Part III**. The structural shift from traditional chapters to countdown format enacts the crisis formally. Tempo becomes palpable because the form changes.
+
+**Key insight**: The three-POV structure enhances tempo rather than diluting it. Early in the novel, POVs operate in their own temporal rhythms. As the Canon Vote approaches, they converge onto the same clock—and the cross-cutting accelerates. The convergence is kinetic, not just thematic.
+
+See `OUTLINE.md` for the full structural breakdown.
+
+---
+
 ## Pedigree (what this is iterating on)
 This is a **direct descendant of Idea 4 (The Golden Share Winter)**: an **institutional thriller** where the threat is **governance capture through tempo, reputational pressure, and “within-the-rules” maneuvering**, and where victory requires **costly signaling** rather than mere proof.
 
