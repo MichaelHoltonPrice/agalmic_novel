@@ -59,10 +59,12 @@ A governance model designed for permanence and mission integrity:
 | Entity | Role |
 |--------|------|
 | **The Operating Company** | A Public Benefit Corporation that manages day-to-day operations. Legally mandated to prioritize user agency and social mission over profit. |
-| **The Social Trust** | Owns 100% of the Operating Company. No private shareholders. Receives all surplus revenue for distribution to Universal Basic Services. |
+| **The Social Trust** | Owns 100% of the Operating Company. No private shareholders. Receives all surplus revenue for distribution to a **charter-defined public dividend** (the destination is explicit, but not universally the same across institutions). |
 | **The Guardian Foundation** | Holds a "Golden Share" with veto power over mission-altering decisions: sales, mergers, charter amendments, asset liquidation. |
 
 This structure creates institutional tension: aligned goals, different perspectives, checks and balances that can strain under pressure.
+
+In practice, a Guardian Foundation may act through a **small, chartered decision body** rather than a large board—sometimes even including a constrained AI seat. These seats are not granted authority because they are “right,” but because they can enforce process integrity: **auditability, reversibility, and resistance to tempo-based capture**.
 
 ### The Financial Waterfall
 
@@ -70,7 +72,7 @@ Revenue flows in strict order:
 
 1. **Operational Sustainment** — Essential costs to keep running
 2. **The Engine** — Reinvestment in technology and growth
-3. **The Social Dividend** — 100% of surplus to Universal Basic Services
+3. **The Social Dividend** — 100% of surplus to the institution’s charter-defined public dividend (e.g., universal basic services, climate restoration, open science, cultural infrastructure)
 
 The waterfall is transparent and irrevocable. Conflict arises over where lines are drawn and who decides.
 

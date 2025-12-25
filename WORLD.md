@@ -48,6 +48,17 @@ Boundary archaeologists maintain a rich ecosystem of professional relationships:
 - **Collaborative Projects**: Sanctuaries often include "guest experiences" designed by visiting archaeologists from different cultural backgrounds.
 - **Ongoing Debates**: The community engages in continuous discussion about methodology, ethics, and the role of sanctuaries in an abundant world.
 
+### Network-Scale Governance (minimal canon)
+Sanctuaries are locally authored, but many participate in umbrella networks that provide shared infrastructure (identity, safety tooling, consent protocols, accessibility layers, discovery/curation). These networks tend to be mission-driven and publicly accountable, with explicit safeguards against capture.
+
+Because sanctuaries shape meaning and identity, network governance tends to be conflict-prone in a post-scarcity way: the fight is rarely about money, and often about **legitimacy, tempo, and what counts as harm**.
+
+#### Harmonization Sprints
+Periodically, a network runs rapid alignment initiatives to standardize baseline practices across sanctuaries (especially around consent, safety constraints, and accessibility). These efforts can be genuinely protective—but they create a structural risk: **tempo can become a weapon**, turning “recommended defaults” into de facto canon before slow dissent can organize.
+
+#### The Canon Vote (legitimacy ritual)
+When a proposed standard would effectively set a cultural default across the network, some charters require a high-friction decision: a binding vote with audit and reversal provisions. The novel’s primary network uses a small Guardian voting panel (a “triad”) that includes an AI seat constrained toward auditability and reversibility.
+
 ## Cultural and Social Dynamics
 
 **Post-Scarcity Values**: With material needs met, human energy focuses on relationships, creativity, identity, and understanding the human condition.
