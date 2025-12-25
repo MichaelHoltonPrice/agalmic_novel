@@ -69,6 +69,35 @@ This creates contrast: the countdown arrives *fresh* when stakes are highest, an
 
 ---
 
+## Location Geography
+
+The novel moves between Earth and orbital space. Understanding where scenes occur helps maintain consistency and creates opportunities for transit as meaningful action.
+
+### Key Locations
+
+**American Tapestry** (Elena's sanctuary): A dedicated space habitat—a rotating cylinder roughly thirty kilometers in length, its interior landscaped with composite American historical environments. Elena lives and works here. The habitat orbits in the inner solar system, roughly a day's transit from Earth.
+
+**Lapita Horizons** (Mira's sanctuary): Another dedicated cylinder, this one reconstructing Pacific island environments and Lapita-era navigation conditions. Located in a different orbital position; travel between sanctuaries takes one to three days depending on current positions.
+
+**The Axis** (Network administrative hub): A large multi-use station in Earth orbit serving as the Operating Company's headquarters. The Crowning Ceremony and Canon Vote take place here—neutral ground, accessible from both Earth and the sanctuary network. Most institutional scenes (Executive's meetings, Guardian Triad deliberations) occur on the Axis.
+
+**Earth**: Jordan lives on Earth, as do many pre-Convergence generation people who prefer the planet's "natural" environment. Solène moves between Earth and various sanctuaries; her base is Earth-side but she travels extensively.
+
+### The Convergence Geography
+
+In Parts I and II, characters move independently:
+- Elena works in American Tapestry
+- Solène travels between sanctuaries (visiting both American Tapestry and Lapita Horizons)
+- The Executive operates from the Axis
+
+In Part III, the countdown brings everyone to the Axis:
+- The Crowning Ceremony is a network-wide event at the Axis
+- Characters must travel to be present—this transit time is part of the countdown tension
+- By T-72 Hours, all three POV characters are in transit or already at the Axis
+- The physical convergence mirrors the narrative convergence
+
+---
+
 ## PART I — THE CROWN FALLS
 
 *Traditional chapter structure. POVs operate in their own temporal rhythms.*

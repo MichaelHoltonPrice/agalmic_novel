@@ -10,7 +10,9 @@
 **Age**: 28 (chronological), appears late 20s through maintenance treatments
 **Background**: Born in 2017, Elena was a child during the Great Convergence starting in 2027. She witnessed the rapid transformation from scarcity to abundance but was too young to fully participate in the institutional changes that created the agalmic world.
 
-**Vocation**: Boundary archaeologist specializing in American cultural history. She runs the "American Tapestry" sanctuary, a deliberate artistic reconstruction that blends multiple American experiences (colonial settlement, westward expansion, civil rights struggles, industrial labor conflicts) into a cohesive narrative. Her approach prioritizes emotional resonance and philosophical exploration over historical precision.
+**Vocation**: Boundary archaeologist specializing in American cultural history. She runs the "American Tapestry" sanctuary, a deliberate artistic reconstruction that blends multiple American experiences (colonial settlement, westward expansion, civil rights struggles, industrial labor conflicts) into a cohesive narrative. Her approach prioritizes emotional resonance and philosophical exploration over historical precision. Elena works primarily in physical construction—her sanctuary is a dedicated space habitat, a rotating cylinder with thirty kilometers of reconstructed American landscape. Occasionally, she creates augmented-only experiences for visitors who cannot travel, but her heart is in embodied presence.
+
+**Augmentation**: Elena uses external augmentation—visible glasses, bone-conduction audio, subvocal input via throat sensor. This is a deliberate choice, less common than cortical mesh but meaningful to her. When she removes her glasses, she experiences true cognitive solitude; her thoughts are unambiguously her own. For someone whose vocation involves helping others understand what it meant to be human before abundance, maintaining a clear boundary between self and technology feels essential. Her relationship with Echo is conversational rather than cognitive—they speak to each other, rather than thinking together.
 
 **Public Role (Idea 13)**: Elena is appointed **Canonical Lead** during the network’s “Quality & Safety Harmonization Sprint,” with her approach positioned as the recommended default across many sanctuaries.
 
@@ -37,6 +39,8 @@
 
 **Vocation**: Boundary archaeologist specializing in Oceanic cultures. She runs the "Lapita Horizons" sanctuary, which focuses on the reconstructed lifeways of Lapita peoples – ancient Pacific navigators and settlers. Her approach emphasizes meticulous historical accuracy and authentic reconstruction over artistic interpretation.
 
+Mira builds exclusively for embodied presence—she has never created a virtual-only or augmented-access experience. Her commitment to physical construction reflects her broader philosophy: if you're going to reconstruct Lapita navigation, visitors should feel the actual motion of waves (simulated by habitat systems), smell real salt air (manufactured to historical oceanic composition), and experience genuine fatigue from paddling. The fact that the gravity comes from rotation and the weather from algorithms doesn't trouble her—construction is honest. What she cannot abide is the idea that someone might "experience" Lapita seafaring while their body sits motionless in a chair on Earth. The embodiment *is* the experience.
+
 **Personality**: Methodical and precise, Mira values scientific rigor in her work. She's passionate about cultural preservation but can be uncompromising about what she sees as "sloppy" historical synthesis. Despite her precision, she's warm and collaborative with colleagues.
 
 **Motivations**: Mira believes that authentic reconstruction honors the specificity of cultural experiences and prevents the dilution of unique human stories in an era of global abundance. Her sanctuary serves as both an educational resource and a space for contemporary Pacific communities to connect with their deep heritage.
@@ -54,6 +58,8 @@
 
 **Age**: 55 (chronological), appears early 40s through maintenance treatments
 **Background**: Born in 1990, Jordan grew up in the pre-Convergence world of material scarcity and limited possibilities. He was an adult during the Great Convergence, founding **Agalmic Studios**—a game development company built around an early agalmic thesis:
+
+**Augmentation**: External augmentation—glasses and earbuds, like his daughter Elena. Jordan adopted this approach before cortical mesh became common and never saw reason to change. He values the experience of removing his devices and being alone with his thoughts, a rhythm he learned before augmentation existed. Some of his comfort with Elena's unconventional choice comes from modeling it first.
 
 - **Player-directed development** (players govern priorities; agency as product)
 - **AI-collapsed production costs** (creation becomes effectively non-rivalrous)
@@ -94,6 +100,8 @@ Jordan’s choice wasn’t “the” global solution; it was one influential pre
 **Age**: 26 (chronological), appears mid-20s
 **Background**: Born after the Great Convergence. She has never known material scarcity, only its stories and simulations. She moves through sanctuaries looking for something abundance can't provide: stakes that feel real.
 
+**Augmentation**: Cortical mesh, installed in late childhood like most of her generation. Solène has never experienced complete cognitive solitude—her thoughts have always had company, her attention always partially shared with information flows and AI assistance. She doesn't resent this; it's simply how consciousness works for her. But she sometimes wonders if her hunger for stakes, for experiences that feel *real*, is partly a hunger for the unaugmented inner life she's only read about. She has considered switching to external augmentation but hasn't committed—the transition would be disorienting, and she's not sure she'd recognize herself on the other side.
+
 **What She's Running From**: Solène grew up in a family that optimized for comfort. Her parents were early beneficiaries of the agalmic transition—grateful, relieved, determined that their children would never experience the anxiety they remembered. They succeeded. Solène's childhood was frictionless, curated, safe. She loved her parents and hated what their love produced in her: a hollowness she couldn't name until she started visiting sanctuaries in her late teens.
 
 The sanctuaries were supposed to help. Instead, they crystallized her problem: she was a tourist in other people's suffering. She could watch struggle, appreciate it aesthetically, and then leave. The exit was always there. She began to suspect that the exit was the disease.
@@ -128,6 +136,8 @@ Underneath the precision is something she guards carefully: she doesn't know if 
 
 **Age**: 47 (chronological), appears early 40s through maintenance treatments
 **Background**: Born in 2008, the Executive was a teenager during the Great Convergence. Old enough to remember scarcity, young enough to be shaped by the transition rather than traumatized by it. Their formative memory is not deprivation but *chaos*: the years when systems were failing and new ones hadn't yet stabilized, when people died not from poverty but from institutional gaps—a hospital that couldn't coordinate care, a food network that collapsed between old supply chains and new ones.
+
+**Augmentation**: Cortical mesh with some deep integration extensions—memory augmentation for institutional history, emotional regulation for high-stakes meetings, enhanced pattern recognition for data analysis. The Executive adopted neural augmentation early and eagerly, seeing it as another system to optimize their effectiveness. They experience AI assistance as an extension of their own cognition; the boundary between "their" thoughts and "assisted" thoughts is fuzzy and, to them, unimportant. Efficiency matters more than purity. They would find Elena's preference for external augmentation quaint, though they'd never say so.
 
 They became a systems-builder because they saw what happens when systems fail. They believe—genuinely, in their bones—that good process saves lives. The sanctuary network is their life's work: not because they love sanctuaries aesthetically, but because they love what the network *does*: provides access, ensures safety, prevents the arbitrary suffering that comes from inconsistency.
 
