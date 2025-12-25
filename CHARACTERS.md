@@ -69,7 +69,7 @@ Jordan’s choice wasn’t “the” global solution; it was one influential pre
 
 **Personality**: Practical and reflective, Jordan carries the wisdom of someone who lived through genuine scarcity. He's grateful for the abundant world but occasionally nostalgic for the intensity of purpose that struggle provided. He's not ideological about sanctuaries but values them as connection points between generations.
 
-**Role in Story**: Provides historical perspective and emotional support. His experiences ground the novel's exploration of generational differences without dominating the narrative. In the Canon Sprint, he recognizes the smell of “temporary measures” and capture-by-precedent: the fastest process wins, then becomes the new normal.
+**Role in Story**: Provides historical perspective and emotional support. His experiences ground the novel's exploration of generational differences without dominating the narrative. In the Canon Sprint, he recognizes the smell of "temporary measures" and capture-by-precedent—or as he calls it, *capture-by-tempo*: the fastest process wins, then becomes the new normal.
 
 **Relationships**: Elena's father, their relationship is loving but occasionally strained by different worldviews. Jordan respects Elena's vocation while gently questioning whether sanctuaries might romanticize struggle.
 
