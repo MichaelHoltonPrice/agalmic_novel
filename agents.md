@@ -22,6 +22,7 @@ If the writing feels confused, you are probably mixing agents.
 
 These files are authoritative:
 
+* `PREMISE.md` — why this novel exists and what it's trying to do
 * `WORLD.md` — how the universe works
 * `CHARACTERS.md` — who acts and why
 * `OUTLINE.md` — what is supposed to happen (loosely)
