@@ -58,8 +58,6 @@ Now they trusted each other. Not blindly—never blindly—but the way you trust
 
 Elena walked to the overlook she had built on a low rise, a place where visitors could stand and see the trail stretching west—or what passed for west in a rotating cylinder where the sun was a lighting rig and cardinal directions were artistic choices. The geography was composite—bits of Nebraska, Wyoming, Nevada compressed into a single vista that curved subtly upward if you knew where to look—but the emotional logic was true. This was where emigrants had stopped and looked at the distance still to travel and wondered if they would make it. Some of them hadn't. Their bones were scattered across a thousand miles, marked by wooden crosses that the weather had long since erased.
 
-# Here's an idea: at some point in the story, a visitor digs up a grave, wondering how realistic things are. There really is a skeleton in the grave. This shows the level of detail Elena builds in.
-
 She sat on a sandstone outcrop and let the wind move over her face. It smelled like sage and smoke and something she couldn't name, a green-gold scent that might have been optimism or might have been denial. She had spent six years building this place, layering detail onto detail until it felt less like a simulation and more like a scar—a wound in time that visitors could touch and, touching, understand something about themselves.
 
 That was the theory, anyway. In practice, she never knew what people took away. The sanctuary gave them raw material; they built their own meanings.
@@ -147,5 +145,3 @@ The message could wait. The Canonical Lead could wait. For now, there was work t
 The work of helping people feel.
 
 ---
-
-# The costly signal should be procedural. In particular, when she joined the network it was effectively licensing her IP. She retained the right to take it back, and it is her intent to releaase the IP -- her life work -- into the publicc domain. That is the costly signal. The IP does have economic value, though of course it is a drop in the bucket of the total solar ecconomy. The real cost is that this is what she's built in her chosen vocation. She will have to start over.
