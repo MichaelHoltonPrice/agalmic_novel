@@ -110,7 +110,7 @@ In Part III, the countdown brings everyone to the Axis:
 We open with Elena in her sanctuary, working with Echo on a visitor experience. She loves this work. We see her skill, her care, her aesthetic vision. A message arrives: she's been selected for recognition.
 
 ### Chapter 2 (Solène): The Visit
-We meet Solène visiting American Tapestry. First-person, present tense—immediate and visceral. She experiences Elena's work as both beautiful and wrong. She can't articulate why yet, but she feels it.
+We meet Solène visiting American Tapestry. First-person, present tense—immediate and visceral. She's still searching, still hoping sanctuaries might work. She experiences Elena's work as beautiful—undeniably so—but something is missing. She can't articulate what yet. The hunger remains, but she's not ready to call it a verdict. She's heard that some enclaves offer more permissive experiences; maybe she just hasn't found the right one.
 
 ### Chapter 3 (Executive): The Safety Case
 Open with the Executive in a management meeting, reviewing a case where a visitor was injured in a permissive-tier sanctuary experience. The visitor had signed consent agreements accepting physical risk; the injury was within the bounds of what they'd agreed to. But the sanctuary operators extracted her anyway, citing network policy. The visitor is now filing a complaint—not about the injury, but about the extraction. She wanted to see it through.
@@ -120,8 +120,14 @@ The Executive sees this as vindication: even when visitors consent, they don't f
 ### Chapter 4 (Elena): The Crown
 The announcement. Elena is crowned Canonical Lead. Congratulations that feel wrong. Mira's message: "We need to talk." Echo flags anomalies in the rollout data.
 
-### Chapter 5 (Solène): The Pattern
-She visits Lapita Horizons. Talks with Mira briefly—no connection, just professional courtesy. She leaves feeling the same hunger. The pattern is clear: sanctuaries are prosthetics for meaning.
+### Chapter 5 (Solène): The Incident
+She visits Lapita Horizons, drawn by its reputation for rigor and its permissive-tier options. She signs a consent agreement accepting real physical risk—injury possible, intervention only for life-threatening emergencies. She wants to feel what the ancient navigators felt.
+
+She is injured. A fall, a broken bone, manageable pain. For the first time, the flatness lifts. She feels *present*.
+
+And then they pull her out. The operators override her consent and extract her for treatment, citing network policy. She is healed within hours—but her belief that the network respects her choices is shattered. She agreed to risk. They decided for her that she couldn't.
+
+The pattern is now clear, and it's worse than she thought: sanctuaries aren't just prosthetics for meaning. They're cages dressed as playgrounds. The exit isn't optional; it's mandatory.
 
 ### Chapter 6 (Executive): The Rollout
 The rollout is working—adoption rates are good, satisfaction metrics are up. But pushback is emerging. The Executive doesn't understand: *We're making this better. Why are they resisting?*

@@ -108,13 +108,13 @@ Jordan’s choice wasn’t “the” global solution; it was one influential pre
 
 The sanctuaries were supposed to help. Instead, they crystallized her problem: she was a tourist in other people's suffering. She could watch struggle, appreciate it aesthetically, and then leave. The exit was always there. She began to suspect that the exit was the disease.
 
-**The Lapita Incident**: What transformed her suspicion into conviction happened at Lapita Horizons, during a permissive-tier navigation experience. She had signed a consent agreement allowing real physical risk—injury possible, intervention only for immediately life-threatening situations. She wanted to feel what the ancient navigators felt: the genuine possibility of failure, the stakes that made their achievements meaningful.
+**The Lapita Incident** (occurs during the story, around Chapter 5): What transforms her suspicion into conviction happens at Lapita Horizons, during a permissive-tier navigation experience. She signs a consent agreement allowing real physical risk—injury possible, intervention only for immediately life-threatening situations. She wants to feel what the ancient navigators felt: the genuine possibility of failure, the stakes that made their achievements meaningful.
 
-She was injured. A fall, a broken bone, manageable pain. Recovery was possible but not guaranteed to be quick or complete. She had accepted this. She was *living* this—and for the first time, the flatness was gone. She felt *present*.
+She is injured. A fall, a broken bone, manageable pain. Recovery is possible but not guaranteed to be quick or complete. She has accepted this. She is *living* this—and for the first time, the flatness is gone. She feels *present*.
 
-And then they pulled her out. The sanctuary operators, citing network policy, overrode her consent and extracted her for treatment. She was healed within hours. But something else broke that day: her belief that the network respected her choices. She had agreed to risk. She had wanted to see it through. They decided for her that she couldn't.
+And then they pull her out. The sanctuary operators, citing network policy, override her consent and extract her for treatment. She is healed within hours. But something else breaks that day: her belief that the network respects her choices. She agreed to risk. She wanted to see it through. They decided for her that she couldn't.
 
-This is what crystallized her critique. The network doesn't just curate suffering—it *protects* you from choosing to suffer, even when you've chosen deliberately. The exit isn't just available; it's *mandatory*. And that, she believes, is why sanctuaries can never give her what she needs.
+This is what crystallizes her critique. The network doesn't just curate suffering—it *protects* you from choosing to suffer, even when you've chosen deliberately. The exit isn't just available; it's *mandatory*. And that, she now believes, is why sanctuaries can never give her what she needs. Before Lapita, she suspected this. After Lapita, she knows it.
 
 **Vocation**: Public voice / organizer. She is not a boundary archaeologist; she's a critic of how sanctuaries can become refuge-as-avoidance. Before the Canon Sprint, she was a marginal figure—sharp essays with small audiences, occasional speaking invitations, a reputation for being "difficult." The Sprint gave her a target large enough to matter.
 
