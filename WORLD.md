@@ -19,7 +19,9 @@ Private ownership persists for personal items and some physical spaces. Essentia
 
 **Universal Basic Services**: Healthcare, housing, nutrition, and transportation are provided as public goods. Work is optional; people pursue vocations driven by passion rather than necessity. The funding comes primarily from the agalmic economy—where production costs are near-zero, the surplus flows to public benefit rather than private accumulation.
 
-**The Great Convergence**: The technological transformation occurred over just a handful of years, beginning around 2027. This remarkable time in human history—featuring many aspects of the so-called "singularity" of yore—felt strangely normal to those experiencing it, even as the world changed indelibly at incredible pace. The Star Trek future arrived as everyday reality. Those who lived through it remember the transition vividly; younger generations know it only through stories and sanctuaries.
+**The Great Convergence**: The technological transformation occurred over just a handful of years, beginning around 2027. This remarkable time in human history—featuring many aspects of the so-called "singularity" of yore—felt strangely normal to those experiencing it, even as the world changed indelibly at incredible pace. The Star Trek future arrived as everyday reality.
+
+The Convergence was not a rupture but an acceleration. Abundance had been growing for millennia—each generation, on average, living longer, healthier, and more comfortably than the last. The Convergence extended that trajectory rather than breaking from it. There was no collapse, no dark period, no chaos from which humanity emerged. The old systems didn't fail; they were gradually replaced by better ones, often before most people noticed the transition was happening. Those who lived through it remember the transition vividly—the wonder of it, the strangeness of everyday miracles becoming routine. Younger generations know it only through stories and sanctuaries.
 
 ## Human Biology and Longevity
 
@@ -41,7 +43,7 @@ Some choose visible glasses deliberately, as a statement about boundaries. Other
 
 **Peripheral Neural Interfaces**: Direct connections to sensory nerves—cochlear-style audio implants, retinal overlays via the optic nerve, haptic and proprioceptive interfaces. These don't touch the brain itself, only the "cables" leading to it. Higher bandwidth and lower latency than external devices, but still clearly *additions* rather than *integrations*. A popular middle ground.
 
-**Cortical Mesh**: The common choice. A biocompatible neural mesh grown throughout sensory and motor cortex via medical nanotechnology—self-repairing, seamlessly integrated. Usually installed in late childhood or young adulthood, a coming-of-age transition as routine as orthodontics once was. Provides seamless AR overlay, thought-based communication, instant knowledge access. The experience is less "talking to an AI" and more "thinking with expanded capacity."
+**Cortical Mesh** (commonly called "cortics"): The common choice. A biocompatible neural mesh grown throughout sensory and motor cortex via medical nanotechnology—self-repairing, seamlessly integrated. Usually installed in late childhood or young adulthood, a coming-of-age transition as routine as orthodontics once was. Provides seamless AR overlay, thought-based communication, instant knowledge access. The experience is less "talking to an AI" and more "thinking with expanded capacity."
 
 Cortical mesh can be "dimmed" or "quieted" but never truly switched off. Most users have never experienced complete cognitive solitude—their thoughts have always had company. This is neither good nor bad; it simply shapes how they experience consciousness.
 
@@ -64,6 +66,8 @@ Humanity has spread across the solar system. Earth remains home to billions, but
 Most space-based humanity lives in rotating habitats—evolved descendants of the O'Neill cylinder concept. These range from small community stations to continent-scale megastructures. The largest habitats offer county-sized or even state-sized interior spaces: genuine horizons, weather systems, ecosystems. A rotating cylinder thirty kilometers long can contain prairies, forests, mountain ranges, rivers—all constructed, all real.
 
 Construction is handled primarily by AI-directed automation. Materials come from asteroids and lunar sources, energy from solar collection, labor from AI systems that don't demand wages. This isn't truly agalmic—physical resources remain rivalrous—but the costs have fallen so dramatically that building a new habitat is a major project rather than an impossible dream.
+
+**The Flow of Goods**: The economics of space have inverted. Even with dramatically reduced launch costs, lifting mass from Earth's gravity well remains more expensive than sourcing from the Moon, asteroids, or orbital manufacturing. Most physical goods now flow *from* space *to* Earth, not the reverse. Earth exports people, culture, and the irreplaceable: biological samples, historical artifacts, experiences that require authentic terrestrial context. Space exports everything else.
 
 ### Relative Abundance
 
@@ -115,6 +119,24 @@ Not everyone travels. Sanctuaries also offer remote experiences through augmenta
 - **Deep integration users** can access experiences that modify emotional and cognitive states directly, though this raises questions about whether the experience remains meaningfully *theirs*.
 
 Virtual access is abundant and essentially unlimited. It serves as introduction, preparation, or alternative for those who cannot or choose not to travel physically. But the sanctuary community generally agrees: the physical experience carries something the virtual cannot fully replicate. Whether that "something" is real or merely the costly-signal effect of having made the journey is itself a matter of ongoing debate.
+
+### Risk, Autonomy, and the Limits of Care
+
+In a world where material danger has largely been eliminated, some people seek experiences that restore it—not because they're suicidal, but because they believe authentic stakes are necessary for authentic meaning. Sanctuaries exist on a spectrum of risk tolerance:
+
+**Safe experiences**: The vast majority. Emotional challenge without physical danger. Visitors may feel fear, grief, exhaustion—but they cannot be injured. Recovery is always available. This is the default, and what most visitors want.
+
+**Permissive experiences**: Some sanctuaries offer real physical risk under informed consent protocols. A visitor might agree to conditions where injury is possible, where recovery is not guaranteed to be immediate, where the experience will not be interrupted except for life-threatening emergencies. These are rarer, but they exist—and the people who seek them often have thought carefully about why.
+
+**The network's dilemma**: When a visitor consents to risk and then is harmed, what should happen? The network cannot prevent all harm without overriding visitor autonomy. But allowing harm—even consensual harm—creates questions about institutional responsibility, about what "care" means when the person being cared for has explicitly rejected protection.
+
+This is not a legal question. Consent protocols are robust; liability is clear. It's a *moral* question: Is it paternalistic to protect people from choices they've made deliberately? Is it negligent to allow harm you could have prevented? The network's operators do not agree on the answer. Policy is a thing to be reckoned with—but policy is also contested.
+
+AI systems handle quality assurance effectively. The network doesn't grow faster than it can be vetted. The issue is not competence or capacity; it's *philosophy*. What should sanctuaries be for? How much discomfort is growth, and how much is damage? Who decides?
+
+### Operator Visibility
+
+Sanctuary operators are sometimes visible to visitors during experiences. This is rare but within norms—some operators prefer to observe from within the reconstruction, maintaining the fiction through period-appropriate dress and behavior. Visitors may glimpse an operator adjusting environmental settings, conversing with an AI companion, or simply watching. For most visitors, this is unremarkable; the operator is part of the world they've entered.
 
 ### The Vocation of Boundary Archaeology
 

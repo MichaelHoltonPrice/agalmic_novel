@@ -25,6 +25,8 @@
 - In the Canon Sprint, she discovers her central ethical trap: her work can become **governance-by-prestige** without anyone openly choosing it.
 - Her decisive test is costly signaling: proving she is not defending her own status by **limiting her own power in public**.
 
+**The Costly Signal**: When Elena joined the network, she effectively licensed her intellectual property—American Tapestry's design principles, methodology, sensory calibrations—to the network infrastructure. She retained the right to withdraw that license. Her decisive act is to release all of it into the public domain: not licensing it back, but giving it away entirely. The IP has real economic value, though it's a drop in the bucket of the solar economy. The true cost is personal: this is her life's work, and she is abandoning it as *property*. Anyone can now build on it, modify it, compete with it. She will have to start over—not from nothing, but from a position where her past work no longer belongs to her in any exclusive sense. This is the signal: she is not defending her status, because she has destroyed the basis of that status.
+
 **Relationships**:
 - **Mira Chen**: Her closest friend and professional counterpart. Their contrasting approaches create ongoing creative tension and mutual respect. The Canon Sprint tests their friendship: Mira sees Elena as complicit until Elena proves otherwise.
 - **Echo**: Her personal AI companion, a close friend who has grown alongside her and provides vast intelligence and knowledge. Echo can see the manipulation patterns; Elena must decide what to do about them.
@@ -106,6 +108,14 @@ Jordan’s choice wasn’t “the” global solution; it was one influential pre
 
 The sanctuaries were supposed to help. Instead, they crystallized her problem: she was a tourist in other people's suffering. She could watch struggle, appreciate it aesthetically, and then leave. The exit was always there. She began to suspect that the exit was the disease.
 
+**The Lapita Incident**: What transformed her suspicion into conviction happened at Lapita Horizons, during a permissive-tier navigation experience. She had signed a consent agreement allowing real physical risk—injury possible, intervention only for immediately life-threatening situations. She wanted to feel what the ancient navigators felt: the genuine possibility of failure, the stakes that made their achievements meaningful.
+
+She was injured. A fall, a broken bone, manageable pain. Recovery was possible but not guaranteed to be quick or complete. She had accepted this. She was *living* this—and for the first time, the flatness was gone. She felt *present*.
+
+And then they pulled her out. The sanctuary operators, citing network policy, overrode her consent and extracted her for treatment. She was healed within hours. But something else broke that day: her belief that the network respected her choices. She had agreed to risk. She had wanted to see it through. They decided for her that she couldn't.
+
+This is what crystallized her critique. The network doesn't just curate suffering—it *protects* you from choosing to suffer, even when you've chosen deliberately. The exit isn't just available; it's *mandatory*. And that, she believes, is why sanctuaries can never give her what she needs.
+
 **Vocation**: Public voice / organizer. She is not a boundary archaeologist; she's a critic of how sanctuaries can become refuge-as-avoidance. Before the Canon Sprint, she was a marginal figure—sharp essays with small audiences, occasional speaking invitations, a reputation for being "difficult." The Sprint gave her a target large enough to matter.
 
 **Personality**: Emotionally precise, socially fearless, allergic to therapeutic framing. She can be cruel in her clarity, but she's rarely sloppy. She speaks in complete sentences and doesn't soften her conclusions. People find her either electrifying or exhausting; there is no middle ground.
@@ -132,39 +142,40 @@ Underneath the precision is something she guards carefully: she doesn't know if 
 
 *POV Style: Close third, present tense — institutional voice, real-time pressure*
 
-*Note on naming: The Executive remains unnamed throughout the novel. This is a deliberate choice: they represent a type (the sincere institutionalist) more than an individual, and the unnamed voice reinforces their self-conception as a steward rather than a protagonist. In their own chapters, they think of themselves as "the Executive" or simply don't self-reference—the institution speaks through them.*
+*Note on naming: The Executive remains unnamed throughout the novel. This is a deliberate choice: he represents a type (the sincere institutionalist) more than an individual, and the unnamed voice reinforces his self-conception as a steward rather than a protagonist. In his own chapters, he thinks of himself as "the Executive" or simply doesn't self-reference—the institution speaks through him.*
 
-**Age**: 47 (chronological), appears early 40s through maintenance treatments
-**Background**: Born in 2008, the Executive was a teenager during the Great Convergence. Old enough to remember scarcity, young enough to be shaped by the transition rather than traumatized by it. Their formative memory is not deprivation but *chaos*: the years when systems were failing and new ones hadn't yet stabilized, when people died not from poverty but from institutional gaps—a hospital that couldn't coordinate care, a food network that collapsed between old supply chains and new ones.
+*Note on nature: The novel never specifies whether the Executive is human, AI, hybrid, or something else entirely. His perspective is rendered in human-legible terms, but this may be translation rather than essence. Readers can interpret as they wish. What matters is not what he is, but what he believes and how he acts.*
 
-**Augmentation**: Cortical mesh with some deep integration extensions—memory augmentation for institutional history, emotional regulation for high-stakes meetings, enhanced pattern recognition for data analysis. The Executive adopted neural augmentation early and eagerly, seeing it as another system to optimize their effectiveness. They experience AI assistance as an extension of their own cognition; the boundary between "their" thoughts and "assisted" thoughts is fuzzy and, to them, unimportant. Efficiency matters more than purity. They would find Elena's preference for external augmentation quaint, though they'd never say so.
+**Background**: The Executive has held his role for twelve years, shepherding the network through three major expansions and two near-crises. He is proud of his record. He has never had a scandal. His history before this role is not explored; the institution is his context, and he has fully inhabited it.
 
-They became a systems-builder because they saw what happens when systems fail. They believe—genuinely, in their bones—that good process saves lives. The sanctuary network is their life's work: not because they love sanctuaries aesthetically, but because they love what the network *does*: provides access, ensures safety, prevents the arbitrary suffering that comes from inconsistency.
+He believes—genuinely, in whatever passes for his bones—that most people underestimate consequences. That informed consent is often neither informed nor consent. That care sometimes means protecting people from choices they would regret if they survived them. Where this conviction comes from is never explained. It simply *is*—as fundamental to him as the drive to optimize, to coordinate, to make systems work.
 
-**Vocation**: Executive lead of the sanctuary network's Operating Company. Responsible for "Quality & Safety Harmonization." They have held this role for twelve years, shepherding the network through three major expansions and two near-crises. They are proud of their record. They have never had a scandal.
+**Vocation**: Executive lead of the sanctuary network's Operating Company. Responsible for "Quality & Safety Harmonization."
 
-**Personality**: Calm, competent, not a cartoon villain. They speak in care-language because they mean it—and because it wins. They are excellent at meetings: patient, prepared, able to reframe opposition as concern-to-be-addressed. They rarely raise their voice. They rarely need to.
+**Personality**: Calm, competent, not a cartoon villain. He speaks in care-language because he means it—and because it wins. He is excellent at meetings: patient, prepared, able to reframe opposition as concern-to-be-addressed. He rarely raises his voice. He rarely needs to.
 
-They have a blind spot they cannot see: they believe that *process legitimacy* and *outcome quality* are the same thing. If the process is open, the outcome is fair. If the outcome is good, the process was justified. They cannot quite grasp that a process can be formally open and substantively closed—that tempo and reputation can do the work of coercion while every rule is followed.
+He has a blind spot he cannot see: he believes that *process legitimacy* and *outcome quality* are the same thing. If the process is open, the outcome is fair. If the outcome is good, the process was justified. He cannot quite grasp that a process can be formally open and substantively closed—that tempo and reputation can do the work of coercion while every rule is followed.
 
-**Motivations**: The Executive believes standardization improves access, prevents harm, and reduces the "arbitrary suffering" created by inconsistent sanctuary practices. They genuinely fear a scandal that could delegitimize the entire network—not for their career, but because they've seen what happens when people lose trust in institutions. The network is fragile in ways outsiders don't understand. One bad incident, one viral harm story, and the whole ecosystem could fracture.
+**Motivations**: The Executive believes standardization improves access, prevents harm, and protects people from choices they haven't fully thought through. He genuinely fears what happens when institutions allow harm they could have prevented—not for his career, but because he understands, at some deep level, what that allowance costs. The network is fragile in ways outsiders don't understand. One death, one viral harm story, and the whole ecosystem could fracture.
 
-They also have a personal stake they don't fully acknowledge: they chose Elena's approach as the default because it *works*. Visitor satisfaction is high. Safety incidents are low. The data supports the choice. They believe they are being objective. They do not see that "what works" is already a value judgment, or that satisfaction metrics measure comfort, not growth.
+The deeper motivation he doesn't fully acknowledge: he wants to make it harder for anyone to choose irreversible harm. If the network's default is safety, if permissive experiences require justification rather than restriction requiring justification, then fewer people will choose risk. He believes this is protection. Others call it paternalism. He doesn't see the difference.
+
+He also chose Elena's approach as the default because it *works*. Visitor satisfaction is high. Safety incidents are low. The data supports the choice. He believes he is being objective. He does not see that "what works" is already a value judgment, or that satisfaction metrics measure comfort, not growth.
 
 **Conflicts**:
-- Their sincere desire for safety and access makes them prone to paternalism. They use tempo and reputational pressure as "necessary tools" without recognizing them as weapons.
-- They cannot understand why people resist something that helps them. This bafflement is genuine, not performed.
-- When Elena refuses the crown on stage, they feel *betrayed*—they gave her a gift, and she threw it back as accusation. But they also feel doubt for the first time: *What if we moved too fast?*
-- After the Canon Vote fails, they must reckon with a new question: they weren't wrong to care, but they were wrong about method. What does that mean for everything they've built?
+- His sincere desire to protect makes him prone to paternalism. He uses tempo and reputational pressure as "necessary tools" without recognizing them as weapons.
+- He cannot understand why people resist something that helps them. This bafflement is genuine, not performed.
+- When Elena refuses the crown on stage, he feels *betrayed*—he gave her a gift, and she threw it back as accusation. But he also feels doubt for the first time: *What if we moved too fast?*
+- After the Canon Vote fails, he must reckon with a new question: he wasn't wrong to care, but he was wrong about method. What does that mean for everything he's built?
 
-**Arc**: The Executive begins the novel confident in their mission and their methods. They end it running the Pluralism Covenant—the same dedication to care, channeled through a process that resists capture. They have not changed their values; they have changed their understanding of what their values require.
+**Arc**: The Executive begins the novel confident in his mission and his methods. He ends it running the Pluralism Covenant—the same dedication to care, channeled through a process that resists capture. He has not changed his values; he has changed his understanding of what his values require.
 
 **Relationships**:
-- **Elena Smith**: Initially a tool—the acceptable face of standardization. Later, a source of confusion. The Executive cannot understand why Elena would sabotage her own success. When Elena offers them the Covenant implementation role, the Executive realizes: Elena saw something in them worth preserving. This is uncomfortable.
+- **Elena Smith**: Initially a tool—the acceptable face of standardization. Later, a source of confusion. The Executive cannot understand why Elena would sabotage her own success. When Elena offers him the Covenant implementation role, he realizes: Elena saw something in him worth preserving. This is uncomfortable.
 - **Mira Chen**: A problem to be managed. The Executive respects Mira's rigor but categorizes her objections as "methodological" rather than "legitimate." This is a mistake.
-- **Solène**: An irritant, then a threat, then—unexpectedly—a source of pity. The Executive sees Solène's explosion as proof of immaturity. Later, watching Solène let someone stay during Unscripted Week, the Executive thinks: *She's not as hard as she pretends.* This is the closest they come to understanding her.
-- **The Guardian Triad**: The Executive sees the Triad as a legitimacy mechanism, not as individuals. They present data to it, not arguments. This is another mistake.
-- **Their team**: The Executive cares about their staff, protects them from political crossfire, takes responsibility for institutional failures. They are a good boss. This makes them harder to oppose—and harder to see clearly.
+- **Solène**: An irritant, then a threat, then—unexpectedly—a source of recognition. He sees in her hunger for risk something that disturbs him at a level he cannot fully articulate. She *wants* what he has spent his career trying to prevent. This is why she frightens him. Later, watching Solène let someone stay during Unscripted Week, he thinks: *She's not as hard as she pretends.* This is the closest he comes to understanding her.
+- **The Guardian Triad**: The Executive sees the Triad as a legitimacy mechanism, not as individuals. He presents data to it, not arguments. This is another mistake.
+- **His team**: The Executive cares about his staff, protects them from political crossfire, takes responsibility for institutional failures. He is a good boss. This makes him harder to oppose—and harder to see clearly.
 
 ## The Guardian Triad (Canon Sprint decision body)
 

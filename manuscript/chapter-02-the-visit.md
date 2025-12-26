@@ -50,19 +50,27 @@ I admire it. I recognize what it's doing to me. And in recognizing it, I step ou
 
 The exit is always there. I could leave right now—walk back to the entry gate, take a pod to the station, be on Earth by tomorrow. Nothing is stopping me. Nothing is at stake. The girl will die whether I watch or not, and her death will mean exactly what it was designed to mean, no more and no less.
 
+# Could she be back on earth by tomorrow? Let's double check the lore here
+
 I came here to feel something real. I'm feeling something beautiful.
 
 I don't know if that's the same thing.
 
+# The experiences don't seem very active or interactive. Is that okay? Maybe it's a sign of the curration / quintessentialization philosophy?
+
 ---
 
 Later, I climb a low rise to get a better view of the trail.
+
+# In the following, I think the bleeding wouldn't be something she outright knows. She wonders, and here cortics tell her. Let's make this jargon canon: people use cortics as shorthand for cortical mesh.
 
 The geography is composite—I can see the seams if I know where to look. Nebraska prairie bleeding into Wyoming foothills bleeding into Nevada alkali flats. The designers have compressed a thousand miles into thirty kilometers, prioritizing emotional logic over cartographic accuracy. It works, mostly. The sense of distance is real. The sense of exhaustion is real. The sense of hope-against-odds is real.
 
 But the hope is on loan. The exhaustion is optional. And the distance is measured in habitat rotation, not human endurance.
 
 A woman stands on a rise across from me, maybe half a kilometer away. She's dressed in period clothing—wool trousers, rough-spun shirt, boots that have been aged to look like they've walked a thousand miles. She seems to be talking to the air, gesturing occasionally, her posture that of someone in conversation with an invisible partner.
+
+# Would it be normal for workers to be visible? We need to think about this.
 
 She belongs here in a way I don't. Not because of the costume—I could dress like that if I wanted—but because of how she *moves*. She's not visiting. She's not observing. She's *working*. This is her place. She made it.
 
@@ -97,3 +105,4 @@ It's not enough. I don't know if anything ever will be.
 ---
 
 
+# Tying into my comments  on the next chapter, what if Solène experiencces a serious injury in the Lapita sanctuary -- one that is realistic and she could recover from, at least in principle, but for which recovery is not guaranteed. The people running the sanctuary unilaterally take her out, which she is unhappy with because she thinks it violates what she agreed to going in -- a quite permissisve, voluntary agreement to only respond to immediate, life threatening situations.

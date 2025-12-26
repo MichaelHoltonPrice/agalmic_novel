@@ -35,6 +35,8 @@ This novel rejects the lazy inversion (utopia revealed as dystopia). Instead, it
 
 6. **Novel threats** — Things abundance doesn't solve: entropy, contact with the unlike, the unknown.
 
+7. **Autonomy versus paternalism** — When care becomes control. In a world that can protect you from almost anything, who decides what you need protection from? The tension between respecting choices and preventing regret. The question of whether informed consent is ever truly informed, and whether that matters.
+
 ---
 
 ## Tone
