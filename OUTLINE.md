@@ -119,7 +119,7 @@ In Part III, the countdown brings everyone to the Axis:
 *Traditional chapter structure. POVs operate in their own temporal rhythms.*
 
 ### Chapter 1 (Elena): The Sanctuary
-We open with Elena in her sanctuary, working with Echo on a visitor experience. She loves this work. We see her skill, her care, her aesthetic vision. A routine notification arrives—governance proposal, nothing urgent. She almost dismisses it.
+We open with Elena in her sanctuary, working with Echo on a visitor experience. She loves this work. We see her skill, her care, her aesthetic vision. The chapter establishes her world before the crisis arrives.
 
 ### Chapter 2 (Solène): The Visit
 We meet Solène visiting American Tapestry. First-person, present tense—immediate and visceral. She's still searching, still hoping sanctuaries might work. She experiences Elena's work as beautiful—undeniably so—but something is missing. She can't articulate what yet. The hunger remains, but she's not ready to call it a verdict. She's heard that some enclaves offer more permissive experiences; maybe she just hasn't found the right one.
@@ -138,7 +138,7 @@ They pull her out anyway, citing network policy. She is extracted, healed within
 
 ### Chapter 4 (Elena): The Proposal
 
-Elena returns to the governance notification. Echo flags something: the timeline is compressed. Sanctuaries that typically take weeks to evaluate proposals are approving in days. Something feels off.
+A governance notification arrives—Echo immediately flags it as significant. A new proposal with an attached manifesto, already accumulating approvals at unusual speed. Elena reads it and recognizes her philosophy being described, encoded, chosen as the network's mandatory standard.
 
 She reads the attached manifesto—*Toward a Philosophy of Sanctuary Design*. The language is reasonable, thoughtful. Two traditions: Historical Fidelity vs. Essential Experience. Safety implications, consent architecture. All framed as productive debate.
 

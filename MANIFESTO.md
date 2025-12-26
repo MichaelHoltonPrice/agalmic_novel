@@ -43,7 +43,7 @@ This tradition accepts that raw experience can obscure its own significance. A v
 
 Proponents argue that fidelity without accessibility is indulgence. If visitors cannot hold the experience, they cannot learn from it. The past is honored not by replication but by understanding.
 
-**This is our tradition. This is what our network exists to provide.**
+**Quintessential experience is our tradition. This is what our network exists to provide.**
 
 ---
 
