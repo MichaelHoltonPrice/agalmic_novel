@@ -167,11 +167,19 @@ Sanctuaries are locally authored, but many participate in umbrella networks that
 
 Because sanctuaries shape meaning and identity, network governance tends to be conflict-prone in a post-scarcity way: the fight is rarely about money, and often about **legitimacy, tempo, and what counts as harm**.
 
-#### Harmonization Sprints
-Periodically, a network runs rapid alignment initiatives to standardize baseline practices across sanctuaries (especially around consent, safety constraints, and accessibility). These efforts can be genuinely protective—but they create a structural risk: **tempo can become a weapon**, turning “recommended defaults” into de facto canon before slow dissent can organize.
+#### Philosophical Manifestos
+Networks periodically produce philosophical framing documents that articulate tensions within the community—different traditions of practice, competing values, unresolved debates. These manifestos don't name individuals; they describe approaches. But informed practitioners can decode which philosophy maps to whom. A manifesto can seem like neutral intellectual work while quietly preparing the ground for governance changes.
 
-#### The Canon Vote (legitimacy ritual)
-When a proposed standard would effectively set a cultural default across the network, some charters require a high-friction decision: a binding vote with audit and reversal provisions. The novel’s primary network uses a small Guardian voting panel (a “triad”) that includes an AI seat constrained toward auditability and reversibility.
+#### Governance Proposals
+When a network wants to standardize practices, it does so through formal proposals: numbered documents with procedural language, implementation timelines, and varying degrees of flexibility. Some proposals establish defaults with variance procedures; others mandate requirements as conditions of membership. The language is often neutral ("codifying existing values," "clarifying network identity"), but the effects can be exclusionary.
+
+The structural risk: **tempo can become a weapon**. A compressed timeline—45 days instead of 180—can push a proposal through before slow dissent can organize. Every rule may be followed while the outcome is effectively predetermined.
+
+#### The Binding Vote (legitimacy ritual)
+When a proposed standard would significantly constrain network membership or exclude existing approaches, some charters require a high-friction decision: a binding vote with audit and reversal provisions. The novel's primary network uses a small Guardian voting panel (a "triad") that includes an AI seat constrained toward auditability and reversibility.
+
+#### Smart Contracts as Commitment Devices
+In an agalmic economy, talk can be cheap. When someone wants to make a costly signal—to prove their commitment is genuine, not strategic—they can use cryptographically locked contracts that execute automatically based on external conditions. These commitments cannot be revoked or renegotiated. They function as the post-scarcity equivalent of burning boats: by removing the option to retreat, they make words expensive.
 
 ## Cultural and Social Dynamics
 

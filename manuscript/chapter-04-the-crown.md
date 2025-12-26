@@ -98,6 +98,8 @@ A pause. Then: "I should clarify. I flagged patterns that *could* be anomalies, 
 
 "That interpretation is also consistent with the data."
 
+# And now someone wanted to make it everyone's: this does not jive. It's Elena what ultimately intends to make her IP every ones. The canonization of quintessentialization has nothing to do with Elena's specific IP.
+
 Elena sat down on the sandstone outcrop. The stars wheeled slowly overhead—not real motion, just simulation, but convincing enough that her body responded as if the sky were actually turning. She had made this place. Every detail, every stone, every star position. And now someone wanted to make it everyone's.
 
 "The ceremony is in nine days," she said. "I have to decide what I'm going to do."
@@ -154,7 +156,9 @@ Elena watched American Tapestry shrink in the viewport, the cylinder's interior 
 
 Somewhere behind her, in a reconstructed tent on a reconstructed prairie, a dying girl was waking up to a morning she wouldn't see many more of. Elena had made that, too. The death and the hope and the bitter dust that tasted like failure.
 
+# I love this sentence:
 She wondered what it would feel like when everyone's sanctuaries tasted the same.
 
 ---
 
+# Overall, I feel this chapter is too much telling and not enough showing. We should consider getting some of the tension and ideas out in dialogue, not internal monologue. I'm also not sure I like the ceremony aspect of it. This is a protocol. There is an important event -- an idea, or motion, passing, but I like how procedure is so central. I'm not sure ceremony needs to be there.
