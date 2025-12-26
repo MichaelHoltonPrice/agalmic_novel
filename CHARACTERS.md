@@ -39,9 +39,9 @@
 **Age**: 29 (chronological), appears late 20s
 **Background**: Born in 2016, Mira also experienced the Great Convergence as a child, but her family background in Pacific Islander communities shaped her interest in indigenous histories. Not genetically related to Elena, their friendship formed during early training in boundary archaeology.
 
-**Vocation**: Boundary archaeologist specializing in Oceanic cultures. She runs the "Lapita Horizons" sanctuary, which focuses on the reconstructed lifeways of Lapita peoples – ancient Pacific navigators and settlers. Her approach emphasizes meticulous historical accuracy and authentic reconstruction over artistic interpretation.
+**Vocation**: Boundary archaeologist specializing in Oceanic cultures. She runs the "Lapita Horizons" sanctuary, which reconstructs the lifeways of Lapita peoples holistically—not just their famous voyaging, but the full texture of island existence: taro cultivation, pandanus weaving, coconut harvesting, reef fishing, weather reading, and yes, the open-ocean navigation that connected their world. Her approach emphasizes meticulous historical accuracy and authentic reconstruction over artistic interpretation.
 
-Mira builds exclusively for embodied presence—she has never created a virtual-only or augmented-access experience. Her commitment to physical construction reflects her broader philosophy: if you're going to reconstruct Lapita navigation, visitors should feel the actual motion of waves (simulated by habitat systems), smell real salt air (manufactured to historical oceanic composition), and experience genuine fatigue from paddling. The fact that the gravity comes from rotation and the weather from algorithms doesn't trouble her—construction is honest. What she cannot abide is the idea that someone might "experience" Lapita seafaring while their body sits motionless in a chair on Earth. The embodiment *is* the experience.
+Mira builds exclusively for embodied presence—she has never created a virtual-only or augmented-access experience. Her commitment to physical construction reflects her broader philosophy: if you're going to reconstruct Lapita lifeways, visitors should feel the humidity that never lifts, smell real salt air (manufactured to historical oceanic composition), and experience genuine fatigue from the daily labor of island survival. The fact that the gravity comes from rotation and the weather from algorithms doesn't trouble her—construction is honest. What she cannot abide is the idea that someone might "experience" Lapita life while their body sits motionless in a chair on Earth. The embodiment *is* the experience.
 
 **Personality**: Methodical and precise, Mira values scientific rigor in her work. She's passionate about cultural preservation but can be uncompromising about what she sees as "sloppy" historical synthesis. Despite her precision, she's warm and collaborative with colleagues.
 
@@ -53,8 +53,7 @@ Mira builds exclusively for embodied presence—she has never created a virtual-
 
 **Relationships**:
 - **Elena Smith**: Her closest friend despite their methodological differences. Their debates are legendary in the boundary archaeology community.
-- **Echo**: Works with Echo on cross-cultural pattern recognition, particularly interested in how Lapita navigation techniques might inform modern understanding of human cognition.
-- **Solène**: Uneasy ally at moments; Solène says the quiet part out loud in ways Mira won’t, but Solène’s contempt for “meaning prosthetics” sometimes insults what Mira values.
+- **Solène**: Uneasy ally at moments; Solène says the quiet part out loud in ways Mira won't, but Solène's contempt for "meaning prosthetics" sometimes insults what Mira values.
 
 ## Secondary Character: Jordan Smith
 
@@ -108,9 +107,9 @@ Jordan’s choice wasn’t “the” global solution; it was one influential pre
 
 The sanctuaries were supposed to help. Instead, they crystallized her problem: she was a tourist in other people's suffering. She could watch struggle, appreciate it aesthetically, and then leave. The exit was always there. She began to suspect that the exit was the disease.
 
-**The Lapita Incident** (occurs during the story, around Chapter 5): What transforms her suspicion into conviction happens at Lapita Horizons, during a permissive-tier navigation experience. She signs a consent agreement allowing real physical risk—injury possible, intervention only for immediately life-threatening situations. She wants to feel what the ancient navigators felt: the genuine possibility of failure, the stakes that made their achievements meaningful.
+**The Lapita Incident** (occurs in Chapter 3; the Executive reviews this same case in Chapter 5): What transforms her suspicion into conviction happens at Lapita Horizons, during a permissive-tier immersion in reconstructed Lapita lifeways. Readers experience the incident viscerally through Solène's first-person POV before seeing it reduced to a case file in the Executive's chapter—the same event, two lenses. She signs a consent agreement allowing real physical risk—injury possible, intervention only for immediately life-threatening situations. She wants to feel what the Lapita people felt: a life where consequences were real.
 
-She is injured. A fall, a broken bone, manageable pain. Recovery is possible but not guaranteed to be quick or complete. She has accepted this. She is *living* this—and for the first time, the flatness is gone. She feels *present*.
+She is injured climbing a coconut palm—grip slipping, body twisting wrong, a hard fall. A broken bone, manageable pain. Recovery is possible but not guaranteed to be quick or complete. She has accepted this. She is *living* this—and for the first time, the flatness is gone. She feels *present*.
 
 And then they pull her out. The sanctuary operators, citing network policy, override her consent and extract her for treatment. She is healed within hours. But something else breaks that day: her belief that the network respects her choices. She agreed to risk. She wanted to see it through. They decided for her that she couldn't.
 

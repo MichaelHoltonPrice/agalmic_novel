@@ -82,7 +82,7 @@ But echoes aren't the thing itself. Or maybe they are, and I just can't hear the
 
 I've been doing this for years now. Visiting sanctuaries. Hoping that this time, *this* time, something will catch. That the curated experience will somehow transmit what I'm missing, that I'll find in these careful reconstructions whatever it is that my parents' generation found in actual scarcity.
 
-It hasn't happened yet. But I'm not done looking. Lapita Horizons is next on my list—Pacific navigation, Mira Chen's place. Different culture, different methodology. Maybe that's what I need. A change of scenery.
+It hasn't happened yet. But I'm not done looking. Lapita Horizons is next on my list—Pacific island lifeways, Mira Chen's place. Different culture, different methodology. Maybe that's what I need. A change of scenery.
 
 The question settles over me as the pod accelerates toward the transit station: *Is the problem the sanctuaries, or is the problem me?*
 

@@ -81,7 +81,7 @@ The novel moves between Earth and orbital space. Understanding where scenes occu
 
 **American Tapestry** (Elena's sanctuary): A dedicated space habitat—a rotating cylinder roughly thirty kilometers in length, its interior landscaped with composite American historical environments. Elena lives and works here. The habitat orbits in the inner solar system, roughly a day's transit from Earth.
 
-**Lapita Horizons** (Mira's sanctuary): Another dedicated cylinder, this one reconstructing Pacific island environments and Lapita-era navigation conditions. Located in a different orbital position; travel between sanctuaries takes one to three days depending on current positions.
+**Lapita Horizons** (Mira's sanctuary): Another dedicated cylinder, this one reconstructing Pacific island environments and holistic Lapita-era lifeways—daily labor, material culture, and the voyaging that connected their world. Located in a different orbital position; travel between sanctuaries takes one to three days depending on current positions.
 
 **The Axis** (Network administrative hub): A large multi-use station in Earth orbit serving as the Operating Company's headquarters. The Crowning Ceremony and Canon Vote take place here—neutral ground, accessible from both Earth and the sanctuary network. Most institutional scenes (Executive's meetings, Guardian Triad deliberations) occur on the Axis.
 
@@ -112,22 +112,40 @@ We open with Elena in her sanctuary, working with Echo on a visitor experience. 
 ### Chapter 2 (Solène): The Visit
 We meet Solène visiting American Tapestry. First-person, present tense—immediate and visceral. She's still searching, still hoping sanctuaries might work. She experiences Elena's work as beautiful—undeniably so—but something is missing. She can't articulate what yet. The hunger remains, but she's not ready to call it a verdict. She's heard that some enclaves offer more permissive experiences; maybe she just hasn't found the right one.
 
-### Chapter 3 (Executive): The Safety Case
-Open with the Executive in a management meeting, reviewing a case where a visitor was injured in a permissive-tier sanctuary experience. The visitor had signed consent agreements accepting physical risk; the injury was within the bounds of what they'd agreed to. But the sanctuary operators extracted her anyway, citing network policy. The visitor is now filing a complaint—not about the injury, but about the extraction. She wanted to see it through.
+### Chapter 3 (Solène): The Incident
 
-The Executive sees this as vindication: even when visitors consent, they don't fully understand consequences. The network was right to intervene. His team is less certain. The debate reveals the network's internal disagreement about autonomy versus protection. The Executive believes standardization—making Elena's careful approach the default—will resolve this tension by making permissive experiences the exception rather than the norm. He believes this is care. The Sprint is care-work.
+*Note: Back-to-back Solène chapters are intentional. Her journey from American Tapestry to Lapita Horizons forms one continuous experiential arc. Readers live through the extraction before seeing the Executive's institutional review—making his clinical summary land as irony rather than foreshadowing.*
+
+She arrives at Lapita Horizons seeking something the prairie couldn't give her. The sensory world shifts: salt and iodine replace alkaline dust; the weight of tropical humidity replaces dry prairie wind; reef-sand between her toes replaces grit in boot seams. Mira Chen's sanctuary reconstructs Lapita lifeways holistically—not just the famous voyaging, but the daily work of island existence. Weaving pandanus, tending taro gardens, reading weather in cloud formations, climbing for coconuts.
+
+Solène signs a permissive-tier consent agreement: real physical risk, intervention only for life-threatening emergencies. She wants to feel what the Lapita people felt—a life where consequences were real.
+
+The experience delivers. Muscle fatigue that doesn't lift. Sunburn the habitat doesn't heal. Hands raw from fiber-work. The particular exhaustion of labor that serves survival, not performance. For days, she is *present* in a way the prairie couldn't provide. The flatness recedes.
+
+And then she climbs for a coconut. The trunk is rough under her hands and thighs, the technique unfamiliar despite the training. She's twenty feet up when her grip slips—the bark scraping her palms, her body twisting wrong as she falls. She lands hard. An ankle folded beneath her, a bone that cracks instead of bends. Manageable pain—she's had worse in safe-tier experiences, procedurally dampened. But this time the pain is *real*, and strangely, that reality is what she wanted.
+
+She is ready to continue. She signed for this. The consent was informed.
+
+They pull her out anyway. The operators override her agreement, citing network policy. She is extracted, healed within hours, returned to the abundance that erases all consequence.
+
+Her belief that the network respects her choices shatters. She agreed to risk. She wanted to see it through. They decided for her that she couldn't.
+
+The pattern is now clear, and it's worse than she thought: sanctuaries aren't just prosthetics for meaning. They're cages dressed as playgrounds. The exit isn't optional; it's mandatory.
 
 ### Chapter 4 (Elena): The Crown
 The announcement. Elena is crowned Canonical Lead. Congratulations that feel wrong. Mira's message: "We need to talk." Echo flags anomalies in the rollout data.
 
-### Chapter 5 (Solène): The Incident
-She visits Lapita Horizons, drawn by its reputation for rigor and its permissive-tier options. She signs a consent agreement accepting real physical risk—injury possible, intervention only for life-threatening emergencies. She wants to feel what the ancient navigators felt.
+### Chapter 5 (Executive): The Safety Case
 
-She is injured. A fall, a broken bone, manageable pain. For the first time, the flatness lifts. She feels *present*.
+*Note: This is the same incident readers experienced viscerally in Chapter 3—now seen through institutional eyes. The Executive's clinical summary of "the Lapita case" reveals how bureaucratic framing erases individual experience.*
 
-And then they pull her out. The operators override her consent and extract her for treatment, citing network policy. She is healed within hours—but her belief that the network respects her choices is shattered. She agreed to risk. They decided for her that she couldn't.
+The Executive reviews a case from his management queue: a visitor at Lapita Horizons, injured during a permissive-tier immersion experience. She had signed consent agreements accepting physical risk; the injury was within the bounds of what she'd agreed to. But the sanctuary operators extracted her anyway, citing network policy. The visitor is now filing a complaint—not about the injury, but about the extraction. She wanted to see it through.
 
-The pattern is now clear, and it's worse than she thought: sanctuaries aren't just prosthetics for meaning. They're cages dressed as playgrounds. The exit isn't optional; it's mandatory.
+The Executive sees this as vindication: even when visitors consent, they don't fully understand consequences. The network was right to intervene. His team is less certain. The debate reveals the network's internal disagreement about autonomy versus protection.
+
+The case file contains details readers will recognize: Lapita Horizons, a fall from a coconut palm, a broken bone, "manageable pain," extraction over objection. The Executive reviews it as one case among many. He does not know this visitor's name. He does not know she is about to become his most vocal critic.
+
+He believes standardization—making Elena's careful approach the default—will resolve this tension by making permissive experiences the exception rather than the norm. He believes this is care. The Sprint is care-work.
 
 ### Chapter 6 (Executive): The Rollout
 The rollout is working—adoption rates are good, satisfaction metrics are up. But pushback is emerging. The Executive doesn't understand: *We're making this better. Why are they resisting?*
