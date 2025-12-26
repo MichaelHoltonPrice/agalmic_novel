@@ -44,9 +44,9 @@ Then the pounding begins. We'll work this tree for three days, breaking down the
 
 She doesn't offer help. She doesn't tell me to slow down. She just keeps working, and after a while I realize that's the lesson: the work doesn't care if I'm ready for it. The work simply is.
 
-We leave some pith behind when we finish. "Come back in a few weeks," she says, "and there will be grubs." She mimes eating, grinning. I can't tell if she's joking.
+We leave some pith behind when we finish. "Come back later," she says, "and there will be grubs." She mimes eating, grinning. I can't tell if she's joking.
 
-That night, back at the village, I eat roasted bananas around a fire while someone shapes sago dough into clay molds for baking. The smell of the bananas is extraordinary—caramelized sugar and smoke and something almost floral underneath. The taste is better. Sweet and dense, the flesh yielding against my teeth. I eat three of them, burning my fingers on the skins, and no one tells me to slow down. The sago bread comes out of the fire later, dense and slightly sweet, and I eat that too.
+That night, back at the village, I eat roasted bananas around a fire while someone shapes sago dough into clay molds for baking. The smell of the bananas is extraordinary—caramelized sugar and smoke and something almost floral underneath. The taste is better. Sweet and dense, the flesh yielding against my teeth. I eat three of them, burning my fingers on the skins, and no one tells me to slow down. The sago bread comes out of the fire later, dense and slightly acrid, and I eat that too.
 
 Walking back to the sleeping shelter in the dark, I feel something crunch under my foot. I freeze. My cortics, dimmed but not silent, whisper: *scorpion, non-lethal species, reconstructed for period accuracy*. But my body doesn't care about accuracy. My heart pounds. I stand very still for a long moment, feeling the darkness press in, before I can make myself move again.
 
