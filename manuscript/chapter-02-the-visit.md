@@ -60,7 +60,7 @@ Later, I climb a low rise to get a better view of the trail.
 
 The landscape feels compressed somehow—too many biomes visible at once. I wonder if it's composite, and my cortics confirm: Nebraska prairie bleeding into Wyoming foothills bleeding into Nevada alkali flats, a thousand miles compressed into thirty kilometers. The designers prioritized emotional logic over cartographic accuracy. It works, mostly. The sense of distance is real. The sense of exhaustion is real. The sense of hope-against-odds is real.
 
-But the hope is borrowed. The exhaustion is optional. And I'm not sure that's a flaw. Maybe it's just... different. Maybe I need to stop comparing curated experience to something it's not trying to be.
+But the hope is borrowed. The exhaustion is optional. And I'm not sure that's a flaw. Maybe it's just... different. Maybe I need to stop comparing  a curated experience to something it's not trying to be.
 
 A woman stands on a rise across from me, maybe half a kilometer away. She's dressed in period clothing—wool trousers, rough-spun shirt, boots that have been aged to look like they've walked a thousand miles. She seems to be talking to the air, gesturing occasionally, her posture that of someone in conversation with an invisible partner.
 
@@ -82,9 +82,7 @@ But echoes aren't the thing itself. Or maybe they are, and I just can't hear the
 
 I've been doing this for years now. Visiting sanctuaries. Hoping that this time, *this* time, something will catch. That the curated experience will somehow transmit what I'm missing, that I'll find in these careful reconstructions whatever it is that my parents' generation found in actual scarcity.
 
-It hasn't happened yet. But maybe I haven't been looking in the right places. American Tapestry is designed for emotional pacing—careful, protective, calibrated. I've heard there are enclaves that work differently. Lapita Horizons, for one. Mira Chen's place. They say she offers permissive-tier experiences for visitors who want something closer to real stakes. Physical challenge. Actual risk.
-
-Maybe that's what I need. Not curated beauty, but genuine possibility of failure.
+It hasn't happened yet. But I'm not done looking. Lapita Horizons is next on my list—Pacific navigation, Mira Chen's place. Different culture, different methodology. Maybe that's what I need. A change of scenery.
 
 The question settles over me as the pod accelerates toward the transit station: *Is the problem the sanctuaries, or is the problem me?*
 
