@@ -1,4 +1,4 @@
-# Chapter 5.5: Swarm Deliberation
+# Chapter 6: Swarm Deliberation
 
 ## Executive/Swarm
 

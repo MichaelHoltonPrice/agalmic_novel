@@ -1,4 +1,4 @@
-# Chapter 5.75: The Closing Case
+# Chapter 7: The Closing Case
 
 ## The Executive
 
