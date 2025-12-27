@@ -88,50 +88,18 @@ That was when she'd understood what she wanted to spend her life doing.
 
 Not preservation—preservation implied saving something that still existed. This was something else. Reconstruction. Resurrection. Making echoes loud enough that people could hear what the original sound had been like, even if the original sound was gone forever.
 
-American Tapestry wasn't about perfect historical accuracy. Mira could have that conversation—did have that conversation, with anyone who would listen, and Elena loved her for it. But Elena was trying to do something different. She was trying to capture what it had *felt* like to live in a time when your choices mattered because they had weight. When the dust in your mouth tasted bitter because you knew—really knew—that you might not make it to tomorrow.
-
-People in her world didn't know that feeling. They knew its simulation, its echo. They could visit it for a day or a week and then return to the safety of abundance. Was that enough? She didn't know. But it was what she had to offer.
-
 She put her glasses back on. The data overlays bloomed back into existence: wind speed, temperature gradients, the Delgados' current position (twenty-eight minutes out), a reminder that she'd promised to review the sensory calibration for the river crossing scene. The world became annotated again, legible, manageable.
-
-"Echo," she said. "Pull up the Morrison daughter's illness progression. The fever arc."
-
-A timeline appeared, floating in her peripheral vision. The girl—Sarah Morrison, age seven, programmed with memories of a rag doll named Button and a fear of thunderstorms—would begin showing symptoms in six hours. By the third day, she would be too weak to walk. On the fifth day, if the family stayed with the wagon train, she would die. They had the option to turn back, to give up and return to Fort Laramie. Most families chose to press on. The ones who turned back often lost the child anyway, and arrived at the fort too late to join another wagon train that season. There were no good choices. Only different kinds of loss.
-
-"You've softened the timeline twice already," Echo said. Gently. Not judging. Just observing.
-
-"I know."
-
-"The progression is now five days instead of three. The parents will have more time with her before the decision point."
-
-"The Delgados' intake profile flagged sensitivities around child mortality," Elena said. "They revised down from Donner Party to standard emigrant trail. I'm giving them what they asked for—something they can bear."
-
-"You're also changing what happened."
-
-"I'm choosing which version of what happened." Elena opened her eyes. "Dysentery killed children at different rates depending on dozens of factors. I'm picking a slower progression that's still historically attested. That's the work."
-
-"That's always the work," Echo agreed.
-
-She stood, brushing dust from her trousers. These choices never felt clean, but they felt honest. She wasn't pretending to show people exactly what happened. She was showing them a version they could hold.
-
-She stood, brushing dust from her trousers. The prairie stretched around her, beautiful and impossible and hers. Thirty kilometers of reconstructed longing. A place where people came to remember what their bodies used to know, before abundance had made forgetting easy.
-
-"Show me the Delgado emotional baselines one more time," she said. "I want to see where they're starting from."
-
-The data bloomed: four heartbeats, four breathing patterns, four different kinds of anticipation. The parents' baselines were higher—they had known scarcity, and their bodies remembered. The children were flatter, calmer, curious but not *hungry*. Not yet.
 
 Elena wondered which of them would feel it first. The weight of the dust. The impossible distance of the horizon. The way hope and despair could walk side by side down a wagon trail, indistinguishable until you looked back and saw which one's footprints you'd been following.
 
 She started walking toward the entry gate. The wind pushed at her back, carrying the smoke-smell from the guttering fire. Somewhere a hawk cried—her hawk, her recording, her choice of what a prairie should sound like. Every detail in this place was a choice she had made. Every choice was a kind of lie that tried to tell a truth.
 
-But the Delgados were real. Their hunger was real. And for a few days, she would do her best to feed it with echoes.
+But the Delgados were real.
 
 "Twenty-three minutes," Echo said.
 
 "I'm ready," Elena said. And realized, saying it, that it was true.
 
-This was the work. This was what she had built her life to do. Not perfect. Not innocent. But *hers*, and maybe that was enough.
-
-She walked toward the gate, leaving footprints in the bitter dust, and prepared to welcome four strangers into a history that had almost been forgotten.
+She walked toward the gate, leaving footprints in the bitter dust, and prepared to welcome four strangers into history.
 
 ---
