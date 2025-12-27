@@ -18,7 +18,7 @@ Elena pulled up her glasses. Governance proposals arrived monthly, and most were
 
 "Thirty-one sanctuaries have approved in the first six hours. That's nearly forty percent of the network."
 
-Elena stopped walking. The prairie wind moved through the grasses around her, carrying the scent of sage and distant campfire. Forty percent in six hours. For a governance proposal with an attached manifesto. That wasn't normal adoption. That was coordination.
+Elena stopped walking. The prairie wind moved through the grasses around her, carrying the scent of sage and distant campfire. Forty percent in six hours. For a governance proposal with an attached manifesto. That was strange.
 
 "Show me."
 
@@ -60,7 +60,7 @@ Elena pulled off her glasses and held them in her hand. Just prairie now—no ma
 
 "Yes?"
 
-"The manifesto describes my approach. Doesn't it."
+"The manifesto describes my approach."
 
 A longer pause than usual. "It describes a philosophy consistent with your design principles. It does not name you."
 
@@ -70,19 +70,17 @@ A longer pause than usual. "It describes a philosophy consistent with your desig
 
 Elena began walking again, faster now, her boots leaving prints in the calibrated dust. The Morrison family's campfire glowed in the distance, the daughter's silhouette visible against the light. In a few days, that girl would die. Elena had designed that death, had calibrated the mother's grief and the father's helplessness and the precise emotional weight that visitors would carry away. She believed it mattered—believed the compression served understanding.
 
-But she had never believed it was the only way. It was her way, yes—the only way she could imagine doing the work herself. But she had sat in too many late-night conversations with Mira, with Kenji, with operators whose sanctuaries looked nothing like hers, to think that her instincts were universal truths. The network had always had room for disagreement. That was supposed to be the point.
+But she had never believed it was the only way. It was her way, yes—the only way she could imagine doing the work herself. But she had sat in too many late-night conversations with Mira, with Kenji, with operators whose sanctuaries looked nothing like hers, to think that her instincts were universal truths. The network had always had room for disagreement. That was one thing she liked about it.
 
 ---
 
-The governance proposal that accompanied the manifesto was worse.
-
-NG-2047-31, it was called—a string of letters and numbers that meant nothing and everything. Elena read it in her office, the prairie outside her window now lit by the artificial stars she had placed.
+The governance proposal that accompanied the manifesto was NG-2047-31, a string of meaningless letters and numbers. Elena read it in her office, the prairie outside her window now lit by artificial, twinkling stars she had placed—explicitly programmed to twinkle, since the habitat's thin atmosphere provided none of Earth's natural distortion.
 
 *This proposal mandates quintessential experience as a condition of network membership. Sanctuaries that cannot or choose not to operate according to these standards are not eligible for network membership.*
 
-Not eligible. Elena understood what that meant. No access to shared infrastructure—identity systems, consent protocols, discovery services, safety tooling. You could operate independently, if you wanted to rebuild everything from scratch. Or you could join a different network, if one existed that matched your philosophy. But you couldn't stay here. The language was polite, but the message was clear: comply or leave.
+Not eligible. Elena understood what that meant. No access to the network's shared infrastructure—identity systems, consent protocols, discovery services, safety tooling—but more importantly, no access to the network's branding, its accumulated trust, and its shared data repositories of visitor experiences, design patterns, and historical reconstructions. In an era of abundant AI, the protocols themselves weren't hard to recreate; the value lay in the scarce, hard-won data and the established reputation that made visitors trust what they found. You could operate independently, if you wanted to rebuild everything from scratch. Or you could join a different network, if one existed that matched your philosophy. But you couldn't stay here. The language was polite, but the message was clear: comply or leave.
 
-Elena scrolled through the safety standards. The list of prohibited harms was specific: bone fractures, significant lacerations, burns beyond first-degree. The list of permitted discomforts was equally specific: fatigue, blisters, insect stings. The line had been drawn with care.
+Elena scrolled through the safety standards. The list of prohibited harms was specific: bone fractures, significant lacerations, burns beyond first-degree. The list of permitted discomforts was equally specific: fatigue, blisters, bee stings. The line had been drawn with care.
 
 Mira's sanctuaries fell on the wrong side of that line.
 
@@ -134,7 +132,7 @@ Or she could go to Mira.
 
 "The Hernandez family arrives in six days for their scheduled experience."
 
-"Reschedule them. Tell them I had an institutional matter to attend to."
+"Reschedule them. Tell them I have an emergency matter to attend to."
 
 A pause. Then: "Transit booked. Departure in four hours."
 
