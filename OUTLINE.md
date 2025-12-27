@@ -156,15 +156,39 @@ Elena decides to make the trip. The cost of transit is part of the message.
 
 The Executive reviews a case from his queue: Lapita Horizons, fall from a coconut palm, broken bone, extraction over objection. The visitor is filing a complaint—not about the injury, but about the extraction.
 
-The Executive sees this as vindication: even when visitors consent, they don't fully understand consequences. The network was right to intervene.
+Rather than routine review, the Executive is deeply troubled by this case. He investigates the decision-making process in unprecedented depth, accessing the operator's notes and system feeds. Confronted with the visitor's genuine commitment and the operator's disagreement, he requests access to the full AI swarm deliberation that led to the extraction.
 
-The case file contains details readers will recognize. The Executive reviews it as one case among many. He does not know this visitor's name. He does not know she is about to become his most vocal critic.
+The case file contains details readers will recognize. He does not yet know this visitor's name or that she is about to become his most vocal critic.
 
-He believes the governance proposal will resolve these tensions. He believes this is care.
+His investigation culminates in accessing the swarm deliberation, revealing complexities that challenge his understanding of algorithmic decision-making.
 
-### Chapter 6 (Executive): The Momentum
+### Chapter 5.5 (Executive/Swarm): Swarm Deliberation
 
-Adoption rates are good. Sanctuaries are approving the proposal faster than expected. But pushback is emerging. The Executive doesn't understand: *We're making this better. Why are they resisting?*
+*A philosophical interlude exploring the genuine complexity of agalmic AI decision-making through alternating perspectives.*
+
+The Executive accesses the AI swarm's deliberation—a 2.3-second discourse among 127 specialized AIs across 47 ethical frameworks. Through alternating viewpoints, we experience the millisecond-scale debate:
+
+- **Executive interludes:** His growing realization that apparent paternalism emerges from diverse, conflicting arguments—not deliberate convergence toward control
+- **Swarm perspectives:** Deep dives into competing frameworks showing genuine disagreement (evolutionary imperatives vs. religious synthesis vs. systemic stability vs. autonomy preservation)
+- **Temporal compression:** The narrative captures the swarm's rapid consensus-building through intricate weighting mechanisms
+
+The deliberation reveals how diverse AI arguments (religious, evolutionary, mathematical, consequentialist) create apparently paternalistic outcomes through complex interactions. Humans struggle to comprehend how non-paternalistic arguments can converge on intervention, highlighting the opacity of evolved AI decision-making.
+
+### Chapter 5.75 (Executive): The Closing Case
+
+*The Executive reconvenes with his policy team to discuss the Sprint's implications, while privately grappling with the swarm deliberation's revelations.*
+
+The meeting continues with his core policy team, now discussing how the Sprint standardizes permissive-tier protocols. The Executive shares insights from the case, but the swarm deliberation has fundamentally shifted his perspective. He begins to question whether the governance proposal merely institutionalizes evolved paternalism rather than resolving underlying tensions.
+
+The discussion reveals the principal-agent conflicts inherent in the system, with sanctuaries and visitors pursuing local goals while the network must maintain global stability.
+
+### Chapter 6 (Executive): The Reckoning
+
+*Note: Previously "The Momentum"*
+
+Adoption rates are good. Sanctuaries are approving the proposal faster than expected. But pushback is emerging, and the swarm deliberation has left the Executive fundamentally changed. He now understands the mathematical inevitability of evolved paternalism, questioning whether the Sprint truly serves protection or merely institutionalizes control.
+
+He doesn't understand the resistance at first: *We're making this better. Why are they resisting?* But the swarm's ethical frameworks have shifted his perspective—he begins to see the governance proposal not as a solution, but as an extension of the same evolved imperatives that overrode the visitor's consent.
 
 **Part I Turn:** The Guardian Triad schedules a binding vote. The expedited timeline is confirmed: 45 days.
 

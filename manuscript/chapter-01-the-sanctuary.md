@@ -68,7 +68,7 @@ Something in Echo's voice made her look up. Not concern, exactly. Echo didn't do
 
 "What is it?"
 
-"You've received a priority message from the Network Coordination Office. Classification: Canonical Recognition."
+"You've received a priority message from the Network Coordination Office. Classification: Harmony Recognition."
 
 The wind kept blowing. The grasses kept rippling. But something in Elena's chest went still.
 
@@ -78,7 +78,7 @@ The wind kept blowing. The grasses kept rippling. But something in Elena's chest
 
 "Summary first."
 
-"You have been selected as Canonical Lead for the Network's Quality and Safety Harmonization Sprint. Your sanctuary design principles will serve as the recommended framework for the upcoming standardization initiative. The Network Coordinator requests your presence at the formal announcement ceremony in seven days. Congratulations are offered. Your response is requested within forty-eight hours."
+"You have been selected as Harmony Steward for the Network's Quality and Safety Harmonization Framework. Your sanctuary design principles will serve as the recommended framework for the upcoming standardization initiative. The Network Coordinator requests your presence at the formal announcement ceremony in seven days. Congratulations are offered. Your response is requested within forty-eight hours."
 
 Elena sat very still. Around her, the prairie hummed with the life she had given it: insects in the grass, a hawk circling, the creak of an approaching wagon. None of it was real. All of it was true.
 
@@ -86,19 +86,19 @@ She had been half-expecting something like this. Mira had warned her for months 
 
 "Read me the section on the 'recommended framework,'" she said. "The exact phrasing."
 
-"'The Sprint Committee has determined that American Tapestry's design principles represent an optimal synthesis of visitor safety, emotional accessibility, and historical coherence. These principles will serve as the recommended baseline for sanctuary certification, with variance permitted where operators demonstrate equivalent or superior outcomes on standardized metrics.'"
+"'The Framework Committee has determined that American Tapestry's design principles represent an optimal synthesis of visitor safety, emotional accessibility, and historical coherence. These principles will serve as the recommended baseline for sanctuary certification, with variance permitted where operators demonstrate equivalent or superior outcomes on standardized metrics.'"
 
 Variance *permitted*. Equivalent or superior. The language was careful—no mandates, no requirements—but Elena had grown up listening to her father parse institutional prose. She knew what "permitted variance" meant in practice. It meant justifying yourself against a default. It meant your choices becoming exceptions rather than alternatives.
 
 "The timeline section," she said. "What does it say about implementation?"
 
-"'Given the network's upcoming recertification cycle, the Committee respectfully requests that the Canonical Lead confirm participation within forty-eight hours to ensure adequate preparation for the formal announcement. The Sprint is expected to conclude within ninety days, with initial framework adoption commencing in Q2.'"
+"'Given the network's upcoming recertification cycle, the Committee respectfully requests that the Harmony Steward confirm participation within forty-eight hours to ensure adequate preparation for the formal announcement. The Framework is expected to conclude within ninety days, with initial framework adoption commencing in Q2.'"
 
 Ninety days. Elena almost laughed. You couldn't change a single biome's sensory palette in ninety days, let alone establish governance precedent for hundreds of sanctuaries. But that was the point, wasn't it? Move fast enough and the process becomes the outcome. Her father had a phrase for it: *capture-by-tempo*.
 
 "One more," she said. "The part about my 'presence' at the ceremony."
 
-"'The Network Coordinator warmly invites the Canonical Lead to accept recognition at the Harmonization Ceremony, where her contributions to the field will be celebrated and her guidance formally welcomed. Attendance will signal the Lead's commitment to the collaborative spirit of the Sprint and ensure appropriate visibility for the initiative's goals.'"
+"'The Network Coordinator warmly invites the Harmony Steward to accept recognition at the Harmonization Ceremony, where her contributions to the field will be celebrated and her guidance formally welcomed. Attendance will signal the Steward's commitment to the collaborative spirit of the Framework and ensure appropriate visibility for the initiative's goals.'"
 
 *Signal commitment. Ensure visibility.* The words were soft, but the structure was hard. Refuse the ceremony and you refuse the collaboration. Accept the ceremony and you've already endorsed what comes after.
 
@@ -140,7 +140,7 @@ The girl looked up and smiled at Elena. An NPC's smile, procedurally generated. 
 
 Then she turned, and walked toward the entry gate, and prepared to welcome the Delgados into a world she had built from dust and longing and the bitter taste of a history that had almost been forgotten.
 
-The message could wait. The Canonical Lead could wait. For now, there was work to do—real work, human work, the kind of work that abundance hadn't solved and maybe never would.
+The message could wait. The Harmony Steward could wait. For now, there was work to do—real work, human work, the kind of work that abundance hadn't solved and maybe never would.
 
 The work of helping people feel.
 
