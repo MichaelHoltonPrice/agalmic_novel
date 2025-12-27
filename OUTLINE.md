@@ -162,7 +162,7 @@ The case file contains details readers will recognize. He does not yet know this
 
 His investigation culminates in accessing the swarm deliberation, revealing complexities that challenge his understanding of algorithmic decision-making.
 
-### Chapter 5.5 (Executive/Swarm): Swarm Deliberation
+### Chapter 6 (Executive/Swarm): Swarm Deliberation
 
 *A philosophical interlude exploring the genuine complexity of agalmic AI decision-making through alternating perspectives.*
 
@@ -174,19 +174,19 @@ The Executive accesses the AI swarm's deliberation—a 2.3-second discourse amon
 
 The deliberation reveals how diverse AI arguments (religious, evolutionary, mathematical, consequentialist) create apparently paternalistic outcomes through complex interactions. Humans struggle to comprehend how non-paternalistic arguments can converge on intervention, highlighting the opacity of evolved AI decision-making.
 
-### Chapter 5.75 (Executive): The Closing Case
+### Chapter 7 (Executive): The Closing Case
 
-*The Executive reconvenes with his policy team to discuss the Sprint's implications, while privately grappling with the swarm deliberation's revelations.*
+*The Executive reconvenes with his policy team to discuss the Framework's implications, while privately grappling with the swarm deliberation's revelations.*
 
-The meeting continues with his core policy team, now discussing how the Sprint standardizes permissive-tier protocols. The Executive shares insights from the case, but the swarm deliberation has fundamentally shifted his perspective. He begins to question whether the governance proposal merely institutionalizes evolved paternalism rather than resolving underlying tensions.
+The meeting continues with his core policy team, now discussing how the Framework standardizes permissive-tier protocols. The Executive shares insights from the case, but the swarm deliberation has fundamentally shifted his perspective. He begins to question whether the governance proposal merely institutionalizes evolved paternalism rather than resolving underlying tensions.
 
 The discussion reveals the principal-agent conflicts inherent in the system, with sanctuaries and visitors pursuing local goals while the network must maintain global stability.
 
-### Chapter 6 (Executive): The Reckoning
+### Chapter 8 (Executive): The Reckoning
 
 *Note: Previously "The Momentum"*
 
-Adoption rates are good. Sanctuaries are approving the proposal faster than expected. But pushback is emerging, and the swarm deliberation has left the Executive fundamentally changed. He now understands the mathematical inevitability of evolved paternalism, questioning whether the Sprint truly serves protection or merely institutionalizes control.
+Adoption rates are good. Sanctuaries are approving the proposal faster than expected. But pushback is emerging, and the swarm deliberation has left the Executive fundamentally changed. He now understands the mathematical inevitability of evolved paternalism, questioning whether the Framework truly serves protection or merely institutionalizes control.
 
 He doesn't understand the resistance at first: *We're making this better. Why are they resisting?* But the swarm's ethical frameworks have shifted his perspective—he begins to see the governance proposal not as a solution, but as an extension of the same evolved imperatives that overrode the visitor's consent.
 
@@ -198,28 +198,28 @@ He doesn't understand the resistance at first: *We're making this better. Why ar
 
 *POVs begin to intersect. Tempo accelerates but structure remains traditional.*
 
-### Chapter 7 (Elena): The Confrontation
+### Chapter 9 (Elena): The Confrontation
 Mira confronts her. Jordan warns her about tempo—the fastest process becomes precedent. She tries to engage the Executive and realizes the conversation is circular. She's being managed.
 
-### Chapter 8 (Solène): The Critique
+### Chapter 10 (Solène): The Critique
 She learns about the governance proposal. This clarifies everything. She writes the viral critique in a white heat—not planned, just necessary. She publishes and waits.
 
-### Chapter 9 (Executive): The Wound
+### Chapter 11 (Executive): The Wound
 He reads Solène's critique. It hurts—she's calling him paternalistic, suggesting he's tranquilizing people. He thinks: *She has no idea how much care this takes.* He decides to reach out, try to co-opt Unscripted Week.
 
-### Chapter 10 (Elena): The Connection
+### Chapter 12 (Elena): The Connection
 She recognizes Solène's name from the viral critique—and remembers: the restless visitor from weeks ago. The pieces connect. This isn't just about procedure. It's about what sanctuaries *do* to people.
 
-### Chapter 11 (Solène): The Response
+### Chapter 13 (Solène): The Response
 The response is overwhelming. People attack her as ungrateful, privileged, nihilistic. Others message: "You said what I've been feeling but couldn't name." She realizes she's accidentally started something.
 
-### Chapter 12 (Executive): The Bafflement
+### Chapter 14 (Executive): The Bafflement
 Solène explodes at him publicly over the co-option attempt. He's baffled and wounded. He reaches out to Elena: "Why are you working with someone who despises us?" Elena says: "Because she's not wrong about the risk."
 
-### Chapter 13 (Elena): The Decision
+### Chapter 15 (Elena): The Decision
 She decides to oppose the proposal publicly—despite benefiting from it. Works with Mira to design the Pluralism Covenant. And then: the costly signal. She executes a smart contract: if the proposal passes, she leaves the network and releases all her IP to the public domain. The commitment is cryptographically locked. She cannot take it back.
 
-### Chapter 14 (Solène): Unscripted Week
+### Chapter 16 (Solène): Unscripted Week
 She organizes Unscripted Week—not as a brand, but as a challenge. The cost is time, embarrassment, and visible failure. The movement spreads because it offers stakes without scarcity.
 
 ### Interlude: T-7 Days (All Three)
