@@ -62,86 +62,76 @@ She sat on a sandstone outcrop and let the wind move over her face. It smelled l
 
 That was the theory, anyway. In practice, she never knew what people took away. The sanctuary gave them raw material; they built their own meanings.
 
-"Elena."
+"The Delgados arrive in thirty-five minutes," Echo said, a gentle reminder.
 
-Something in Echo's voice made her look up. Not concern, exactly. Echo didn't do concern the way humans did. But a shift in register, a weight.
+"I know." Elena didn't move. "I just need a few minutes here."
 
-"What is it?"
+Echo understood. It had learned when to give her silence.
 
-"You've received a priority message from the Network Coordination Office. Classification: Harmony Recognition."
+She let her gaze follow the trail west—or what her sanctuary called west, since cardinal directions in a rotating cylinder were really just aesthetic choices. The trail curved up and away, disappearing into the haze where her thirty-kilometer world met the limits of its own horizon.
 
-The wind kept blowing. The grasses kept rippling. But something in Elena's chest went still.
+The emigrants had believed in a destination—California, Oregon, a place where the soil was richer and the future less cruel. Some of them had made it. Most had simply traded one kind of hardship for another. But they had *moved*. They had chosen the uncertainty of motion over the certainty of staying.
 
-"Read it."
+Elena wondered sometimes what they would think of her world. A place where no one had to move unless they wanted to, where every need was met before it became urgent, where the future was always less cruel than the past. Would they see it as victory? Or would they see what she sometimes saw: people so safe they'd forgotten what they were capable of bearing?
 
-"The full text or the summary?"
+She took off her glasses and set them beside her on the stone. The prairie blurred slightly—her natural vision was good but not quite perfect—and the data overlays vanished. Just rock and grass and wind. Just her thoughts, unaugmented, moving at the speed of neurons instead of networks.
 
-"Summary first."
+She had been eleven when she'd first understood what a sanctuary could be.
 
-"You have been selected as Harmony Steward for the Network's Quality and Safety Harmonization Framework. Your sanctuary design principles will serve as the recommended framework for the upcoming standardization initiative. The Network Coordinator requests your presence at the formal announcement ceremony in seven days. Congratulations are offered. Your response is requested within forty-eight hours."
+Her father had taken her to one of the early ones—not a carefully reconstructed historical space like she built now, but something rawer. A piece of Earth's deep past, Pleistocene rewilding, mammoths and saber-cats moving through grasslands that had been gone for twelve thousand years. She'd watched a mammoth family cross a river, the calves staying close to their mothers, the adults testing each step before committing their weight. And she'd felt something bloom inside her chest—pure wonder, the kind that made her breath catch and her eyes sting.
 
-Elena sat very still. Around her, the prairie hummed with the life she had given it: insects in the grass, a hawk circling, the creak of an approaching wagon. None of it was real. All of it was true.
+*This was real.* Not the original real, but real enough. Something that had been gone for twelve thousand years was here, now, breathing and moving and *alive*. Someone had cared enough to bring it back.
 
-She had been half-expecting something like this. Mira had warned her for months that the network was drifting toward consolidation, that Elena's satisfaction metrics made her a target. But summaries were designed to sound benign. The institutional tells lived in the actual language.
+Later, much later, she would understand the complications—that these were echoes, not originals, that resurrection was always partial, that loss could never be fully undone. But at eleven, standing by that river, she'd felt only awe. And the conviction, fierce and immediate: *I want to do this. I want to make this my life's work.*
 
-"Read me the section on the 'recommended framework,'" she said. "The exact phrasing."
+That was when she'd understood what she wanted to spend her life doing.
 
-"'The Framework Committee has determined that American Tapestry's design principles represent an optimal synthesis of visitor safety, emotional accessibility, and historical coherence. These principles will serve as the recommended baseline for sanctuary certification, with variance permitted where operators demonstrate equivalent or superior outcomes on standardized metrics.'"
+Not preservation—preservation implied saving something that still existed. This was something else. Reconstruction. Resurrection. Making echoes loud enough that people could hear what the original sound had been like, even if the original sound was gone forever.
 
-Variance *permitted*. Equivalent or superior. The language was careful—no mandates, no requirements—but Elena had grown up listening to her father parse institutional prose. She knew what "permitted variance" meant in practice. It meant justifying yourself against a default. It meant your choices becoming exceptions rather than alternatives.
+American Tapestry wasn't about perfect historical accuracy. Mira could have that conversation—did have that conversation, with anyone who would listen, and Elena loved her for it. But Elena was trying to do something different. She was trying to capture what it had *felt* like to live in a time when your choices mattered because they had weight. When the dust in your mouth tasted bitter because you knew—really knew—that you might not make it to tomorrow.
 
-"The timeline section," she said. "What does it say about implementation?"
+People in her world didn't know that feeling. They knew its simulation, its echo. They could visit it for a day or a week and then return to the safety of abundance. Was that enough? She didn't know. But it was what she had to offer.
 
-"'Given the network's upcoming recertification cycle, the Committee respectfully requests that the Harmony Steward confirm participation within forty-eight hours to ensure adequate preparation for the formal announcement. The Framework is expected to conclude within ninety days, with initial framework adoption commencing in Q2.'"
+She put her glasses back on. The data overlays bloomed back into existence: wind speed, temperature gradients, the Delgados' current position (twenty-eight minutes out), a reminder that she'd promised to review the sensory calibration for the river crossing scene. The world became annotated again, legible, manageable.
 
-Ninety days. Elena almost laughed. You couldn't change a single biome's sensory palette in ninety days, let alone establish governance precedent for hundreds of sanctuaries. But that was the point, wasn't it? Move fast enough and the process becomes the outcome. Her father had a phrase for it: *capture-by-tempo*.
+"Echo," she said. "Pull up the Morrison daughter's illness progression. The fever arc."
 
-"One more," she said. "The part about my 'presence' at the ceremony."
+A timeline appeared, floating in her peripheral vision. The girl—Sarah Morrison, age seven, programmed with memories of a rag doll named Button and a fear of thunderstorms—would begin showing symptoms in six hours. By the third day, she would be too weak to walk. On the fifth day, if the family stayed with the wagon train, she would die. They had the option to turn back, to give up and return to Fort Laramie. Most families chose to press on. The ones who turned back often lost the child anyway, and arrived at the fort too late to join another wagon train that season. There were no good choices. Only different kinds of loss.
 
-"'The Network Coordinator warmly invites the Harmony Steward to accept recognition at the Harmonization Ceremony, where her contributions to the field will be celebrated and her guidance formally welcomed. Attendance will signal the Steward's commitment to the collaborative spirit of the Framework and ensure appropriate visibility for the initiative's goals.'"
+"You've softened the timeline twice already," Echo said. Gently. Not judging. Just observing.
 
-*Signal commitment. Ensure visibility.* The words were soft, but the structure was hard. Refuse the ceremony and you refuse the collaboration. Accept the ceremony and you've already endorsed what comes after.
+"I know."
 
-"That's not a recognition," Elena said quietly. "That's a coronation. And they've designed it so the crown goes on before anyone votes."
+"The progression is now five days instead of three. The parents will have more time with her before the decision point."
 
-Echo's voice shifted—not warmer, exactly, but more present. Less interface, more friend. They had talked about this before, in abstractions, in what-ifs. Now it was here.
+"The Delgados' intake profile flagged sensitivities around child mortality," Elena said. "They revised down from Donner Party to standard emigrant trail. I'm giving them what they asked for—something they can bear."
 
-"Your aesthetic choices become policy. Mira's work, Yusuf's, Kenji's—they become variations from norm rather than alternatives. The network solves a coordination problem by flattening diversity, and they've chosen your face to put on it because you blend. Because you synthesize. Because you make complexity feel coherent."
+"You're also changing what happened."
 
-"Because I'm the safe choice."
+"I'm choosing which version of what happened." Elena opened her eyes. "Dysentery killed children at different rates depending on dozens of factors. I'm picking a slower progression that's still historically attested. That's the work."
 
-"Because you're the palatable choice. That's a gift when it's art. It's something else when it becomes governance."
+"That's always the work," Echo agreed.
 
-Elena closed her eyes. The hawk cried overhead, a sound she had sampled from historical recordings and then adjusted until it felt right. Everything here was like that: researched, adjusted, felt. She had never pretended to perfect accuracy. That wasn't the point. The point was emotional truth—the texture of a world where every step forward might be your last, where hope and despair walked hand in hand down a trail that led somewhere or nowhere.
+She stood, brushing dust from her trousers. These choices never felt clean, but they felt honest. She wasn't pretending to show people exactly what happened. She was showing them a version they could hold.
 
-But emotional truth was personal. It was hers. And now they wanted to make it everyone's.
+She stood, brushing dust from her trousers. The prairie stretched around her, beautiful and impossible and hers. Thirty kilometers of reconstructed longing. A place where people came to remember what their bodies used to know, before abundance had made forgetting easy.
 
-"The Delgados arrive in thirty-two minutes," Echo said, gently. "Do you want me to delay their entry?"
+"Show me the Delgado emotional baselines one more time," she said. "I want to see where they're starting from."
 
-"No." Elena opened her eyes. The prairie was still there, vast and indifferent and beautiful. "No, they came here to feel something real. I'm not going to take that away because I'm having a crisis."
+The data bloomed: four heartbeats, four breathing patterns, four different kinds of anticipation. The parents' baselines were higher—they had known scarcity, and their bodies remembered. The children were flatter, calmer, curious but not *hungry*. Not yet.
 
-"It doesn't have to be a crisis."
+Elena wondered which of them would feel it first. The weight of the dust. The impossible distance of the horizon. The way hope and despair could walk side by side down a wagon trail, indistinguishable until you looked back and saw which one's footprints you'd been following.
 
-"Doesn't it?"
+She started walking toward the entry gate. The wind pushed at her back, carrying the smoke-smell from the guttering fire. Somewhere a hawk cried—her hawk, her recording, her choice of what a prairie should sound like. Every detail in this place was a choice she had made. Every choice was a kind of lie that tried to tell a truth.
 
-She walked back down toward the wagon trail, her boots leaving prints in the bitter dust. The fire had guttered to embers now, and the Morrison family was emerging from their tent, bleary-eyed, ready to face another day of walking into the unknown. They were programs, of course. Sophisticated behavioral models that could pass for human in most interactions. But she had given them histories, fears, hopes. She had made them *mean* something.
+But the Delgados were real. Their hunger was real. And for a few days, she would do her best to feed it with echoes.
 
-And now someone wanted to make them mean the same thing for everyone.
+"Twenty-three minutes," Echo said.
 
-A soft chime in her earbuds. A notification pulsed at the edge of her glasses. A second message, this one from a familiar address.
+"I'm ready," Elena said. And realized, saying it, that it was true.
 
-*Mira Chen: We need to talk.*
+This was the work. This was what she had built her life to do. Not perfect. Not innocent. But *hers*, and maybe that was enough.
 
-Elena didn't answer. Not yet. Instead, she walked to where the Morrisons were packing their wagon, and she watched them work—watched the father check the oxen's yokes, watched the mother wrap their remaining flour in oilcloth, watched the daughter cough once, twice, a third time, her small face flushed with the fever that would take her before they reached Fort Laramie.
-
-The girl looked up and smiled at Elena. An NPC's smile, procedurally generated. But it felt real enough to break her heart.
-
-"I'm sorry," Elena said, though she wasn't sure who she was apologizing to.
-
-Then she turned, and walked toward the entry gate, and prepared to welcome the Delgados into a world she had built from dust and longing and the bitter taste of a history that had almost been forgotten.
-
-The message could wait. The Harmony Steward could wait. For now, there was work to do—real work, human work, the kind of work that abundance hadn't solved and maybe never would.
-
-The work of helping people feel.
+She walked toward the gate, leaving footprints in the bitter dust, and prepared to welcome four strangers into a history that had almost been forgotten.
 
 ---
