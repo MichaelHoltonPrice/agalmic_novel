@@ -116,11 +116,11 @@ The aircraft is small, white, clinical—a medical extraction drone, descending 
 
 "What? No. I signed—"
 
-"The system flagged your injury as requiring extraction. I don't have authority to override." She's already standing, stepping back, making room for the drone to land. Her body language says she's done this before. Her face says she hates it every time.
+"The AI swarm flagged your injury as requiring extraction. I don't have authority to override." She's already standing, stepping back, making room for the drone to land. Her body language says she's done this before. Her face says she hates it every time.
 
 "I consented to this," I say. The drone settles onto the ground ten meters away, its rotors winding down, a hatch sliding open to reveal a sterile medical bay inside. "I signed the agreement. The injury isn't life-threatening—"
 
-"Network policy supersedes permissive-tier consent for certain injury categories. Compound fractures, infection risk, anything requiring more than field treatment." She won't meet my eyes. "I argued against this protocol when they implemented it. I lost."
+"The swarm deliberated in under three seconds and decided your injury crossed their threshold. Compound fractures, infection risk, recovery complexity—they have a hundred frameworks running in parallel, and somehow they nearly always converge on extraction." She won't meet my eyes. "I've been arguing with their outcomes for two years. I keep losing."
 
 Two figures emerge from the drone—not human, or not entirely, their movements too smooth, their faces too calm. Medical technicians, AI-driven or heavily augmented, I can't tell and it doesn't matter. They're already walking toward me with a stretcher.
 
