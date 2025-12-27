@@ -16,17 +16,11 @@ The entry gate opens, and the prairie swallows me whole.
 
 ---
 
-The dust is the first thing I notice. It tastes bitter, metallic, wrong in a way that feels *right*. Someone has thought carefully about this dust. Someone has calibrated it to evoke failure and longing, the particular despair of people walking toward a horizon they might never reach.
-
-I appreciate the craft. I always appreciate the craft.
+The dust is the first thing I notice. It tastes bitter, metallic, wrong in a way that feels *right*. Someone has thought carefully about this dust. Someone has calibrated it. For what, I'm not yet sure, but I appreciate the craft. I always appreciate the craft.
 
 The wagon trail stretches ahead, rutted and sun-baked, and I follow it because that's what visitors do. My cortics feed me contextual information—dates, routes, mortality statistics—but I've learned to dim that stream when I'm in sanctuaries. The data interferes with whatever I'm trying to feel. Or trying to fail to feel. I'm not always sure which.
 
-Other visitors move along the trail ahead of me. A family—two parents, two adult children—walking with the careful attention of people who traveled days to be here. The parents' postures are different from the children's: tighter, more alert. They remember something the children don't. They're here to share that memory, or maybe to prove it still matters.
-
-The children walk like I walk. Smooth. Unhurried. Waiting for something to happen.
-
-I wonder if they'll find what they're looking for. I wonder if they know what that is. I wonder if I do.
+The trail is empty except for me. Most sanctuaries host multiple groups at once, but this one feels different—curated, personalized, like someone designed it with attention for exactly who would walk through. I appreciate that. Or I would, if I could figure out what it's trying to give me.
 
 ---
 
@@ -60,7 +54,7 @@ Later, I climb a low rise to get a better view of the trail.
 
 The landscape feels compressed somehow—too many biomes visible at once. I wonder if it's composite, and my cortics confirm: Nebraska prairie bleeding into Wyoming foothills bleeding into Nevada alkali flats, a thousand miles compressed into thirty kilometers. The designers prioritized emotional logic over cartographic accuracy. It works, mostly. The sense of distance is real. The sense of exhaustion is real. The sense of hope-against-odds is real.
 
-But the hope is borrowed. The exhaustion is optional. And I'm not sure that's a flaw. Maybe it's just... different. Maybe I need to stop comparing  a curated experience to something it's not trying to be.
+But the hope is borrowed. The exhaustion is optional. And I'm not sure that's a flaw. Maybe it's just... different. Maybe I need to stop comparing a curated experience to something it's not trying to be.
 
 A woman stands on a rise across from me, maybe half a kilometer away. She's dressed in period clothing—wool trousers, rough-spun shirt, boots that have been aged to look like they've walked a thousand miles. She seems to be talking to the air, gesturing occasionally, her posture that of someone in conversation with an invisible partner.
 
