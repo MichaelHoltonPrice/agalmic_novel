@@ -6,9 +6,11 @@
 
 The case file arrived during the morning briefing.
 
-He read it while his team discussed adoption metrics, his attention split in a way that would have felt rude thirty years ago and now felt merely efficient. The summary was straightforward: Lapita Horizons, permissive-tier experience, visitor injured during physical labor, extraction performed per network protocol, visitor had filed a formal complaint.
+He read it while his team discussed adoption metrics for the Framework proposal—fifty-three percent now, the momentum building exactly as projected—his attention split in a way that would have felt rude thirty years ago and now felt merely efficient. The summary was straightforward: Lapita Horizons, permissive-tier experience, visitor injured during physical labor, extraction performed per network protocol, visitor had filed a formal complaint.
 
 The complaint was not about the injury; it was about the extraction.
+
+With the proposal public and votes accumulating, cases like this mattered. Not just on their own merits, but for what they could become in the public discourse. An extraction override at a high-profile sanctuary, a formal complaint, a visitor claiming autonomy violation—if this became visible, it could influence the vote in either direction. He needed to understand it thoroughly.
 
 "Continue," he said to his deputy, who was explaining regional variance in certification timelines. He scrolled through the file's details, looking for the pattern he knew he'd find.
 
@@ -30,7 +32,11 @@ His deputy's expression flickered—not quite surprise, but close. These cases w
 
 "I'll have it sent over," she said. "Is there something specific you're looking for?"
 
-"This case goes deeper than routine," he said. "I want the full deliberation logs—the AI swarm's ethical discussion that led to the override."
+"The timing," he said. "With the Framework proposal circulating, a case like this could become visible. I need to understand exactly what happened—both for its own sake and for how it might be interpreted in the current climate."
+
+It was good governance, really. Due diligence. A high-profile sanctuary, a formal complaint about extraction, all while the network was debating whether to standardize exactly these protocols. If this case illustrated why the Framework was needed, he should be able to articulate that clearly. And if it complicated the picture, better to know that now.
+
+"I want the full deliberation logs," he said. "The AI swarm's ethical discussion that led to the override."
 
 "I want to understand the operator's decision process," he said, steering back to the case. "The point where they decided to escalate to extraction."
 
