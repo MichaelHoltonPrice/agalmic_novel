@@ -195,6 +195,8 @@ Boundary archaeologists design and maintain sanctuaries, crafting immersive expe
 
 **Fusion Sanctuaries**: Many combine approaches, or collaborate across cultural boundaries to create comparative experiences.
 
+**Canalization** Essence sanctuaries often practice canalization, whereas authentic sanctuaries often allow more randomness, with more limited canalization.
+
 ## The Sanctuary Network
 
 The sanctuary network spans tens of thousands of operators across the solar system—from individual artisans running dedicated cylinders to collaborative collectives hosting multiple reconstructions. This scale reflects the agalmic transformation: when construction costs collapse and space is abundant, cultural preservation and experiential archaeology can flourish at scales previously unimaginable.
