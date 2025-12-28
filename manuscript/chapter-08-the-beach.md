@@ -138,7 +138,7 @@ Kenji grinned impudently. "I don't understand the difference."
 
 They were silent for a moment, watching the bartender. The music played on.
 
-Kenji let the silence hang for a beat, picking at a loose thread on his beach shirt. "Method *is* theory-laden, you know," he said finally, picking up a gauntlet Yusuf had dropped an hour ago. "You can't measure the charge of an electron without the concept of an electron. The units we dig in aren't just boxes. They're questions we're asking the dirt."
+Kenji let the silence hang for a beat, picking at a loose thread on his beach shirt. "Method *is* theory-laden, you know," he said finally, picking up a gauntlet Yusuf had dropped ages ago. "You can't measure the charge of an electron without the concept of an electron. The units we dig in aren't just boxes. They're questions we're asking the dirt."
 
 Yusuf snorted into his drink but didn't argue. The admission—or at least the lack of rebuttal—felt like something.
 
