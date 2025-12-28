@@ -1,4 +1,4 @@
-# Chapter 7: The Closing Case
+# Chapter 7: Pathos
 
 ## The Executive
 
