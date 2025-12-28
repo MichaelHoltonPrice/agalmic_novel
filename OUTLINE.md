@@ -191,12 +191,21 @@ He draws on what he learned from the swarm deliberation to support his case:
 
 The chapter ends with him reading the visitor's complaint: "Who gave the network that authority?" His answer—evolved process, emergent consensus, everyone and no one—feels less certain than it would have before Chapter 06.
 
-### Chapter 8 (Elena): The Gathering
-Elena travels to Lapita Horizons in response to Mira's message. When she arrives, she runs into Kenji first—unexpected. Like most boundary archaeologists, Mira has a range of themed sanctuaries and places within her habitat. Kenji takes Elena to one of them: a meticulously reconstructed 1980s resort in French Polynesia—thatched-roof bungalows, neon cocktail umbrellas, period-appropriate pop music drifting from hidden speakers. Very realistic, very different from Lapita lifeways. They spend much of the day there, sipping piña coladas by the beach and catching up. Their conversation touches on the proposal, their different approaches, what it means for all of them—but it's also just two old friends enjoying each other's company in serious circumstances.
+### Chapter 8 (Elena): The Beach
+Elena travels to Mira's habitat in response to a message. She runs into Kenji first—unexpected. Like most boundary archaeologists, Mira has a range of themed sanctuaries within her habitat. Elena and Kenji spend the afternoon at "The Tahitian Dream, 1987," a 1980s resort with thatched-roof bungalows and neon cocktail umbrellas. They catch up on shop talk and enjoy the "low stakes" fidelity of the 80s. 
 
-Later, she discovers other sanctuary operators are there too: Yusuf and others. She hadn't expected so many of her friends and colleagues to be there, but with some reflection realizes she shouldn't be surprised. This matters a lot to all of them. The main discussion takes place at a dinner party with a lot of wine—making it feel like a reunion in very serious circumstances. During the discussion, she recalls her father's warnings about *capture-by-tempo*: the fastest process wins, then becomes the new normal.
+**The Technical Hook:** They discuss the containment systems. How does Mira keep the "hard" elements (like death adders or venomous reef-life) from wandering into the resort zones? They talk about pheromone barriers and biostatic thresholds. It ends with them deciding to find the others.
 
-### Chapter 9 (Executive): The Reckoning
+### Chapter 9 (Elena): The Tiare Club
+Elena and Kenji travel to "The Tiare Club, 1926"—a reconstruction of a French colonial beach hotel in Tahiti, full of white linen, gramophones, and Art Deco symmetry. They find **Yusuf** here, drinking a gin sling and enjoying the "low stakes" fidelity of an era with actual written records. He’s avoiding his own "death zone" work for a while. Still no Mira—the tension of the host’s absence builds as more colleagues are reported to have arrived in other zones.
+
+### Chapter 10 (Elena/Group): The Deep Past
+The group (Elena, Kenji, Yusuf, and other early arrivals) takes a professional "field trip" to Mira's masterwork: the **Lapita Horizons** site. They leave the 20th-century luxury for the raw, high-humidity reality of 1000 BCE. They discuss the technical craft as peers. This is where they see the "permissive-tier" risks (the snakes, the infection risks) that the proposal would ban. They see the "death adders" they discussed in Chapter 8.
+
+### Chapter 11 (Elena/Group): The Gathering
+The full group finally assembles back in one of the comfortable resort zones. **Mira finally appears.** The tone shifts from "professional retreat" to "institutional war room." The wine-fueled dinner party happens. They realize the Executive's momentum is outmoding them. Elena recalls her father's warning: *"capture-by-tempo: the fastest process wins, then becomes the new normal."*
+
+### Chapter 12 (Executive): The Reckoning
 
 *Note: Previously "The Momentum"*
 
@@ -210,25 +219,25 @@ Adoption rates are excellent. Sanctuaries are approving the proposal faster than
 
 *POVs begin to intersect. Tempo accelerates but structure remains traditional.*
 
-### Chapter 10 (Solène): The Critique
+### Chapter 13 (Solène): The Critique
 She learns about the governance proposal. This clarifies everything. She writes the viral critique in a white heat—not planned, just necessary. She publishes and waits.
 
-### Chapter 11 (Executive): The Wound
+### Chapter 14 (Executive): The Wound
 He reads Solène's critique. It hurts—she's calling him paternalistic, suggesting he's tranquilizing people. He thinks: *She has no idea how much care this takes.* He decides to reach out, try to co-opt Unscripted Week.
 
-### Chapter 12 (Elena): The Connection
+### Chapter 15 (Elena): The Connection
 She recognizes Solène's name from the viral critique—and remembers: the restless visitor from weeks ago. The pieces connect. This isn't just about procedure. It's about what sanctuaries *do* to people.
 
-### Chapter 13 (Solène): The Response
+### Chapter 16 (Solène): The Response
 The response is overwhelming. People attack her as ungrateful, privileged, nihilistic. Others message: "You said what I've been feeling but couldn't name." She realizes she's accidentally started something.
 
-### Chapter 14 (Executive): The Bafflement
+### Chapter 17 (Executive): The Bafflement
 Solène explodes at him publicly over the co-option attempt. He's baffled and wounded. He reaches out to Elena: "Why are you working with someone who despises us?" Elena says: "Because she's not wrong about the risk."
 
-### Chapter 15 (Elena): The Decision
+### Chapter 18 (Elena): The Decision
 She decides to oppose the proposal publicly—despite benefiting from it. Works with Mira to design the Pluralism Covenant. And then: the costly signal. She executes a smart contract: if the proposal passes, she leaves the network and releases all her IP to the public domain. The commitment is cryptographically locked. She cannot take it back.
 
-### Chapter 16 (Solène): Unscripted Week
+### Chapter 19 (Solène): Unscripted Week
 She organizes Unscripted Week—not as a brand, but as a challenge. The cost is time, embarrassment, and visible failure. The movement spreads because it offers stakes without scarcity.
 
 ### Interlude: T-7 Days (All Three)
