@@ -191,24 +191,22 @@ He draws on what he learned from the swarm deliberation to support his case:
 
 The chapter ends with him reading the visitor's complaint: "Who gave the network that authority?" His answer—evolved process, emergent consensus, everyone and no one—feels less certain than it would have before Chapter 06.
 
-### Chapter 8 (Executive): The Reckoning
+### Chapter 8 (Elena): The Gathering
+Elena travels to Lapita Horizons in response to Mira's message. When she arrives, she runs into Kenji first—unexpected. Then she discovers other sanctuary operators are there too: Yusuf and others. Colleagues who recognize what the proposal means for methodological pluralism. She hadn't expected so many of her friends and colleagues to be there, but with some reflection realizes she shouldn't be surprised. This matters a lot to all of them. The tone is serious, not accusatory. These are people who know each other well, gathering to understand what's happening. Preliminary side discussions happen throughout the day, but the main discussion takes place at a dinner party with a lot of wine—making it feel like a reunion in very serious circumstances. During the discussion, she recalls her father's warnings about *capture-by-tempo*: the fastest process wins, then becomes the new normal.
+
+### Chapter 9 (Executive): The Reckoning
 
 *Note: Previously "The Momentum"*
 
-Adoption rates are good. Sanctuaries are approving the proposal faster than expected. But pushback is emerging, and the swarm deliberation has left the Executive fundamentally changed. He now understands the mathematical inevitability of evolved paternalism, questioning whether the Framework truly serves protection or merely institutionalizes control.
+Adoption rates are excellent. Sanctuaries are approving the proposal faster than expected. Some pushback is emerging—resistance he doesn't fully understand at first. *We're making this better. Why are they resisting?* He interprets opposition as misunderstanding, not legitimate disagreement. The swarm deliberation showed him the complexity of agalmic decision-making, but this only reinforces his belief that standardization is necessary—that without clear frameworks, the system becomes incomprehensible even to experts.
 
-He doesn't understand the resistance at first: *We're making this better. Why are they resisting?* But the swarm's ethical frameworks have shifted his perspective—he begins to see the governance proposal not as a solution, but as an extension of the same evolved imperatives that overrode the visitor's consent.
-
-**Part I Turn:** The Guardian Triad schedules a binding vote. The expedited timeline is confirmed: 45 days.
+**Part I Turn:** The Guardian Triad schedules a binding vote. The expedited timeline is confirmed: 45 days. He's confident about the outcome.
 
 ---
 
 ## PART II — THE FIGHT INSIDE THE RULES
 
 *POVs begin to intersect. Tempo accelerates but structure remains traditional.*
-
-### Chapter 9 (Elena): The Confrontation
-Mira confronts her. Jordan warns her about tempo—the fastest process becomes precedent. She tries to engage the Executive and realizes the conversation is circular. She's being managed.
 
 ### Chapter 10 (Solène): The Critique
 She learns about the governance proposal. This clarifies everything. She writes the viral critique in a white heat—not planned, just necessary. She publishes and waits.
