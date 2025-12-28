@@ -5,7 +5,7 @@
 
 ## Protagonist & POV Character: Elena Smith
 
-*POV Style: Close third, past tense — traditional and reflective*
+*POV Style: Close third, past tense*
 
 **Age**: 28 (chronological), appears late 20s through maintenance treatments
 **Background**: Born in 2017, Elena was a child during the Great Convergence starting in 2027. She witnessed the rapid transformation from scarcity to abundance but was too young to fully participate in the institutional changes that created the agalmic world.
@@ -99,7 +99,7 @@ Jordan's choice wasn't "the" global solution; it was one influential precedent. 
 
 ## Major POV Character: Solène
 
-*POV Style: First person, present tense — immediate and visceral*
+*POV Style: Close third, past tense*
 
 **Age**: 26 (chronological), appears mid-20s
 **Background**: Born after the Great Convergence. She has never known material scarcity, only its stories and simulations. She moves through sanctuaries looking for something abundance can't provide: stakes that feel real.
@@ -142,7 +142,7 @@ Underneath the precision is something she guards carefully: she doesn't know if 
 
 ## Major POV Character: The Operator Executive
 
-*POV Style: Close third, present tense — institutional voice, real-time pressure*
+*POV Style: Close third, past tense*
 
 *Note on naming: The Executive remains unnamed throughout the novel. This is a deliberate choice: he represents a type (the sincere institutionalist) more than an individual, and the unnamed voice reinforces his self-conception as a steward rather than a protagonist. In his own chapters, he thinks of himself as "the Executive" or simply doesn't self-reference—the institution speaks through him.*
 

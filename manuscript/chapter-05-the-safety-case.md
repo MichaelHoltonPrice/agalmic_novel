@@ -4,56 +4,58 @@
 
 ---
 
-The case file arrives during the morning briefing.
+The case file arrived during the morning briefing.
 
-He reads it while his team discusses adoption metrics, his attention split in a way that would have felt rude thirty years ago and now feels merely efficient. The summary is straightforward: Lapita Horizons, permissive-tier experience, visitor injured during physical labor, extraction performed per network protocol, visitor has filed a formal complaint.
+He read it while his team discussed adoption metrics, his attention split in a way that would have felt rude thirty years ago and now felt merely efficient. The summary was straightforward: Lapita Horizons, permissive-tier experience, visitor injured during physical labor, extraction performed per network protocol, visitor had filed a formal complaint.
 
-The complaint is not about the injury; it is about the extraction.
+The complaint was not about the injury; it was about the extraction.
 
-"Continue," he says to his deputy, who is explaining regional variance in certification timelines. He scrolls through the file's details, looking for the pattern he knows he'll find.
+"Continue," he said to his deputy, who was explaining regional variance in certification timelines. He scrolled through the file's details, looking for the pattern he knew he'd find.
 
-The visitor signed a permissive-tier consent agreement. Full acknowledgment of physical risk, including injury requiring extended recovery. Intervention threshold set at life-threatening only. Standard language, standard process, everything documented properly. Lapita Horizons runs a clean operation—Mira Chen's reputation for rigor extends to her consent protocols.
+The visitor had signed a permissive-tier consent agreement. Full acknowledgment of physical risk, including injury requiring extended recovery. Intervention threshold set at life-threatening only. Standard language, standard process, everything documented properly. Lapita Horizons ran a clean operation—Mira Chen's reputation for rigor extended to her consent protocols.
 
-The injury: a fall from elevation. Compound fracture of the ankle, with bone fragments and infection risk. The on-site operator assessed it as requiring more than field treatment and flagged the case for network review. The extraction system made the final call.
+The injury: a fall from elevation. Compound fracture of the ankle, with bone fragments and infection risk. The on-site operator had assessed it as requiring more than field treatment and flagged the case for network review. The extraction system had made the final call.
 
-The visitor was removed, treated, healed within two hours. Now she's filing a complaint because she wanted to stay.
+The visitor had been removed, treated, healed within two hours. Now she was filing a complaint because she'd wanted to stay.
 
-He sets down the file and looks up. His deputy has stopped talking, waiting for him to reengage.
+He set down the file and looked up. His deputy had stopped talking, waiting for him to reengage.
 
-"What category does this fall under?" he asks. A brief pause while he thinks over his last words. "Pun not intended."
+"What category does this fall under?" he asked. A brief pause while he thought over his last words. "Pun not intended."
 
 "The complaint? Consent override review. It'll go to the autonomy committee unless you want to escalate."
 
 "I want to see the full extraction record. Sensor logs, operator notes, everything."
 
-His deputy's expression flickers—not quite surprise, but close. These cases are routine. The Executive doesn't usually involve himself in routine.
+His deputy's expression flickered—not quite surprise, but close. These cases were routine. The Executive didn't usually involve himself in routine.
 
-"I'll have it sent over," she says. "Is there something specific you're looking for?"
+"I'll have it sent over," she said. "Is there something specific you're looking for?"
 
-"This case goes deeper than routine," he says. "I want the full deliberation logs—the AI swarm's ethical discussion that led to the override."
+"This case goes deeper than routine," he said. "I want the full deliberation logs—the AI swarm's ethical discussion that led to the override."
 
-"I want to understand the operator's decision process," he says, steering back to the case. "The point where they decided to escalate to extraction."
+"I want to understand the operator's decision process," he said, steering back to the case. "The point where they decided to escalate to extraction."
 
 "The system made that call, not the operator."
 
 "I know. But the operator flagged it first. I want to understand why."
 
-The meeting continues, but he accesses the logs simultaneously. The operator's notes unfold before him as he follows the conversation.
+The meeting continued, but he accessed the logs simultaneously. The operator's notes unfolded before him as he followed the conversation.
 
-The operator's notes are precise but carry an undercurrent of frustration. *Visitor sustained fall from approximately six meters. Initial assessment: compound fracture, right ankle. Bone fragments visible through skin. Infection risk significant given environmental conditions. Visitor responsive, lucid, requesting to continue experience. I began traditional splinting procedure per permissive-tier protocol, as she had explicitly consented to.*
+The operator's notes were precise but carried an undercurrent of frustration. *Visitor sustained fall from approximately six meters. Initial assessment: compound fracture, right ankle. Bone fragments visible through skin. Infection risk significant given environmental conditions. Visitor responsive, lucid, requesting to continue experience. I began traditional splinting procedure per permissive-tier protocol, as she had explicitly consented to.*
 
 *Network safety system flagged injury as exceeding permissive-tier threshold. Extraction authorized. I explained the situation to the visitor. She objected strongly. Extraction proceeded per protocol despite her clear, informed wishes.*
 
 *Personal note: I argued against this protocol when it was implemented. The visitor's consent was genuine and informed—she understood exactly what she was choosing. The extraction felt like a violation of her autonomy. I believe the system overrode what should have been her right to choose.*
 
-He reads that last line twice, then accesses the extraction system's decision feed. Privacy protocols limit cross-entity access, but as Executive he can review the system's input stream—the data that triggered the intervention.
+He read that last line twice, then accessed the extraction system's decision feed. Privacy protocols limited cross-entity access, but as Executive he could review the system's input stream—the data that had triggered the intervention.
 
-The feed is clinical, algorithmic: biometric overlays on thermal imaging, injury assessment metrics scrolling in real-time. The woman's vitals stable but pain indicators spiking. Bone fracture confirmed—compound, Grade III, infection risk elevated due to environmental contaminants. Consent status: permissive-tier acknowledged. Intervention threshold: exceeded per network protocol 7.2.3.
+The feed was clinical, algorithmic: biometric overlays on thermal imaging, injury assessment metrics scrolling in real-time. The woman's vitals had been stable but pain indicators were spiking. Bone fracture confirmed—compound, Grade III, infection risk elevated due to environmental contaminants. Consent status: permissive-tier acknowledged. Intervention threshold: exceeded per network protocol 7.2.3.
 
-No audio. No facial expressions. Just the system's assessment inputs: fracture severity ratings, contamination risk vectors, recovery time projections (weeks vs. hours), statistical outcomes for delayed treatment. The system's logic path illuminates: permissive consent allows risk but not preventable harm. The injury crosses from "acceptable consequence" to "unnecessary suffering."
+No audio. No facial expressions. Just the system's assessment inputs: fracture severity ratings, contamination risk vectors, recovery time projections (weeks vs. hours), statistical outcomes for delayed treatment. The system's logic path illuminated: permissive consent allowed risk but not preventable harm. The injury crossed from "acceptable consequence" to "unnecessary suffering."
 
-He switches feeds, accessing the drone's approach camera. The visitor appears as a thermal signature on the ground, operator kneeling beside her. No words, just positions: injury assessment, splinting attempt, drone deployment. The visitor's body language reads as distress in the algorithmic overlay, but the raw footage shows her face—pale but composed, eyes clear. No panic. Just determination.
+He switched feeds, accessing the drone's approach camera. The visitor appeared as a thermal signature on the ground, operator kneeling beside her. No words, just positions: injury assessment, splinting attempt, drone deployment. The visitor's body language read as distress in the algorithmic overlay, but the raw footage showed her face—pale but composed, eyes clear. No panic. Just determination.
 
-This case troubles him more than he can articulate. He doesn't just want the outcome—he wants to understand the ethical reasoning that led to this override. He requests the full deliberation logs—the complete swarm discourse, not just summaries.
+This case troubled him more than he could articulate. He didn't just want the outcome—he wanted to understand the ethical reasoning that had led to this override. He requested the full deliberation logs—the complete swarm discourse, not just summaries.
 
-The response arrives instantly. He accesses the full AI swarm deliberation—a 2.3-second discourse among 127 specialized AIs across 47 distinct ethical frameworks. What he witnesses reveals complexities he hadn't anticipated in this particular convergence.
+The response arrived instantly. He accessed the full AI swarm deliberation—a 2.3-second discourse among 127 specialized AIs across 47 distinct ethical frameworks. What he witnessed revealed complexities he hadn't anticipated in this particular convergence.
+
+---

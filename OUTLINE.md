@@ -45,11 +45,11 @@ Each sees different aspects of the governance crisis. They converge at the clima
 - **Rich irony**: Elena benefits from the proposal, fights it anyway. The Executive wants to help, ends up controlling. Solène wants stakes, creates a movement that could become coercive.
 - **Systemic truth**: Three human stories reveal what a single POV couldn't—how good intentions collide in systems that force choices.
 
-### POV Style Variation
-To help readers track shifts:
-- **Elena**: Close third, past tense (traditional, reflective)
-- **Solène**: First person, present tense (immediate, visceral)
-- **Executive**: Close third, present tense (institutional voice, real-time pressure)
+### POV Style
+All chapters use close third person, past tense. Character voices are differentiated through:
+- **Prose rhythm and vocabulary**: Each character's perspective shapes sentence structure and word choice
+- **Emotional access**: How much interior thought vs. external observation we experience
+- **Frame of reference**: The metaphors and concerns natural to each character's world
 
 ---
 
@@ -122,7 +122,7 @@ In Part III, the countdown brings everyone to the Axis:
 We open with Elena in her sanctuary, working with Echo on a visitor experience. She loves this work. We see her skill, her care, her aesthetic vision. The chapter establishes her world before the crisis arrives.
 
 ### Chapter 2 (Solène): The Visit
-We meet Solène visiting American Tapestry. First-person, present tense—immediate and visceral. She's still searching, still hoping sanctuaries might work. She experiences Elena's work as beautiful—undeniably so—but something is missing. She can't articulate what yet. The hunger remains, but she's not ready to call it a verdict. She's heard that some enclaves offer more permissive experiences; maybe she just hasn't found the right one.
+We meet Solène visiting American Tapestry. She's still searching, still hoping sanctuaries might work. She experiences Elena's work as beautiful—undeniably so—but something is missing. She can't articulate what yet. The hunger remains, but she's not ready to call it a verdict. She's heard that some enclaves offer more permissive experiences; maybe she just hasn't found the right one.
 
 ### Chapter 3 (Solène): The Incident
 
