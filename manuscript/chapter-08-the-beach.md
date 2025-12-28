@@ -128,6 +128,10 @@ Kenji looked up. "What about him?"
 
 "That's Mira," Kenji said. "She can't help herself. I would have given him the mullet and called it a day."
 
+"You wouldn't have given him anything," Yusuf said. "One of your AIs would have."
+
+Kenji grinned impudently. "I don't understand the difference."
+
 "I would have given him a story that *served* something," Elena said. "The failed marriage—what does it add to the visitor's experience? They'll never know."
 
 "But *he* knows," Yusuf said quietly. "That's her point. The fidelity isn't for the visitor. It's for the truth."
@@ -140,33 +144,15 @@ Yusuf snorted into his drink but didn't argue. The admission—or at least the l
 
 The sun was setting—a perfect, reconstructed sunset that painted the beach in shades of coral and gold. The bartender wiped down his station and began preparing for the evening shift, his movements carrying the weight of a life that no one would ever ask about.
 
-"Where are we meeting tomorrow?" Elena asked.
+The sun had set. Above them, stars were emerging—too many, too bright, a sky that belonged to no decade Elena could name.
 
-"The Tiare Club, 1926," Yusuf said. "French colonial. Gramophones and gin slings. Others are gathering there." He picked up his book again, though Elena could tell he wasn't really reading it. "We'll see how many of us Mira has summoned."
+She looked up, then smiled slowly. "Echo," she said, pitching her voice for an audience. "Remind me to needle Mira about that starfield. It's too bright, too crowded for the late twentieth century." She paused for effect. "It's the only time I've ever seen her choose the view over the truth."
 
-"And Mira herself?"
+Kenji laughed. "Oh, she's going to *hate* that."
 
-"Still in the zones." Yusuf's expression was unreadable. "She's working. She's always working. And she's letting us see her range before she tells us what she wants."
+"She's going to say it's within acceptable parameters," Yusuf predicted. "Then she's going to spend three hours running variance calculations."
 
-The music shifted to something slower, more melancholic. Elena watched the horizon, where the cylinder's artificial sky was deepening into twilight. Somewhere out there, past the 1980s resort and the 1920s hotel and the reconstructed Lapita villages, Mira was walking through the world she had built—the one with real dangers and real consequences, the one the network wanted to erase.
+"Good," Elena said. "She deserves it."
 
-"I should get some rest," Elena said, rising from her chair.
-
-"Sleep well," Kenji said. "Tomorrow we start figuring out what we're fighting for."
-
-"We already know what we're fighting for," Yusuf said. "We're fighting for the right to disagree with each other. For thirty more years of arguments and failed collaborations and guesses with—" He stopped, eyeing them suspiciously. "Don't."
-
-"—better graphics," Elena and Kenji said in unison.
-
-Yusuf sighed, but he was almost smiling.
-
-When she got back to her room, Elena set her glasses on the nightstand and let the silence settle. For a moment, she just sat there, thinking about bartenders with failed marriages and friends who finished each other's insults and a discipline that was big enough—had always been big enough—for all of them.
-
-"Echo," she said quietly. "Remind me to ask Mira about the starfield. The 1987 zone has a sky that's too bright, too crowded for the era. It's the only time I've ever seen her choose the view over the truth."
-
-A pause.
-
-"Maybe she wanted you to notice," Echo said.
-
-Elena didn't have an answer for that.
+They sat in comfortable silence, watching the wrong stars wheel overhead. It was the most beautiful mistake Elena had ever seen.
 
