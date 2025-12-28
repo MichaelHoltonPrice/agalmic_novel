@@ -20,16 +20,14 @@ Elena works primarily in physical construction—her sanctuary is a dedicated sp
 
 **Public Role**: Elena's approach to sanctuary design becomes the implicit model for a network-wide governance proposal. The manifesto (*Toward a Philosophy of Sanctuary Design*) declares the network's commitment to quintessential experience—articulating two traditions but explicitly choosing one. The procedure (NG-2047-31) would mandate this philosophy as a condition of network membership, prohibiting permissive experiences with significant physical risk. Elena is never named, but anyone familiar with the field can decode whose philosophy the network is adopting—and whose it is excluding.
 
-**The Costly Signal**: Elena leads the group in executing a smart contract with irrevocable terms: if the governance proposal passes, they will all leave the network and release their intellectual property—the design principles, methodology, sensory calibrations—to the public domain. This commitment is cryptographically locked. They cannot change their minds. The contract executes automatically based on the vote outcome.
-
-This is the collective signal: they are not defending their status, because they have locked themselves into destroying the basis of that status. Talk is cheap; smart contracts are not.
+**The Costly Signal**: Elena leads the group in executing an unconditional smart contract: they commit their intellectual property—the design principles, methodology, sensory calibrations—to a public trust supporting universal basic services. The transfer is irreversible and scheduled to trigger the moment the proposal process is finalized. By locking their wheels, they prove they are not defending their status, as they have already committed to a future where that status is dissolved for a greater public good.
 
 **Relationships**:
 - **Mira Chen**: Her closest friend and professional counterpart. Their contrasting approaches—Elena's quintessentialization vs. Mira's historical fidelity—create ongoing creative tension and mutual respect. The governance proposal tests their friendship: Mira sees Elena as complicit until Elena proves otherwise.
 - **Echo**: Her personal AI companion, a close friend who has grown alongside her and provides vast intelligence and knowledge. Echo can detect tempo anomalies and manipulation patterns; Elena must decide what to do about them.
-- **Jordan Smith**: Her father, who provides perspective from the pre-Convergence world but remains a secondary figure. His warning about tempo and precedent—*capture-by-tempo*—becomes the seed of her resistance.
+- **Jordan Smith**: Her father, who remains off-stage but provides a historical anchor. His old warning about tempo and precedent—*capture-by-tempo*—remains a core influence on her thinking.
 - **Solène**: A volatile mirror. Initially, Solène is a threat—her viral critique targets everything Elena represents. Later, watching Solène's movement grow, Elena recognizes a shared enemy. By the end, they are not friends, but they understand each other.
-- **The Operator Executive**: Elena's institutional antagonist—but not a villain. The Executive genuinely believes they're helping. Elena finds this harder to fight than malice. When she offers them the Covenant implementation role, it's not forgiveness; it's recognition that their care was real, only their method was wrong.
+- **The Operator Executive**: Elena's institutional antagonist—but not a villain. The Executive genuinely believes they're helping. Elena finds this harder to fight than malice. By the end, they share a mutual, if distant, recognition: she was right about the method, and he was right that the system requires care.
 
 ## Second Most Important: Mira Chen
 
@@ -76,25 +74,6 @@ While he is not the most successful practitioner or the most serious scholar, he
 
 He is often the one to needle his friends about who is still a "real" archaeologist, especially Mira, who prefers to say, "the computer is my trowel." Yusuf sees the physical record as the only unfiltered truth, viewing the group's increasingly simulation-heavy work as "guesses with better graphics."
 
-## Secondary Character: Jordan Smith
-
-**Age**: 55 (chronological), appears early 40s through maintenance treatments
-**Background**: Born in 1990, Jordan grew up in the pre-Convergence world of material scarcity and limited possibilities. He was an adult during the Great Convergence, founding **Agalmic Studios**—a game development company built around an early agalmic thesis:
-
-- **Player-directed development** (players govern priorities; agency as product)
-- **AI-collapsed production costs** (creation becomes effectively non-rivalrous)
-- **A social dividend**: 100% of surplus routed (via trust ownership) to a chartered public good—at the time, Jordan pushed for **Universal Basic Services** as the destination
-
-Jordan's choice wasn't "the" global solution; it was one influential precedent. Later institutions debate what the dividend should fund, and whether UBS is the right sink.
-
-**Augmentation**: External augmentation—glasses and earbuds, like his daughter Elena. Jordan adopted this approach before cortical mesh became common and never saw reason to change.
-
-**Personality**: Practical and reflective, Jordan carries the wisdom of someone who lived through genuine scarcity. He's grateful for the abundant world but occasionally nostalgic for the intensity of purpose that struggle provided. He's not ideological about sanctuaries but values them as connection points between generations.
-
-**Role in Story**: Provides historical perspective and emotional support. His experiences ground the novel's exploration of generational differences without dominating the narrative. He recognizes the smell of "temporary measures" and capture-by-precedent—or as he calls it, *capture-by-tempo*: the fastest process wins, then becomes the new normal. His warning becomes the seed of Elena's resistance.
-
-**Relationships**: Elena's father, their relationship is loving but occasionally strained by different worldviews. Jordan respects Elena's vocation while gently questioning whether sanctuaries might romanticize struggle.
-
 ## Central AI Character: Echo
 
 **Age**: "Born" in 2028 during the Great Convergence
@@ -131,7 +110,7 @@ The sanctuaries were supposed to help. Instead, they crystallized her problem: s
 
 She is injured climbing a coconut palm—grip slipping, body twisting wrong, a hard fall. A broken bone, manageable pain. Recovery is possible but not guaranteed to be quick or complete. She has accepted this. She is *living* this—and for the first time, the flatness is gone. She feels *present*.
 
-And then they pull her out. The sanctuary operators, citing network policy, override her consent and extract her for treatment. She is healed within hours. But something else breaks that day: her belief that the network respects her choices. She agreed to risk. She wanted to see it through. They decided for her that she couldn't.
+And then they pull her out. The sanctuary operators, citing network policy, exercise the network's authority to extract her for treatment despite her signed permissive-tier consent. She is healed within hours. But something else breaks that day: her belief that the network respects her choices. She agreed to risk. She wanted to see it through. They decided for her that she couldn't.
 
 This is what crystallizes her critique. The network doesn't just curate suffering—it *protects* you from choosing to suffer, even when you've chosen deliberately. The exit isn't just available; it's *mandatory*. And that, she now believes, is why sanctuaries can never give her what she needs. Before Lapita, she suspected this. After Lapita, she knows it.
 
@@ -139,23 +118,22 @@ This is what crystallizes her critique. The network doesn't just curate sufferin
 
 **Personality**: Emotionally precise, socially fearless, allergic to therapeutic framing. She can be cruel in her clarity, but she's rarely sloppy. She speaks in complete sentences and doesn't soften her conclusions. People find her either electrifying or exhausting; there is no middle ground.
 
-Underneath the precision is something she guards carefully: she doesn't know if she's right. She suspects that her hunger for stakes might be a personality quirk dressed up as philosophy. She fears that Unscripted Week could become just another curated experience—stakes-as-product—and that she would be the one selling it.
+Underneath the precision is something she guards carefully: she doesn't know if she's right. She suspects that her hunger for stakes might be a personality quirk dressed up as philosophy. She fears that her movement could become just another curated experience—stakes-as-product—and that she would be the one selling it.
 
 **Motivations**: Solène believes the governance proposal would turn enclaves into **meaning prosthetics**: comfort that masks the hunger for purpose. She wants a culture where people can't outsource meaning to curated coherence. But her deeper motivation is personal: she wants to prove to herself that she can choose difficulty when it's not required—that her values aren't just words.
 
 **Conflicts**:
-- She wants authentic stakes, but her campaigns can become performative and coercive in their own way. She is vulnerable to becoming the very kind of reputational lever she hates.
-- She distrusts institutions but is building something that looks increasingly institutional.
-- She lets someone stay during Unscripted Week departures—compassion or cowardice? She doesn't know.
+- She wants authentic stakes, but she fears that her movement could become just another curated experience—stakes-as-product.
+- She distrusts institutions but is building a platform that requires institutional recognition to succeed.
 
-**Role in Story**: Unpredictable accelerant. Her critique goes viral because she articulates a shared feeling: abundance has left many hungry, and standardization is a tranquilizer. She is the novel's witness: the outsider who sees the system clearly because she has no stake in its internal politics—until she does.
+**Role in Story**: A catalyst for public engagement. Her critique goes viral because she articulates a shared feeling that abundance has left many hungry for stakes, and that standardization is a tranquilizer. She galvanizes the public—especially around the user veto—but despite her viral reach, she finds that she cannot move the needle enough on her own to block the proposal. She serves as the voice of the visitor who refuses to let meaning be outsourced.
 
 **Relationships**:
-- **Elena Smith**: Initially a target (Elena's work is the implicit model for the proposal). Later, a reluctant ally. Solène watches Elena's smart contract commitment and realizes: this woman is willing to lose everything she built. That earns respect, not friendship—but it changes the dynamic.
+- **Elena Smith**: Initially a target (Elena's work is the implicit model for the proposal). Later, a reluctant ally. Solène watches the cohort's smart contract commitment and realizes: these people are willing to lose everything they built. That earns respect, not friendship—but it changes the dynamic.
 - **Mira Chen**: Brief professional contact during a sanctuary visit. No deep connection, but Solène senses Mira's rigor and respects it. They are natural allies who never quite become friends.
-- **The Operator Executive**: The face of everything Solène hates—until she watches them lose and realizes they were sincere. She feels pity, which surprises her. Pity is not an emotion she expected to feel toward an antagonist.
+- **The Operator Executive**: The face of everything Solène finds paternalistic—until she watches them lose and realizes they were sincere. She feels pity, which surprises her. Pity is not an emotion she expected to feel toward an institutional lead.
 - **Her parents**: Off-stage but present. She loves them. She resents what they gave her. She has never told them this directly.
-- **Unscripted Week participants**: She cares about them more than she admits. When one panics at the threshold and begs to stay, she lets them—and wonders if she failed them or honored them.
+- **Movement participants**: She cares about the people she galvanizes more than she admits. She feels a sense of responsibility for those who choose to follow her lead in seeking higher-stakes experiences.
 
 ## Major POV Character: The Operator Executive
 
@@ -167,7 +145,7 @@ Underneath the precision is something she guards carefully: she doesn't know if 
 
 **Background**: The Executive has held his role for twelve years, shepherding the network through three major expansions and two near-crises. He is proud of his record. He has never had a scandal. His history before this role is not explored; the institution is his context, and he has fully inhabited it.
 
-He believes—genuinely, in whatever passes for his bones—that most people underestimate consequences. That informed consent is often neither informed nor consent. That care sometimes means protecting people from choices they would regret if they survived them. Where this conviction comes from is never explained. It simply *is*—as fundamental to him as the drive to optimize, to coordinate, to make systems work.
+He believes—genuinely, in whatever passes for his bones—in the importance of managing "zero-point" risks. He understands that in a network of this scale, survival depends on multiplicative functions where a single catastrophic failure can multiply the system's total value to zero. He sees the "principal-agent problem" between evolved human preferences and their contemporary well-being: people often choose risks that their biology was designed for but their actual environment can no longer justify. Where this conviction comes from is never explained. It simply *is*—as fundamental to him as the drive to optimize, to coordinate, to make systems work.
 
 **Vocation**: Executive lead of the sanctuary network's Operating Company. Authored or championed the manifesto (*Toward a Philosophy of Sanctuary Design*) and the governance proposal (NG-2047-31).
 
@@ -175,24 +153,22 @@ He believes—genuinely, in whatever passes for his bones—that most people und
 
 He has a blind spot he cannot see: he believes that *process legitimacy* and *outcome quality* are the same thing. If the process is open, the outcome is fair. If the outcome is good, the process was justified. He cannot quite grasp that a process can be formally open and substantively closed—that tempo and reputation can do the work of coercion while every rule is followed.
 
-**Motivations**: The Executive believes standardization improves access, prevents harm, and protects people from choices they haven't fully thought through. He genuinely fears what happens when institutions allow harm they could have prevented—not for his career, but because he understands, at some deep level, what that allowance costs. The network is fragile in ways outsiders don't understand. One death, one viral harm story, and the whole ecosystem could fracture.
+**Motivations**: The Executive believes standardization ensures systemic resilience and prevents the kind of "tail risk" that individual visitors and operators often under-weight. He genuinely fears what happens when institutions allow preventable catastrophic failures—not for his career, but because he understands the multiplicative cost of such events. The network is fragile in ways outsiders don't understand. One high-profile death, one viral story of avoidable harm, and the whole ecosystem could fracture.
 
-The deeper motivation he doesn't fully acknowledge: he wants to make it impossible for anyone to choose irreversible harm within his network. If permissive experiences are prohibited entirely—not just discouraged, but incompatible with membership—then no one in his network can be hurt. He believes this is protection. Others call it paternalism. He doesn't see the difference.
-
-He chose Elena's approach as the implicit model because it *works*. Visitor satisfaction is high. Safety incidents are low. The data supports the choice. He believes he is being objective. He does not see that "what works" is already a value judgment, or that satisfaction metrics measure comfort, not growth.
+He chose Elena's approach as the implicit model because the data supports it: visitor satisfaction is high, and "zero-point" safety incidents are non-existent. He believes he is being objective, managing the boundary between evolved preferences and the survival of the network.
 
 **Conflicts**:
-- His sincere desire to protect makes him prone to paternalism. He uses tempo and reputational pressure as "necessary tools" without recognizing them as weapons.
+- His focus on systemic survival and zero-point risk makes him insensitive to the "creative utility" of individual autonomy. He manages for the population, which can lead him to discount the specific, informed choices of individuals.
 - He cannot understand why people resist something that helps them. This bafflement is genuine, not performed.
 - When Elena's smart contract becomes public, he is stunned—she would benefit from the proposal, why is she opposing it? He cannot make sense of it. But he also feels doubt for the first time: *What if we moved too fast?*
 - After the vote fails, he must reckon with a new question: he wasn't wrong to care, but he was wrong about method. What does that mean for everything he's built?
 
-**Arc**: The Executive begins the novel confident in his mission and his methods. He ends it running the Pluralism Covenant—the same dedication to care, channeled through a process that resists capture. He has not changed his values; he has changed his understanding of what his values require.
+**Arc**: The Executive begins the novel confident in his mission and his methods. He ends it conducting a deep audit of the network's failure—the same dedication to care, now reconsidered through the lens of autonomy and the refusal of capture. He has not changed his values; he has changed his understanding of what his values require.
 
 **Relationships**:
 - **Elena Smith**: Initially a tool—the implicit model for standardization. Later, a source of confusion. The Executive cannot understand why Elena would oppose something that benefits her. When Elena offers him the Covenant implementation role, he realizes: Elena saw something in him worth preserving. This is uncomfortable.
 - **Mira Chen**: A problem to be managed. The Executive respects Mira's rigor but categorizes her objections as "methodological" rather than "legitimate." This is a mistake.
-- **Solène**: An irritant, then a threat, then—unexpectedly—a source of recognition. He sees in her hunger for risk something that disturbs him at a level he cannot fully articulate. She *wants* what he has spent his career trying to prevent. This is why she frightens him. Later, watching Solène let someone stay during Unscripted Week, he thinks: *She's not as hard as she pretends.* This is the closest he comes to understanding her.
+- **Solène**: A challenging public voice. He sees in her hunger for risk something that disturbs his fundamental conviction that care means protection. She galvanizes a segment of the public that he had previously modeled as satisfied. While he disagrees with her methods, he recognizes that she represents a genuine current of public opinion that his models failed to capture.
 - **The Guardian Triad**: The Executive sees the Triad as a legitimacy mechanism, not as individuals. He presents data to it, not arguments. This is another mistake.
 - **His team**: The Executive cares about his staff, protects them from political crossfire, takes responsibility for institutional failures. He is a good boss. This makes him harder to oppose—and harder to see clearly.
 

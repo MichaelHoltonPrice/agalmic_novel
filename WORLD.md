@@ -169,7 +169,7 @@ In a world where material danger has largely been eliminated, some people seek e
 
 **Permissive experiences**: Some sanctuaries offer real physical risk under informed consent protocols. A visitor might agree to conditions where injury is possible, where recovery is not guaranteed to be immediate, where the experience will not be interrupted except for life-threatening emergencies. These are rarer, but they exist—and the people who seek them often have thought carefully about why.
 
-**The network's dilemma**: When a visitor consents to risk and then is harmed, what should happen? The network cannot prevent all harm without overriding visitor autonomy. But allowing harm—even consensual harm—creates questions about institutional responsibility, about what "care" means when the person being cared for has explicitly rejected protection.
+**The network's dilemma**: When a visitor consents to risk and then is harmed, what should happen? The network cannot prevent all harm without conflicting with visitor autonomy. But allowing harm—even consensual harm—creates questions about institutional responsibility, about what "care" means when the person being cared for has explicitly rejected protection in the moment, even if they granted the network authority to intervene in their contract.
 
 This is not a legal question. Consent protocols are robust; liability is clear. It's a *moral* question: Is it paternalistic to protect people from choices they've made deliberately? Is it negligent to allow harm you could have prevented? The network's operators do not agree on the answer. Policy is a thing to be reckoned with—but policy is also contested.
 
@@ -226,6 +226,12 @@ The structural risk: **tempo can become a weapon**. A compressed timeline—45 d
 
 #### The Binding Vote (legitimacy ritual)
 When a proposed standard would significantly constrain network membership or exclude existing approaches, some charters require a high-friction decision: a binding vote with audit and reversal provisions. The novel's primary network uses a small Guardian voting panel (a "triad") that includes an AI seat constrained toward auditability and reversibility.
+
+#### Institutional Loci
+
+**The Axis**: A large multi-use station in Earth orbit serving as the Operating Company's headquarters and administrative hub. While the Operating Company's physical infrastructure is centered here, all governance actions—including the binding vote—are cryptographically distributed across the solar system's network nodes. Institutional scenes (Executive's meetings, Guardian Triad deliberations) are often associated with the Axis, though it remains ambiguous whether participants are physically present or joined via high-fidelity virtual presence. 
+
+In an agalmic society, physical proximity is a choice, not a requirement for coordination. Most institutional coordination occurs through distributed narrative and digital convergence rather than physical gathering.
 
 #### Smart Contracts as Commitment Devices
 In an agalmic economy, talk can be cheap. When someone wants to make a costly signal—to prove their commitment is genuine, not strategic—they can use cryptographically locked contracts that execute automatically based on external conditions. These commitments cannot be revoked or renegotiated. They function as the post-scarcity equivalent of burning boats: by removing the option to retreat, they make words expensive.

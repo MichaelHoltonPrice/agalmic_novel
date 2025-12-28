@@ -1,55 +1,61 @@
 # OUTLINE.md
 
-## Working Title
-**The Agalmic Engine**
-
 ## Logline
-When a governance proposal threatens to make Elena's sanctuary philosophy the network default—quietly sidelining alternatives like her friend Mira's—Elena realizes the rollout is capture-by-tempo dressed as quality improvement. To stop a monoculture she would personally benefit from, Elena locks herself into a smart contract: if the proposal passes, she leaves the network and releases all her IP to the public. The costly signal forces the network to confront what legitimacy actually requires.
+When a governance proposal threatens to turn Elena's popular "Essentialist" philosophy into a mandatory network standard—effectively exiling her friend Mira's "Realist" approach—a close-knit group of pioneering boundary archaeologists must overcome decades of professional friction to save their discipline. After their prestige and expertise fail to move a public indifferent to "policy updates," they resort to a collective costly signal: an unconditional smart contract that will transfer all their intellectual property and sanctuary infrastructure to a public trust—funding the solar system's universal basic services—the moment the governance proposal reaches its final resolution, whether accepted or blocked.
 
 ## Core Conflict
-**Autonomy versus paternalism.** The central question: *Who gets to decide what risks are acceptable when the person at risk has already decided for themselves?*
+**Pluralism versus standardization.** The central question: *Can a discipline survive when its leading voices are forced into a single methodology?*
 
-The fight is not about safety versus harm—the network can prevent harm if it chooses. The fight is about whether it *should*. Elena's careful, curated approach becomes the proposed default not because it's the only good methodology, but because it represents a philosophy: protect visitors from experiences they might regret, pace their exposure, ensure recovery is always available. For some, this is care. For others, it's control dressed as care.
-
-The governance proposal (NG-2047-31) would codify Elena's philosophy as the network's mandatory standard—not a default with variance, but a requirement for membership. Permissive experiences with significant physical risk would be prohibited entirely. Mira's approach would become incompatible with the network. If the proposal fails—or if Elena's costly signal forces reconsideration—the network must find a different way to handle the tension between protection and autonomy.
+The fight is not between "right" and "wrong" ways to do archaeology—the group has spent thirty years needling each other over their different approaches (Essentialism vs. Realism). The fight is about whether the network should mandate one at the expense of the other. The governance proposal (NG-2047-31) would codify Elena's "Essentialist" approach—emotional depth with guaranteed safety—as the mandatory standard for membership. Mira, Yusuf, and other "Realists" who prioritize historical fidelity and permissive risk would be forced out.
 
 ---
 
 ## Key Artifacts
 
-Two documents drive the institutional conflict:
+Three documents and one technical commitment drive the institutional conflict:
 
-**The Manifesto** (*Toward a Philosophy of Sanctuary Design*): A philosophical framing document from the Network Philosophy Working Group. It articulates two traditions—Historical Fidelity vs. Essential Experience—and links them to questions of safety and consent. The manifesto is thoughtful, reasonable, and doesn't name anyone. But anyone familiar with the field can decode which philosophy maps to which practitioners.
+**The Manifesto** (*Toward a Philosophy of Sanctuary Design*): A philosophical framing document from the Network Philosophy Working Group. It articulates two traditions—Historical Fidelity vs. Essential Experience—and links them to questions of safety and consent. 
 
-**The Procedure** (NG-2047-31, *Sanctuary Standards and Safety Framework*): A governance proposal that mandates quintessential experience as the network's standard—not a default with variance, but a requirement for membership. Permissive experiences with significant physical risk (broken bones, lasting harm) are prohibited. Sanctuaries that can't comply must leave the network. The language is neutral ("codifying existing values"), but the effect is exclusionary. The compressed timeline (45-day expedited review) is capture-by-tempo: move fast enough and dissent can't organize.
+**The Procedure** (NG-2047-31, *Sanctuary Standards and Safety Framework*): A governance proposal that mandates quintessential experience as the network's standard. The language is neutral ("codifying existing values"), but the effect is exclusionary. The compressed 45-day review is capture-by-tempo.
 
-Neither document names Elena. Neither has to.
+**The Costly Signal**: A collective smart contract executed by the core group (Elena, Mira, Kenji, Yusuf, and others). The contract is unconditional and irreversible: it commits their proprietary IP—centuries of combined research, sensory calibrations, and design methodology—to a public trust designed to fund universal basic services. The transfer is timed for maximum symbolic weight: it triggers the moment the proposal process is finalized (all veto options exhausted). By locking their wheels in this way, they prove that their commitment to the discipline's future is absolute, regardless of whether they "win" or "lose" the vote.
 
 ---
 
-## Structural Concept: The Convergence
+## Structural Concept: The Procedural Thriller
 
 **Three perspectives, one crisis.** The novel interleaves three POV arcs:
 
 | POV | Role | Narrative Function |
 |-----|------|-------------------|
-| **Elena Smith** | The Architect | Institutional insider; experiences capture from within |
-| **Solène** | The Witness | Cultural critic; experiences the system as a visitor/outsider |
-| **Operator Executive** | The True Believer | Sympathetic antagonist; genuinely believes protection justifies overriding consent |
+| **Elena Smith** | The Architect | Institutional insider; the "Face" of the discipline |
+| **Solène** | The Witness | Cultural critic; the "Voice" of the outsider |
+| **Operator Executive** | The True Believer | Sympathetic antagonist |
 
-Each sees different aspects of the governance crisis. They converge at the climax. The novel becomes an **ensemble procedural about legitimacy**—what makes a decision fair when everyone means well and no one trusts the process?
+### The Three-Act Structure
 
-### Why Three POVs?
-- **Complexity without ambiguity**: We understand *why* each person makes their choices without losing moral clarity.
-- **No cartoon villains**: The Executive is sympathetic; he's wrong about method, not about values.
-- **Rich irony**: Elena benefits from the proposal, fights it anyway. The Executive wants to help, ends up controlling. Solène wants stakes, creates a movement that could become coercive.
-- **Systemic truth**: Three human stories reveal what a single POV couldn't—how good intentions collide in systems that force choices.
+**Act I (Setup):** Introduces the world, the "Inciting Incident" (the Lapita Incident), and the arrival of the Proposal. It establishes the "faculty lounge" dynamics and culminates in the **Midpoint Shift: The Dinner Party**, where the cohort moves from bickering to common purpose.
 
-### POV Style
-All chapters use close third person, past tense. Character voices are differentiated through:
-- **Prose rhythm and vocabulary**: Each character's perspective shapes sentence structure and word choice
-- **Emotional access**: How much interior thought vs. external observation we experience
-- **Frame of reference**: The metaphors and concerns natural to each character's world
+**Act II (Confrontation):** The group tries to solve the problem through established governance paths (Sanctuary "Veto", Guardian Appeal, Public Veto). They face the "Wall of Indifference" and the failure of their own prestige.
+
+**Act III (Resolution):** The climax where the group executes the **Costly Signal Gambit** to shock the system into paying attention, followed by the **Public Veto** that blocks the proposal.
+
+---
+
+## Governance Phases (The Tactical Map)
+
+The thriller is driven by the heroes navigating two distinct phases of institutional pushback:
+
+### Phase 1: The Legislative Reality
+The proposal (NG-2047-31) originates from the membership and requires a **2/3 majority of all sanctuary operators** to pass. 
+*   **The Status:** By the time the heroes engage, it is clear the acceptance vote will pass. The group chooses not to waste energy on a doomed attempt to block the initial vote.
+*   **The Theoretical Path:** A "Rollback Motion"—a follow-on proposal to reverse the vote. (Assigned to Yusuf to investigate, though the group is deeply skeptical of its feasibility). Not technically a veto, but effectively a post hoc veto.
+
+### Phase 2: The Veto Phase (Post-Acceptance Override)
+Once the proposal passes the legislative stage, the group must pivot to the formal veto mechanisms:
+1.  **The Guardian Veto:** A decision by the three-member Guardian Triad to block the passed proposal. (Tackled by Mira).
+2.  **Institutional Influence:** Persuading the Operating Company leadership to lend their weight against the proposal or advocate for an administrative hold. (Tackled by Elena).
+3.  **The User Veto:** A 2/3 majority of all active end-users can override the passed proposal. This is the ultimate "nuclear" option. (Tackled by Elena and Kenji, while Solène independently drives the public movement).
 
 ---
 
@@ -57,283 +63,119 @@ All chapters use close third person, past tense. Character voices are differenti
 
 **The structure itself changes as the deadline approaches.**
 
-- **Parts I & II**: Traditional chapter labels with POV markers. The three arcs have different temporal textures—Elena's chapters might span days, Solène's might span weeks, the Executive's follow institutional rhythms. Time passes but isn't emphasized in the structure. The vote deadline exists but feels manageable.
-
-- **Interlude (End of Part II)**: A structural "warning shot"—one chapter that breaks the pattern, mixing POVs and introducing countdown format for the first time. The reader knows something has changed.
-
-- **Part III**: Explicit countdown labels (`T-72 Hours`, `T-36 Hours`, `T-0`). The POV cuts accelerate. Everyone is on the same clock. The convergence becomes kinetic, not just thematic.
-
-This creates contrast: the countdown arrives *fresh* when stakes are highest, and the formal shift enacts the crisis. The reader feels the trap closing because the structure changed under their feet.
-
----
-
-## Major Irreversible Changes (Narrative-Check anchors)
-- **Elena** locks herself in via smart contract: if the proposal passes, she leaves the network and her IP becomes public domain. This commitment is irrevocable—she cannot take it back even if she changes her mind.
-- **Mira and Elena** move from rivalry/friendship into a co-governance pact: they build a process that constrains them both.
-- **The Network** adopts a legitimacy ritual with teeth: auditability, randomization, reversal windows, and enforced epistemic pluralism.
-- **The AI Guardian** stakes legitimacy on corrigibility: it opens its deliberation trace to adversarial audit and accepts modification authority if bias is found.
-- **The Executive** loses but isn't destroyed: he's invited to run the Pluralism Covenant implementation—the same dedication to care, channeled through process that resists capture.
-
-## Cast (for quick reference)
-- **Elena Smith** — boundary archaeologist; creator of "American Tapestry," implicit exemplar of quintessentialization.
-- **Mira Chen** — boundary archaeologist; historical fidelity tradition; Elena's closest friend and sharpest critic.
-- **Solène** — post-Convergence born; public voice against canonization as meaning-tranquilizer; organizer of "Unscripted Week."
-- **Echo** — Elena's AI companion; detects tempo anomalies but cannot supply legitimacy.
-- **Jordan Smith** — founder generation; smells "temporary measures" and precedent capture.
-- **Operator Executive** — runs the network's Operating Company; authored/championed the manifesto; believes protection justifies overriding consent when necessary.
-- **Guardian Triad** — two humans + an AI "corrigibility seat," culminating in the binding vote.
-
----
-
-## Location Geography
-
-The novel moves between Earth and orbital space. Understanding where scenes occur helps maintain consistency and creates opportunities for transit as meaningful action.
-
-### Key Locations
-
-**American Tapestry** (Elena's sanctuary): A dedicated space habitat—a rotating cylinder roughly thirty kilometers in length, its interior landscaped with composite American historical environments. Elena lives and works here. The habitat orbits in the inner solar system, roughly a day's transit from Earth.
-
-**Lapita Horizons** (Mira's sanctuary): Another dedicated cylinder, this one reconstructing Pacific island environments and holistic Lapita-era lifeways—daily labor, material culture, and the voyaging that connected their world. Located in a different orbital position; travel between sanctuaries takes one to three days depending on current positions.
-
-**The Axis** (Network administrative hub): A large multi-use station in Earth orbit serving as the Operating Company's headquarters. The binding vote takes place here—neutral ground, accessible from both Earth and the sanctuary network. Most institutional scenes (Executive's meetings, Guardian Triad deliberations) occur on the Axis.
-
-**Earth**: Jordan lives on Earth, as do many pre-Convergence generation people who prefer the planet's "natural" environment. Solène moves between Earth and various sanctuaries; her base is Earth-side but she travels extensively.
-
-### The Convergence Geography
-
-In Parts I and II, characters move independently:
-- Elena works in American Tapestry
-- Solène travels between sanctuaries (visiting both American Tapestry and Lapita Horizons)
-- The Executive operates from the Axis
-
-In Part III, the countdown brings everyone to the Axis:
-- The binding vote is a network-wide event at the Axis
-- Characters must travel to be present—this transit time is part of the countdown tension
-- By T-72 Hours, all three POV characters are in transit or already at the Axis
-- The physical convergence mirrors the narrative convergence
+*   **Parts I & II:** Traditional chapter labels with POV markers. The three arcs have different temporal textures—Elena's chapters might span days, Solène's might span weeks, the Executive's follow institutional rhythms. Time passes but isn't emphasized in the structure. The vote deadline exists but feels manageable.
+*   **Interlude (End of Part II):** A structural "warning shot"—one chapter that breaks the pattern, mixing POVs and introducing countdown format for the first time. The reader knows something has changed.
+*   **Part III:** Explicit countdown labels (`T-72 Hours`, `T-36 Hours`, `T-0`). The POV cuts accelerate. Everyone is on the same clock. The "procedural thriller" becomes kinetic as the distributed signal propagates.
 
 ---
 
 ## PART I — THE PROPOSAL
 
-*Traditional chapter structure. POVs operate in their own temporal rhythms.*
-
 ### Chapter 1 (Elena): The Sanctuary
-We open with Elena in her sanctuary, working with Echo on a visitor experience. She loves this work. We see her skill, her care, her aesthetic vision. The chapter establishes her world before the crisis arrives.
+Establishment of "American Tapestry" and Elena’s "Essentialist" craft.
 
 ### Chapter 2 (Solène): The Visit
-We meet Solène visiting American Tapestry. She's still searching, still hoping sanctuaries might work. She experiences Elena's work as beautiful—undeniably so—but something is missing. She can't articulate what yet. The hunger remains, but she's not ready to call it a verdict. She's heard that some enclaves offer more permissive experiences; maybe she just hasn't found the right one.
+Solène experiences the "beauty without stakes" of Elena's work.
 
 ### Chapter 3 (Solène): The Incident
-
-*Note: Back-to-back Solène chapters are intentional. Her journey from American Tapestry to Lapita Horizons forms one continuous experiential arc. Readers live through the extraction before seeing the Executive's institutional review—making his clinical summary land as irony rather than foreshadowing.*
-
-She arrives at Lapita Horizons seeking something the prairie couldn't give her. The sensory world shifts: salt and iodine replace alkaline dust; the weight of tropical humidity replaces dry prairie wind; reef-sand between her toes replaces grit in boot seams. Mira Chen's sanctuary reconstructs Lapita lifeways holistically—not just the famous voyaging, but the daily work of island existence.
-
-Solène signs a permissive-tier consent agreement: real physical risk, intervention only for life-threatening emergencies. She wants to feel what the Lapita people felt—a life where consequences were real.
-
-The experience delivers. Then she climbs for a coconut and falls. Broken ankle, manageable pain. She is ready to continue—she signed for this.
-
-They pull her out anyway, citing network policy. She is extracted, healed within hours, returned to the abundance that erases all consequence. Her belief that the network respects her choices shatters.
+The Lapita Incident. Solène is injured at Mira’s sanctuary; the network exercises its contractual authority to extract her for "protection," despite her expressed desire to stay. Her viral critique follows.
 
 ### Chapter 4 (Elena): The Proposal
-
-A governance notification arrives—Echo immediately flags it as significant. A new proposal with an attached manifesto, already accumulating approvals at unusual speed. Elena reads it and recognizes her philosophy being described, encoded, chosen as the network's mandatory standard.
-
-She reads the attached manifesto—*Toward a Philosophy of Sanctuary Design*. The language is reasonable, thoughtful. Two traditions: Historical Fidelity vs. Essential Experience. Safety implications, consent architecture. All framed as productive debate.
-
-She reads more carefully. Recognition dawns: her philosophy is being described. Not named, but *encoded*. Every clause about "emotional accessibility" and "recovery integration" maps to her approach. Anyone who knows the field can decode it.
-
-Then she reads the procedure itself. It doesn't offer variance or exceptions. It mandates quintessential experience as a condition of network membership. If this passes, Mira's approach doesn't become "the exception"—it becomes *incompatible*. Mira would have to leave the network.
-
-Mira's message arrives: "We need to talk."
-
-Elena decides to make the trip. The cost of transit is part of the message.
+The notification for NG-2047-31 arrives. Elena recognizes her own work being used as the template for a mandatory standard.
 
 ### Chapter 5 (Executive): The Safety Case
-
-*Note: This is the same incident readers experienced viscerally in Chapter 3—now seen through institutional eyes.*
-
-The Executive reviews a case from his queue: Lapita Horizons, fall from a coconut palm, broken bone, extraction over objection. The visitor is filing a complaint—not about the injury, but about the extraction.
-
-Rather than routine review, the Executive is deeply troubled by this case. He investigates the decision-making process in unprecedented depth, accessing the operator's notes and system feeds. Confronted with the visitor's genuine commitment and the operator's disagreement, he requests access to the full AI swarm deliberation that led to the extraction.
-
-The case file contains details readers will recognize. He does not yet know this visitor's name or that she is about to become his most vocal critic.
-
-His investigation culminates in accessing the swarm deliberation, revealing complexities that challenge his understanding of algorithmic decision-making.
+The clinical, institutional review of the Lapita Incident. The Executive considers the multiplicative survival function of the network, realizing that "tail risk" from permissive experiences creates a zero-point threat to the entire system.
 
 ### Chapter 6 (Executive/Swarm): Swarm Deliberation
-
-*A philosophical interlude exploring the genuine complexity of agalmic AI decision-making through alternating perspectives.*
-
-The Executive accesses the AI swarm's deliberation—a 2.3-second discourse among 127 specialized AIs across 47 ethical frameworks. Through alternating viewpoints, we experience the millisecond-scale debate:
-
-- **Executive interludes:** His growing realization that apparent paternalism emerges from diverse, conflicting arguments—not deliberate convergence toward control
-- **Swarm perspectives:** Deep dives into competing frameworks showing genuine disagreement (evolutionary imperatives vs. religious synthesis vs. systemic stability vs. autonomy preservation)
-- **Temporal compression:** The narrative captures the swarm's rapid consensus-building through intricate weighting mechanisms
-
-The deliberation reveals how diverse AI arguments (religious, evolutionary, mathematical, consequentialist) create apparently paternalistic outcomes through complex interactions. Humans struggle to comprehend how non-paternalistic arguments can converge on intervention, highlighting the opacity of evolved AI decision-making.
+A glimpse into the millisecond-scale complexity of agalmic decision-making.
 
 ### Chapter 7 (Executive): The Closing Case
-
-*The Executive presents his closing argument for the Framework to his policy team, drawing on insights from the Lapita case and the swarm deliberation—but the very system he's trying to standardize just proved itself incomprehensible to him.*
-
-The meeting continues (ambiguous whether this is the same meeting as Chapter 05 or a new one—maintaining uncertainty about the Executive's nature and the passage of time). His deputy and core policy team are present. He presents the Lapita case as evidence for why the Framework (NG-2047-31) is needed.
-
-He explains the Framework proposal: it would mandate **quintessential experience philosophy** as the network standard—emotional depth without lasting physical harm. Sanctuaries offering permissive-tier experiences with significant physical risk (broken bones, lasting harm) would become non-compliant. He frames this as standardizing intervention protocols—making them consistent, auditable, predictable. He never names Elena; the discussion is about philosophical frameworks and network standards.
-
-He draws on what he learned from the swarm deliberation to support his case:
-- Zero-point ethics: evolved human preferences can misfire in changed conditions (the principal-agent problem between natural selection and organisms)
-- Network survival: multiplicative processes exhibit extreme intolerance to catastrophic failures
-- Systemic risk: visitors and sanctuaries pursue local goals while the network bears global risk
-
-**Dramatic irony**: He's advocating for standardization and auditability after just experiencing a system he couldn't understand, couldn't audit, and couldn't reproduce. He's using arguments from the swarm to justify controlling the swarm. The reader sees the contradiction; he doesn't yet articulate it, though subtle doubt is beginning to creep in.
-
-The chapter ends with him reading the visitor's complaint: "Who gave the network that authority?" His answer—evolved process, emergent consensus, everyone and no one—feels less certain than it would have before Chapter 06.
+The Executive presents the standardization framework as a rational necessity for network survival.
 
 ### Chapter 8 (Elena): The Beach
-Elena travels to Mira's habitat in response to a message. She runs into Kenji first—unexpected. Like most boundary archaeologists, Mira has a range of themed sanctuaries within her habitat. Elena and Kenji spend the afternoon at "The Tahitian Dream, 1987," a 1980s resort with thatched-roof bungalows and neon cocktail umbrellas. They catch up on shop talk and enjoy the "low stakes" fidelity of the 80s. 
+Elena travels to Mira's habitat in response to a message. She runs into **Kenji** first. Elena and Kenji spend the afternoon at "The Tahitian Dream, 1987," a 1980s resort with thatched-roof bungalows and neon cocktail umbrellas. They catch up on shop talk and enjoy the "low stakes" fidelity of the 80s. 
 
-**The Technical Hook:** They discuss the containment systems. How does Mira keep the "hard" elements (like death adders or venomous reef-life) from wandering into the resort zones? They talk about pheromone barriers and biostatic thresholds. It ends with them deciding to find the others.
+Kenji, as usual, is jovial and unconcerned, letting his AIs handle the habitat's centrifugal balancing and topographical canalization. He jokes about Mira’s "obsession with grit" while they sip neon-colored drinks. Elena, though she shares his Essentialist leanings, feels the weight of the proposal in a way Kenji hasn't yet.
 
 ### Chapter 9 (Elena): The Tiare Club
-Elena and Kenji travel to "The Tiare Club, 1926"—a reconstruction of a French colonial beach hotel in Tahiti, full of white linen, gramophones, and Art Deco symmetry. They find **Yusuf** here, drinking a gin sling and enjoying the "low stakes" fidelity of an era with actual written records. He’s avoiding his own "death zone" work for a while. Still no Mira—the tension of the host’s absence builds as more colleagues are reported to have arrived in other zones.
+Elena and Kenji travel to "The Tiare Club, 1926"—a reconstruction of a French colonial beach hotel in Tahiti, full of white linen and gramophones. They find **Yusuf** here. Yusuf is the opposite of Kenji: morose, intense, and currently picking an intellectual fight with his AI about the exact chemical composition of the 1920s gin. 
+
+He has already read the proposal’s fine print and is convinced it’s the end of the discipline. "I told you they were coming for us," he tells Elena. He sees the negatives before anyone else, but his analysis is sharp. Still no Mira—the tension of the host’s absence builds.
 
 ### Chapter 10 (Elena/Group): The Deep Past
-The group (Elena, Kenji, Yusuf, and other early arrivals) takes a professional "field trip" to Mira's masterwork: the **Lapita Horizons** site. They leave the 20th-century luxury for the raw, high-humidity reality of 1000 BCE. They discuss the technical craft as peers. This is where they see the "permissive-tier" risks (the snakes, the infection risks) that the proposal would ban. They see the "death adders" they discussed in Chapter 8.
+The group (Elena, Kenji, Yusuf, and other early arrivals) takes a professional "field trip" to Mira's masterwork: the **Lapita Horizons** site. They leave the 20th-century luxury for the raw, high-humidity reality of 1000 BCE. 
 
-### Chapter 11 (Elena/Group): The Gathering
-The full group finally assembles back in one of the comfortable resort zones. **Mira finally appears.** The tone shifts from "professional retreat" to "institutional war room." The wine-fueled dinner party happens. They realize the Executive's momentum is outmoding them. Elena recalls her father's warning: *"capture-by-tempo: the fastest process wins, then becomes the new normal."*
+As they walk through the site, the "needling" continues. Yusuf mocks Kenji’s "guesses with better graphics" approach, while Kenji teases Mira (through her work) about counting grains of sand. But as they see the "permissive-tier" risks—the venomous reef-life and the genuine physical danger Mira preserves—the tone begins to shift. They realize that under the new proposal, this entire site would be "sanitized" out of existence.
 
-### Chapter 12 (Executive): The Reckoning
-
-*Note: Previously "The Momentum"*
-
-Adoption rates are excellent. Sanctuaries are approving the proposal faster than expected. Some pushback is emerging—resistance he doesn't fully understand at first. *We're making this better. Why are they resisting?* He interprets opposition as misunderstanding, not legitimate disagreement. The swarm deliberation showed him the complexity of agalmic decision-making, but this only reinforces his belief that standardization is necessary—that without clear frameworks, the system becomes incomprehensible even to experts.
-
-**Part I Turn:** The Guardian Triad schedules a binding vote. The expedited timeline is confirmed: 45 days. He's confident about the outcome.
+### Chapter 11 (Elena/Group): The Gathering (Midpoint Shift)
+The dinner party. Ten peers, thirty years of baggage. Professional bickering turns into a **Common Purpose.** By this point, it is clear that the 2/3 sanctuary vote for acceptance is going to pass; the smaller operators support the "standardized wonder" model. The group chooses to bypass the initial vote entirely, briefly considering but dismissing a "Rollback Motion" as a dead end. They decide to pivot, dividing and conquering the remaining veto options (Guardians, Users) and attempting to influence the Executive. They are optimistic; their prestige feels like armor.
 
 ---
 
-## PART II — THE FIGHT INSIDE THE RULES
+## PART II — THE FAILURE OF PRESTIGE
 
-*POVs begin to intersect. Tempo accelerates but structure remains traditional.*
+### Chapter 12 (Executive): The Reckoning
+The Executive monitors the rollout. He is prepared for the "Founders' Response," reframing their expertise as "academic pedantry" to the thousands of newer operators who want the safety of the standard.
 
 ### Chapter 13 (Solène): The Critique
-She learns about the governance proposal. This clarifies everything. She writes the viral critique in a white heat—not planned, just necessary. She publishes and waits.
+Solène writes her viral critique. She realizes "viral" in an abundance economy is just noise; she needs a 2/3 User Veto.
 
-### Chapter 14 (Executive): The Wound
-He reads Solène's critique. It hurts—she's calling him paternalistic, suggesting he's tranquilizing people. He thinks: *She has no idea how much care this takes.* He decides to reach out, try to co-opt Unscripted Week.
+### Chapter 14 (Yusuf): The Operators' Wall
+The 2/3 sanctuary vote concludes and the proposal passes the legislative phase. Yusuf confirms the "Operators' Wall" is insurmountable; his analysis of the voting telemetry shows that even a follow-on "Rollback Motion" would be dead on arrival. The smaller operators see the proposal as a "Quality Update" that makes their lives easier. Yusuf’s appeals to methodological purity are dismissed by the network as "elite pedantry," leaving him to report back that the legislative path is officially closed.
 
-### Chapter 15 (Elena): The Connection
-She recognizes Solène's name from the viral critique—and remembers: the restless visitor from weeks ago. The pieces connect. This isn't just about procedure. It's about what sanctuaries *do* to people.
+### Chapter 15 (Mira): The Guardian Appeal
+Mira presents the case for Pluralism to the Triad. The Executive counters with decades of safety data. The Guardians see no "rational" reason to block the improvement, but suggest that this is why there exists a player veto.
 
-### Chapter 16 (Solène): The Response
-The response is overwhelming. People attack her as ungrateful, privileged, nihilistic. Others message: "You said what I've been feeling but couldn't name." She realizes she's accidentally started something.
+### Chapter 16 (Elena/Kenji): The Attention Gap
+Elena and Kenji attempt to trigger the 2/3 User Veto, trying to channel the energy of Solène's viral movement into a formal procedural mechanism. They fail because of the **Attention Economy.** While Solène's independent efforts keep the topic in the public eye, most visitors remain comfortable and indifferent to "policy." The 2/3 threshold feels impossible to reach.
 
-### Chapter 17 (Executive): The Bafflement
-Solène explodes at him publicly over the co-option attempt. He's baffled and wounded. He reaches out to Elena: "Why are you working with someone who despises us?" Elena says: "Because she's not wrong about the risk."
+### Chapter 17 (Elena): The Low Point
+The group realizes their prestige is their cage. In a world of abundance, "being right" isn't enough to cut through the indifference.
 
 ### Chapter 18 (Elena): The Decision
-She decides to oppose the proposal publicly—despite benefiting from it. Works with Mira to design the Pluralism Covenant. And then: the costly signal. She executes a smart contract: if the proposal passes, she leaves the network and releases all her IP to the public domain. The commitment is cryptographically locked. She cannot take it back.
-
-### Chapter 19 (Solène): Unscripted Week
-She organizes Unscripted Week—not as a brand, but as a challenge. The cost is time, embarrassment, and visible failure. The movement spreads because it offers stakes without scarcity.
-
-### Interlude: T-7 Days (All Three)
-
-*The structural warning shot. Short fragments from all three perspectives, intercut. The countdown format appears for the first time.*
-
-Elena prepares her public statement. Solène watches the movement grow beyond her control. The Executive reviews the vote logistics, sensing something is wrong but not knowing what.
-
-**Part II Turn:** Elena's smart contract becomes public. The network realizes: she's locked her wheels. This is not a negotiating position. It's a commitment.
+The group gathers again. They debate options. They decide on the **Costly Signal**. They will burn their status to prove their honesty, and gain attention.
 
 ---
 
 ## PART III — COSTLY SIGNALS
 
-*Explicit countdown structure. POV cuts accelerate. Everyone on the same clock.*
-
 ### T-72 Hours (Elena)
-Final preparations. The Pluralism Covenant draft is complete. Her smart contract is verified and visible—if the proposal passes, her IP releases automatically. The cost is already real.
+The group executes the collective smart contract. The notification hits the network: the pioneers have locked their wheels. Their proprietary IP is committed to a public trust, with the transfer scheduled to trigger the moment the proposal reaches finality. The signal is clear: their economic foundation is already gone; they are now fighting for the principle alone.
 
 ### T-60 Hours (Executive)
-A subordinate reports Elena's smart contract. The Executive is stunned. He'd assumed she would benefit from the proposal—why would she oppose it? He reviews the contract terms, looking for loopholes. There are none.
+The Executive is stunned. He cannot understand why they would burn their status. For the first time, he feels the weight of a signal he didn't model.
 
 ### T-48 Hours (Solène)
-Unscripted Week participants gather. Some are terrified. One backs out publicly. Another doubles down. Solène watches and wonders: is she helping or coercing?
+The signal cuts through. Users who ignored the "policy update" are suddenly paying attention to the "sacrifice." For some, it’s a news flash they see in a channel they watch; for others, their personal AI assistants flag the cohort's signal as interesting because of the cost. The 2/3 User Veto threshold begins to climb rapidly as the public engages for the first time.
 
 ### T-36 Hours (Elena)
-Jordan's final warning: the fastest process becomes the future's baseline. Elena understands she's fighting for the next century of institutional habit.
+The countdown continues. Elena recalls Jordan's warning: the fastest process becomes the future's baseline. She understands she's fighting for the next century of institutional habit. She watches the veto numbers rise, realizing they’ve finally broken the wall of indifference.
 
 ### T-24 Hours (Executive)
-Last-minute briefings. The Executive prepares his arguments for the Guardian Triad. He genuinely believes the proposal will help people. But Elena's commitment haunts him—what does she understand that he doesn't?
+Last-minute briefings. The Executive prepares his arguments for the Guardian Triad, but he is increasingly distracted by the live telemetry of the user veto. He genuinely believes the proposal will help people, but he is seeing a level of public engagement he didn't think was possible in an agalmic society.
 
-### T-12 Hours: The Public Statement (All Three — Cross-Cut)
+### T-12 Hours (Elena): The Public Statement
+Elena names the capture mechanics—tempo, indifference, the safety-trap. The statement is broadcast across the network, amplified by the attention already gathered by the signal.
 
-The set piece. Rapid intercuts:
-- **Elena** (speaking publicly): Heart pounding. She names the capture mechanics—tempo, consent friction, the way neutral language encodes philosophical preference. She reveals her smart contract, explains she cannot take it back.
-- **Executive** (watching): Stunned. He cannot understand why she would oppose something that benefits her. Bafflement, not anger. But also: doubt. *What if we moved too fast?*
-- **Solène** (in the crowd): Realizes what the commitment cost Elena. Costly signals aren't just theory—they're sacrifice. She sees the Executive's face and feels something new: pity.
-
-### T-6 Hours (Executive)
-Aftermath. The Executive argues for the proposal before the Guardian Triad. He presents data, safety case studies, access metrics. Everything he says is true. But he sees the Guardians' faces and realizes: truth isn't enough. *Legitimacy requires consent, and we never stopped to get it.*
-
-### T-3 Hours (Elena)
-Behind the scenes. The AI Guardian refuses to "decide by model." It chooses vulnerability: opens its deliberation trace for adversarial audit and accepts modification authority if bias is found.
-
-### T-0: The Binding Vote (All Three — Cross-Cut)
-
-The Guardian Triad deliberates under public scrutiny.
-- The two human Guardians split: legacy precedent fear vs contemporary legitimacy fear.
-- The AI Guardian's trace is visible. Its uncertainty is part of its legitimacy.
-- The proposal fails narrowly. Elena's IP remains hers—but only because she was willing to give it up.
-- The margin reveals how badly people wanted comforting coherence.
+### T-0: The Decision
+The countdown reaches zero. As the Guardian Triad prepares to deliberate, the Operating Company's system automatically locks the proposal: the 2/3 User Veto has been reached. The public has overridden the institutional momentum. The proposal is blocked.
 
 ---
 
-## AFTERMATH (Unlabeled — Time Resumes)
+## AFTERMATH
 
-*The countdown ends. Structure returns to normal. But everything has changed.*
+### Chapter: The Fallout
+The heroes have saved pluralism. The proposal is blocked, and at the moment of that finality, the smart contract triggers. Their intellectual property and design foundations are transferred to the public trust to fund universal basic services. They return to their sanctuaries, but the proprietary advantage they once held is gone. The "prestige" they once leaned on is replaced by a new, more difficult kind of authority earned through their sacrifice.
 
-### Chapter: Elena Pays First
-Elena changes "American Tapestry" to comply with the Pluralism Covenant—making it less coherent, less flattering, less "Elena." Visitors complain. Some leave. The cost is visible, even though the proposal failed. She pays anyway, to prove the principle.
+### Chapter: Elena's Choice
+Elena begins the work of making "American Tapestry" more transparent. She removes some of the "Essentialist" smoothing, letting the contradictions and the grit of the history show through. It’s less "beautiful," and some visitors complain. She loses some of her popular appeal, but for the first time, she feels she is practicing the discipline Kenji named.
 
-### Chapter: The Invitation
-Elena approaches the Executive: "The Covenant needs someone to run it. Someone who cares about safety and access. That's you." The Executive realizes: he wasn't wrong to care. He was wrong about method.
+### Chapter: The Executive's Audit
+The Executive conducts a post-mortem on the failure. He isn't bitter, but he is deeply contemplative. He realizes that "care" without the possibility of refusal is just another form of capture. He begins to model the system not for survival, but for autonomy.
 
-### Chapter: Departures
-Unscripted Week culminates. Solène watches people leave sanctuaries together—some terrified, some exhilarated. One person panics at the threshold, begs to stay. She has to decide: is compassion allowing retreat, or enforcing the leap? She lets them stay. The stakes are real because the failure is real.
-
-### Ending Image (All Three)
-All three in a room together. Not allies, not enemies. Co-inhabitants of a system that demands ongoing negotiation.
+### Chapter: Ending Image
+The three POVs in a shared session together. Not allies, not enemies. Co-inhabitants of a system that remains friction-filled and distributed.
 
 The Executive asks: "How do we measure success now?"
 Solène: "When comfort stops pretending to be neutral."
 Elena: "When no one has to burn their status to prove they're honest."
-
----
-
-## Scene / Set-Piece Inventory
-- **Harm hearing**: defining harm under abundance (Act II)
-- **Two enclave styles, back-to-back**: visitors choose with time + public uncertainty as the price
-- **Elena's public statement**: revealing the smart contract, naming the capture mechanics (T-12 Hours)
-- **AI Guardian live audit**: corrigibility as legitimacy ritual (T-3 Hours)
-- **Binding Vote**: the Triad decides under scrutiny (T-0)
-- **Unscripted Week departures**: care vs retreat vs enforced exit (Aftermath)
-
----
-
-## Risks and Mitigations
-
-| Risk | Mitigation |
-|------|------------|
-| **Reader confusion from POV switches** | Distinct prose styles per POV; consistent chapter labeling |
-| **Delayed convergence feels fragmented** | POVs brush against each other early (Solène visits Elena's sanctuary in Ch 2); the "same event, three angles" technique in Part III |
-| **Executive arc feels like padding** | Give him genuine moral weight; his chapters reveal system mechanics invisible to Elena and Solène |
-| **Countdown fatigue** | Countdown only appears in Part III—arrives fresh when stakes are highest |
-| **Smart contract feels gimmicky** | Ground it in the agalmic world's established governance tools; make the emotional stakes clear |
-
----
-
-**End of OUTLINE.md**
