@@ -104,7 +104,23 @@ Elena sat up. "Silas? He was the most stubborn guy in the network. What happened
 
 "He's not the only one," Yusuf said quietly. The melancholy was creeping back into his voice. "Three people from my cohort have moved to 'lifestyle reconstructions' in the past year. No stakes. No danger. Just... comfort."
 
-The synth-pop shifted to something slower. The golden light was beginning to deepen toward amber.
+"Speaking of stakes," Elena said, "how does Mira keep all of this separate? The resort zones, the historical reconstructions, the—" she gestured vaguely toward the horizon, "—whatever else she has out there. The biosecurity alone must be a nightmare."
+
+"It's a redundant stack," Kenji said. "Structural barriers first—deep-water trenches and ridge-lines that look like geography but act as hard containment. Then she layers in micro-climate thresholds. The reptiles hit a wall of dry, cool air and turn back by instinct."
+
+"Reptiles?" Elena raised an eyebrow.
+
+"Death adders," Yusuf said, with something like reverence. "Bred from lineages on Earth. Mira spent five years getting the venom yield right. They're part of the Lapita reconstruction—if you're walking the coastal paths at night without your glasses on high-alert, you're playing the same game the original settlers played."
+
+"She built a sanctuary with actual venomous snakes."
+
+"She built a *world* with actual consequences." Yusuf's voice was quiet. "That's the difference, Elena. In your sanctuary, the stakes are emotional. In Mira's, they're biological."
+
+The synth-pop shifted to something slower. The golden light was beginning to deepen toward amber. Yusuf raised his glass, the neon-blue liquid catching the fading sun.
+
+"To the death adders," he said. "May they never learn to read governance proposals."
+
+Elena and Kenji raised their glasses. The clink of ice sounded sharp in the deepening quiet.
 
 "Have you seen Mira?" Elena asked.
 
