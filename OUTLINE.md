@@ -93,14 +93,18 @@ A glimpse into the millisecond-scale complexity of agalmic decision-making.
 The Executive presents the standardization framework as a rational necessity for network survival.
 
 ### Chapter 8 (Elena): The Beach
-Elena travels to Mira's habitat in response to a message. She runs into **Kenji** first. Elena and Kenji spend the afternoon at "The Tahitian Dream, 1987," a 1980s resort with thatched-roof bungalows and neon cocktail umbrellas. They catch up on shop talk and enjoy the "low stakes" fidelity of the 80s. 
+Elena travels to Mira's habitat in response to a message. Kenji greets her with an AR "yellow brick road" experience—built in ninety seconds by one of his ambient AI systems, demonstrating his "slow down to speed up" philosophy. She finds **Kenji** and **Yusuf** already at "The Tahitian Dream, 1987," a 1980s resort with neon cocktail umbrellas.
 
-Kenji, as usual, is jovial and unconcerned, letting his AIs handle the habitat's centrifugal balancing and topographical canalization. He jokes about Mira’s "obsession with grit" while they sip neon-colored drinks. Elena, though she shares his Essentialist leanings, feels the weight of the proposal in a way Kenji hasn't yet.
+The dynamic duo is established: jovial Kenji vs. morose Yusuf. They finish each other's complaints ("guesses with better graphics"). When Elena tries to bring up the manifesto, Kenji throws sand at her—"there's time for that later." They trade shop talk instead: audits, visitor complaints, colleagues who've fled to "lifestyle reconstructions." Yusuf goes on a tangent about excavation methodology (locus vs. units, Munsell numbers); later, Kenji quietly picks up the intellectual gauntlet ("Method *is* theory-laden, you know").
+
+Elena notices Mira gave a background bartender a failed marriage—fidelity for its own sake. Still no Mira; she's "deep in the zones," letting them accumulate like silt.
 
 ### Chapter 9 (Elena): The Tiare Club
-Elena and Kenji travel to "The Tiare Club, 1926"—a reconstruction of a French colonial beach hotel in Tahiti, full of white linen and gramophones. They find **Yusuf** here. Yusuf is the opposite of Kenji: morose, intense, and currently picking an intellectual fight with his AI about the exact chemical composition of the 1920s gin. 
+The trio travels to "The Tiare Club, 1926"—a French colonial beach hotel with white linen and gramophones. Other cohort members are already gathering (Lena, Raj, others). The mood shifts; they can no longer avoid the proposal.
 
-He has already read the proposal’s fine print and is convinced it’s the end of the discipline. "I told you they were coming for us," he tells Elena. He sees the negatives before anyone else, but his analysis is sharp. Still no Mira—the tension of the host’s absence builds.
+Kenji reminisces about Luna—the first cohort meeting where he coined "boundary archaeology." Elena articulates her discomfort: her Essentialist philosophy is being quoted in the manifesto like axioms, used as the template for mandatory standardization. Yusuf has read the fine print (Section 7.3, "Risk Tier Harmonization") and confirms her fears. They recall the Silk Road collaboration—thirty months of argument because their philosophies were different, but the discipline was big enough for all of them.
+
+The vote count climbs. Mira's exquisite period reconstruction proves her point: she *could* build theme parks. She chooses the adders instead.
 
 ### Chapter 10 (Elena/Group): The Deep Past
 The group (Elena, Kenji, Yusuf, and other early arrivals) takes a professional "field trip" to Mira's masterwork: the **Lapita Horizons** site. They leave the 20th-century luxury for the raw, high-humidity reality of 1000 BCE. 

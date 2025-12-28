@@ -8,35 +8,69 @@ The transit pod's deceleration was gentle, the kind that fooled you into thinkin
 
 She stepped out into humidity and noted, professionally, how Mira had calibrated it—the salt-to-organic ratio in the air, the way the moisture settled without becoming oppressive. Good work. Different from her own environmental algorithms, but equally deliberate. Elena's prairie pulled moisture out; Mira's islands wrapped you in it. Both choices, both defensible.
 
-"Elena?"
+A message pinged her glasses: *Follow the yellow brick road. —K*
 
-The voice startled her. She turned to see Kenji emerging from the path that led toward the visitor areas. He was dressed for the beach—loose linen shirt unbuttoned over swim trunks, bare feet leaving prints in the soft ground, a towel slung over one shoulder. Kenji Sato, whose Mesoamerican sanctuaries—Maya, Aztec, Olmec, and others—were among the most respected in the network, was clearly enjoying Mira's hospitality.
+Before she could reply, her AR overlay shimmered and the corridor transformed. The brushed steel floor was now paved with golden bricks, slightly uneven, gleaming with a warmth that had no physical source. Stylized poppies bloomed along the edges of her vision, swaying in a breeze she couldn't feel. Somewhere ahead, a faint orchestral swell promised emerald towers.
 
-"Elena!" His face lit up. He pulled her into a hug before she could respond. "I didn't know you were coming."
+Elena laughed despite herself. "Echo, is this—"
 
-"Kenji." She found herself smiling despite everything. His warmth was infectious. "What are you doing here?"
+"Kenji's work," Echo confirmed. "One of his ambient systems generated it approximately ninety seconds ago, when your transit pod entered Mira's approach corridor. The theming appears to be *The Wizard of Oz*, 1939. He's drawing on Mira's public infrastructure blueprints—she must have granted him spatial access."
 
-"Same as you, probably." He laughed—the same easy laugh that had always made methodological arguments feel more like conversations than battles. "I reached out to Mira after I saw the proposal. Turns out I wasn't the only one."
+"He built me a yellow brick road in ninety seconds."
 
-"How many?"
+"He built *systems* that can build yellow brick roads in ninety seconds, given the right permissions. There's a difference."
 
-"I'm not sure. People have been arriving since yesterday. Some Mira contacted, some just showed up." He tilted his head, considering her. "You look like you need a drink. Come on—I know a place."
+That was Kenji's philosophy in miniature: years of foundational work so that everything afterward could be spontaneous. Elena shook her head and followed the golden path.
 
----
+Like most boundary archaeologists, Mira had a range of themed sanctuaries within her habitat. But unlike Elena—who canalized her transitions, letting visitors drift from one era to the next through carefully graded landscapes—Mira kept her worlds separate. The infrastructure between them was deliberately visible beneath Kenji's overlay: brushed steel corridors, utilitarian lighting, the honest hum of life support. No pretense. Each reconstruction was a complete thing, and you entered it knowing you were crossing a threshold.
 
-Like most boundary archaeologists, Mira had a range of themed sanctuaries within her habitat. Kenji led Elena past the Lapita village reconstructions, past taro fields and mangrove channels, until the environment shifted abruptly. The path opened onto a crescent of white sand, and Elena stopped.
+Informational displays marked her progress, their text wrapped in art-deco frames that Kenji's system had added: *Lapita Horizons (1000 BCE) — 2.3 km. The Tiare Club (1926) — 1.1 km. The Tahitian Dream (1987) — 0.4 km.* At the end of the corridor, a simple pressure door waited. In her AR view, it was flanked by two tin soldiers who saluted as she approached.
 
-A 1980s resort sprawled before her. Thatched-roof bungalows with ceiling fans turning lazily. Lounge chairs with bright striped cushions. A poolside bar where a bartender—AI-driven, but dressed in a Hawaiian shirt with period-appropriate hair—was already mixing something pink. From hidden speakers, synth-heavy pop drifted across the beach: Duran Duran, or something close.
+She touched the panel. The door slid open, the overlay dissolved, and the world changed entirely.
 
-"Mira made this?" Elena asked.
+A 1980s resort sprawled before her. Thatched-roof bungalows with ceiling fans turning lazily. Lounge chairs with bright striped cushions. A poolside bar where a bartender—AI-driven, but dressed in a Hawaiian shirt with period-appropriate hair—was mixing something pink. From hidden speakers, synth-heavy pop drifted across the beach: Duran Duran, or something close.
 
-"Last year. She calls it 'The Tahitian Dream, 1987.' Apparently it was a real place—she found the architectural plans in some archive." Kenji was already walking toward the bar. "It's her guilty pleasure. Still faithful reconstruction, but the 1980s aren't exactly a challenge. And it's just... fun."
+And there, in two lounge chairs positioned with the precision of old rivals, were Kenji and Yusuf.
 
-They settled into lounge chairs with piña coladas—served in actual coconut shells, neon paper umbrellas and all. The drink was cold and sweet and exactly right. Elena kicked off her boots and let her feet sink into warm sand. For a long moment, neither of them spoke.
+Kenji spotted her first. He was dressed for the beach—loose linen shirt unbuttoned over swim trunks, bare feet, a towel slung over one shoulder. He surged up from his chair with a grin that hadn't changed since the Luna Conference.
 
-"I've missed this," Kenji said finally. "Just... sitting with someone who gets it."
+"Elena!"
 
-Elena nodded. The reconstructed sun was perfect—warm without burning, the light golden and slightly hazy in a way that said *late afternoon, tropical, no obligations*. She could feel her shoulders unknotting for the first time since she'd read the proposal.
+Yusuf rose more slowly, a mountain of a man unfolding from the wicker. He was holding a book in one hand and something neon-blue in the other, and his expression was set in its default state: profound scholarly melancholy. But when he saw her, the melancholy cracked, just for a moment.
+
+"Finally," Yusuf said, his voice a rich baritone. "Someone with taste. Kenji's been trying to explain postmodern Mesoamerican fusion to me for the past three hours."
+
+"It's not *fusion*," Kenji protested, pulling Elena into a hug. "It's *synthesis*. There's a difference."
+
+"The difference is marketing." Yusuf embraced her next, a crushing thing that smelled of juniper and old paper. "Elena. You look tired. Not 'transit pod' tired. More like 'carrying the weight of a tradition' tired."
+
+"Is it that obvious?"
+
+"To us? Yes." He released her and gestured toward a third lounge chair, already positioned with a drink waiting on the side table. "Sit. We've been comparing notes."
+
+Elena settled into the chair and picked up the drink—a Blue Hawaii, violently azure, garnished with three paper umbrellas. She took a sip. It tasted like pineapple, coconut, and a type of sugar that had probably been banned in the 21st century.
+
+"When did you two arrive?"
+
+"Yesterday," Kenji said. "I reached out to Mira after I saw the proposal. Turns out I wasn't the only one."
+
+"Yusuf was already here," he added. "Reading excavation reports on the beach. In the 1980s. Like a normal person."
+
+"The lighting is good," Yusuf said, without a trace of irony. He held up the battered book. "Lapita Homeland Project, 1985 field season. I'm cross-referencing Mira's simulation parameters against the original soil matrices. She's interpolating the Bismarck stratigraphy, which is defensible, but she's also introduced sago palm variability that the record doesn't support."
+
+"You came to a beach resort to audit the host's methodology?"
+
+"I came because Mira asked. The audit is a bonus, freebie." He took a long sip of his drink. "Besides, her simulation approach is just—"
+
+"—guesses with better graphics," Elena and Kenji finished in unison.
+
+Yusuf glared at them. "I was going to say 'epistemologically adventurous.'"
+
+"You were going to say 'guesses with better graphics,'" Kenji said confidently. "You've been saying it since Luna."
+
+"It bears repeating." But Yusuf's glare softened into something almost fond. "Twenty-five years, and you two still can't let me finish a sentence."
+
+Elena leaned back in her chair, feeling something loosen in her chest. The reconstructed sun was perfect—warm without burning, the light golden and slightly hazy in a way that said *late afternoon, tropical, no obligations*. For a moment, she could almost forget why they were here.
 
 "So," she said. "The manifesto—"
 
@@ -48,73 +82,91 @@ Kenji snorted and threw a handful of sand at her. It scattered across her legs, 
 
 Elena crunched a piece of ice, feeling the faint, mineral grit of the sand between her teeth. "Three times. It was the only way to get the pacing right. But I'm still getting flagged for 'excessive emotional friction' by the automated audits. Apparently, three fevers is a 'cognitive burden.'"
 
-Kenji laughed, a deep sound that competed with the synth-pop. "Audits. They want us to build cathedrals but keep the ceiling height to code. I had a guy last month file a formal grievance because my Aztec ball court didn't have 'adequate seating for spectators with vertigo.' I told him the Aztecs didn't have tiered seating; you stood in the mud and hoped the gods liked you."
+Yusuf snorted. "Audits. The network wants us to build cathedrals but keep the ceiling height to code."
+
+"I had a visitor last month," Kenji said, "file a formal grievance because the cacao in my Aztec market was 'too bitter and spicy.' She wanted it sweetened. I told her the Aztecs didn't have sugar—they drank it with chili and achiote. She said I was 'prioritizing authenticity over accessibility.'"
 
 "Did you give in?"
 
-"I gave him a physical support—a rough-hewn cedar beam that looked like a construction scaffold. It ruined the sightlines for the entire eastern quadrant, but at least he didn't fall over. He spent the whole match clutching it like a drowning man." Kenji leaned back, his eyes half-closed against the golden light. "But really, Elena. You look tired. Not 'two days in a transit pod' tired. More like 'carrying the weight of a tradition' tired."
+"I gave her a separate cup with agave nectar on the side. She poured in half the bottle, took one sip, and said it 'still tasted wrong.' Filed a follow-up complaint about 'inadequate flavor calibration.'"
 
-"Is it that obvious?"
+They lapsed into a comfortable rhythm, trading stories of visitor complaints and methodological compromises. Yusuf told them about a French tourist who had insisted that his high-altitude Himalayan reconstruction was "too cold" and demanded a refund. Kenji described his ongoing war with a network reviewer who kept flagging his Olmec colossal heads as "intimidating to children." Elena shared her latest battle with the sensory calibration team, who wanted to reduce the "olfactory intensity" of her cattle drives.
 
-"To me? Yes. We’ve been comparing benchmarks since the Luna conference. Speaking of—did you hear about Silas? He finally quit the Colonial America project."
+"Did you hear about Silas?" Kenji asked, reaching for his drink.
 
-Elena sat up, nearly spilling the rest of her gritty piña colada. "Silas? He was the most stubborn guy in the network. What happened?"
+Elena sat up. "Silas? He was the most stubborn guy in the network. What happened?"
 
-"He moved to a 1950s suburbia sim. Says he wanted to work with lawns. 'Low stakes, high fidelity,' that was his quote. I think he just wanted to stop arguing about smallpox blankets and start arguing about the correct shade of lawn-green."
+"He quit the Colonial America project. Moved to a 1950s suburbia sim. Says he wanted to work with lawns. 'Low stakes, high fidelity,' that was his quote."
 
-"Traitor," Elena said viciously, though she couldn't help a small, envious smile. "I can't imagine Silas without a flintlock."
+"Traitor," Elena said, though she couldn't help a small, envious smile. "I can't imagine Silas without a flintlock."
 
-"He's happy. Sent me a pic of a reconstructed charcoal grill. He looked... peaceful. It was disturbing."
+"He sent me a pic of a reconstructed charcoal grill. He looked... peaceful. It was disturbing."
 
-They lapsed into a comfortable silence, listening to the synthesized waves. The music shifted to something faster, a drum-machine beat that made Kenji tap his bare feet against the footrest. 
+"He's not the only one," Yusuf said quietly. The melancholy was creeping back into his voice. "Three people from my cohort have moved to 'lifestyle reconstructions' in the past year. No stakes. No danger. Just... comfort."
 
-"I missed this," he said, and for a second the playfulness dropped away, replaced by the same vulnerability she'd felt when she first saw him. "The talk. The shop. The way we can sit here in a fake 1980s resort and talk about smallpox and ball-games and actually care about the difference."
+The synth-pop shifted to something slower. The golden light was beginning to deepen toward amber.
 
-"It's not a job," Elena said softly, "it's a vocation."
+"Have you seen Mira?" Elena asked.
 
-"Maybe." He paused. "Or maybe it's a way of being." He looked over at her, his expression uncharacteristically serious. "Either way, that's why we're all here, Elena. Because they're trying to make it a job. A standardized, predictable, auditable job."
+"No," Yusuf said. "Our host is 'deep in the zones.' There have been reported sightings in the 14th-century lagoon, but she's blocked all the public location logs." He paused, then gestured with the battered book, turning to a marked page. "She's letting us accumulate."
 
-He held her gaze for a moment, then blinked and gestured toward the bar. "But enough of that. Look at that bartender's hair. Is that a mullet? I think Mira gave him a mullet."
+"Accumulate?"
 
-Elena followed his gaze and laughed. "It's definitely a mullet. And I think he's wearing actual aviator sunglasses. The commitment is terrifying."
+"Like silt." He read from the page, his voice taking on a theatrical, mocking edge. "'Well-sorted aeolian deposits, Munsell number 10YR 6/4, light yellowish brown.'" He snorted and waved the book. "These guys dug by locus, by context number." His expression twisted into profound academic distaste. "Not by units the way God intended. I bet they believe method is theory-laden. Probably spent half their time debating the semiotics of a trowel."
 
-"That's Mira. She can't help herself." Kenji stood up, brushing sand from his shorts. "I'm going to go see if he can make something called a 'Blue Hawaii.' It sounds like it should be illegal. Want one?"
+"Yusuf," Kenji said gently.
 
-"Only if it comes with another umbrella."
+Yusuf blinked, realizing he'd lost the thread. "Right. One by one, we arrive. We drink her gin. We argue about whether her 1950s surf club has the correct fat content in its burger patties—Lena and Raj are currently having that debate, by the way, with alarming intensity. And we wait for Mira to tell us if we're still archaeologists or if we're all about to become curators of 'sanitized nostalgia.'"
 
-"Two umbrellas," Kenji promised, walking toward the bar with a skip in his step. "Minimum."
+Elena watched the AI bartender mixing another drink. His movements were slightly hunched, a hint of fatigue in the shoulders. And there—she noticed it now—his fingernails were bitten, uneven, a little ragged. There was a tan line on his ring finger, like he'd recently removed a wedding band.
 
-He came back with two glasses of a liquid so blue it looked like it should be used for cooling the superconducting magnets in a fusion reactor. Each was garnished with a slice of neon-red cherry, a wedge of pineapple, and three paper umbrellas of varying heights.
+"The bartender," Elena said.
 
-"To questionable aesthetic choices," Kenji said, handing her one.
+Kenji looked up. "What about him?"
 
-Elena took a sip. It tasted like pineapple, coconut, and a type of sugar that had probably been banned in the 21st century. "It's... remarkably blue."
+"Mira gave him a failed marriage." She watched the AI wipe down the bar with practiced, weary motions. "Look at the way he moves. The fingernails. The ring tan. He's a background player in a beach resort, and she gave him a whole interior life that no visitor will ever ask about."
 
-"It matches the horizon," Kenji said, gesturing to where the sky was deepening into a perfect, saturated indigo. "Mira's very thorough with her saturation levels. Even the containment feels different here."
+"That's Mira," Kenji said. "She can't help herself. I would have given him the mullet and called it a day."
 
-Elena looked up at the high, artificial sky. "How does she keep it all separate? I was thinking about the Lapita site. The death adders. The venomous reef-life. You’d think the biosecurity would be a nightmare with the resort zones so close."
+"I would have given him a story that *served* something," Elena said. "The failed marriage—what does it add to the visitor's experience? They'll never know."
 
-"It's a redundant stack," Kenji said, finishing a cherry. "Structural barriers first—deep-water trenches and ridge-lines that look like geography but act as hard containment. Then she layers in micro-climate thresholds. The reptiles hit a wall of dry, cool air and turn back by instinct. And for the insects, there’s acoustic geofencing and biosecurity swarms—thousands of micro-drones disguised as dragonflies and beetles, nudging the biology back into its proper era. It's sheer engineering audacity, keeping the 'hard' history from eating the 'guilty pleasures.'"
+"But *he* knows," Yusuf said quietly. "That's her point. The fidelity isn't for the visitor. It's for the truth."
 
-"It's beautiful," Elena said, watching the indigo deepen. "But it feels like a lot of work to keep the bad things out of the fun things."
+They were silent for a moment, watching the bartender. The music played on.
 
-"That's the job, Elena. Or the vocation. Whatever we're calling it today."
+Kenji let the silence hang for a beat, picking at a loose thread on his beach shirt. "Method *is* theory-laden, you know," he said finally, picking up a gauntlet Yusuf had dropped an hour ago. "You can't measure the charge of an electron without the concept of an electron. The units we dig in aren't just boxes. They're questions we're asking the dirt."
 
-They sat in the deepening twilight, the music shifting to a slower, more soulful beat—something about a diamond life. They talked about the people they missed, the ones who had moved on to building virtual sanctuaries or lived in the outer solar system and couldn't so easily visit. They talked about the time they'd tried to collaborate on a 'Silk Road meets American West' project that had collapsed under the weight of its own contradictions.
+Yusuf snorted into his drink but didn't argue. The admission—or at least the lack of rebuttal—felt like something.
 
-"Yusuf still says the camels were the problem," Kenji said, chuckling. "But we both know it was the buffalo."
+The sun was setting—a perfect, reconstructed sunset that painted the beach in shades of coral and gold. The bartender wiped down his station and began preparing for the evening shift, his movements carrying the weight of a life that no one would ever ask about.
 
-"The buffalo were magnificent," Elena defended. "They just didn't like the elevation."
+"Where are we meeting tomorrow?" Elena asked.
 
-"They tried to eat the caravansarai, Elena."
+"The Tiare Club, 1926," Yusuf said. "French colonial. Gramophones and gin slings. Others are gathering there." He picked up his book again, though Elena could tell he wasn't really reading it. "We'll see how many of us Mira has summoned."
 
-"A minor technical hurdle."
+"And Mira herself?"
 
-By the time the sun had fully set—replaced by a starfield that was too bright and too crowded for the late twentieth century, but which Mira had left in anyway—Elena felt a strange, fragile peace. The proposal still haunted the edges of her thoughts, but here, with the neon-blue syrup and the synth-pop and one of her oldest friends, the world felt large again. It was no longer just a string of governance notifications and audit logs.
+"Still in the zones." Yusuf's expression was unreadable. "She's working. She's always working. And she's letting us see her range before she tells us what she wants."
 
-Eventually, they wandered back to the guest quarters. As they parted, Kenji said, "Tomorrow it's the Tiare Club. Apparently Yusuf found the gin slings."
+The music shifted to something slower, more melancholic. Elena watched the horizon, where the cylinder's artificial sky was deepening into twilight. Somewhere out there, past the 1980s resort and the 1920s hotel and the reconstructed Lapita villages, Mira was walking through the world she had built—the one with real dangers and real consequences, the one the network wanted to erase.
 
-When she got back to her room, she set her glasses on the nightstand and let the silence settle. 
+"I should get some rest," Elena said, rising from her chair.
 
-"Echo," she said. "Remind me to needle Mira about the starfield. All these years, and it's the only time I've seen her choose the view over the truth."
+"Sleep well," Kenji said. "Tomorrow we start figuring out what we're fighting for."
+
+"We already know what we're fighting for," Yusuf said. "We're fighting for the right to disagree with each other. For thirty more years of arguments and failed collaborations and guesses with—" He stopped, eyeing them suspiciously. "Don't."
+
+"—better graphics," Elena and Kenji said in unison.
+
+Yusuf sighed, but he was almost smiling.
+
+When she got back to her room, Elena set her glasses on the nightstand and let the silence settle. For a moment, she just sat there, thinking about bartenders with failed marriages and friends who finished each other's insults and a discipline that was big enough—had always been big enough—for all of them.
+
+"Echo," she said quietly. "Remind me to ask Mira about the starfield. The 1987 zone has a sky that's too bright, too crowded for the era. It's the only time I've ever seen her choose the view over the truth."
+
+A pause.
+
+"Maybe she wanted you to notice," Echo said.
+
+Elena didn't have an answer for that.
 
