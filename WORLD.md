@@ -181,7 +181,11 @@ Sanctuary operators are sometimes visible to visitors during experiences. This i
 
 ### The Vocation of Boundary Archaeology
 
-Boundary archaeologists design and maintain sanctuaries, crafting immersive experiences that help people understand historical struggles and cultural patterns. Their work is valued because some humans have particular preferences for experiences crafted by other humans—much like wanting a hand-knit sweater in an era of perfect machine manufacturing. While AI systems can create excellent sanctuary experiences, human-designed ones carry a distinctive authenticity that appeals to those seeking connection with human creativity and interpretation.
+Boundary archaeologists design and maintain sanctuaries, crafting immersive experiences that help people understand historical struggles and cultural patterns. The discipline emerged from a complex synthesis of historical preservation, experiential media, and advanced simulation—an institutional structure built when technology finally allowed for the full realization of long-held human desires to inhabit the past. Practitioners often find their personal motivation in one of two currents: a desire to recreate the awe found in early experiential reconstructions—such as de-extinction preserves or immersive media—or a commitment to extending traditional academic antecedents into living environments. 
+
+The term "boundary archaeology" was a later analogy coined by Kenji to describe the field’s position: *"We're all standing at a cliff and humanity has already jumped. We're looking backwards digging up potsherds and stones, excavating old excavation reports to see if we missed anything important in the dust. We sit at the boundary between the past and future. We're boundary archaeologists."*
+
+Their work is valued because some humans have particular preferences for experiences crafted by other humans—much like wanting a hand-knit sweater in an era of perfect machine manufacturing. While AI systems can create excellent sanctuary experiences, human-designed ones carry a distinctive authenticity that appeals to those seeking connection with human creativity and interpretation.
 
 - **Human-Centric Design**: Visitors seek "bespoke" experiences – emotionally resonant encounters tailored to individual needs and backgrounds, often preferring human craftsmanship.
 - **Artistic Interpretation**: Archaeologists make deliberate choices about what to emphasize, what to simplify, and what to reconstruct, turning history into living art.
@@ -195,7 +199,7 @@ Boundary archaeologists design and maintain sanctuaries, crafting immersive expe
 
 **Fusion Sanctuaries**: Many combine approaches, or collaborate across cultural boundaries to create comparative experiences.
 
-**Canalization** Essence sanctuaries often practice canalization, whereas authentic sanctuaries often allow more randomness, with more limited canalization.
+**Canalization**: The use of topographical and environmental design—such as ridge-lines, water sources, or thermal gradients—to naturally guide the movement and behavior of both animals and visitors within a sanctuary. Essence sanctuaries often practice canalization, whereas authentic sanctuaries often allow more randomness, with more limited canalization.
 
 ## The Sanctuary Network
 

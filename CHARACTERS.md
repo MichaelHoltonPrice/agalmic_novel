@@ -10,26 +10,19 @@
 **Age**: 28 (chronological), appears late 20s through maintenance treatments
 **Background**: Born in 2017, Elena was a child during the Great Convergence starting in 2027. She witnessed the rapid transformation from scarcity to abundance but was too young to fully participate in the institutional changes that created the agalmic world.
 
-**Vocation**: Boundary archaeologist specializing in American cultural history. She runs the "American Tapestry" sanctuary, a deliberate artistic reconstruction that blends multiple American experiences (colonial settlement, westward expansion, civil rights struggles, industrial labor conflicts) into a cohesive narrative. Her approach prioritizes emotional resonance and philosophical exploration over historical precision—what the manifesto calls "Essential Experience" or "quintessentialization." Elena works primarily in physical construction—her sanctuary is a dedicated space habitat, a rotating cylinder with thirty kilometers of reconstructed American landscape. Occasionally, she creates augmented-only experiences for visitors who cannot travel, but her heart is in embodied presence.
+**Vocation**: Boundary archaeologist specializing in American cultural history. She runs the "American Tapestry" sanctuary, a deliberate artistic reconstruction that blends multiple American experiences (colonial settlement, westward expansion, civil rights struggles, industrial labor conflicts) into a cohesive narrative. Her approach prioritizes emotional resonance and philosophical exploration over historical precision—what the manifesto calls "Essential Experience" or "quintessentialization." 
+
+Elena is creative and driven. The wonder she felt when first experiencing an early sanctuary on Earth—before the move to space habitats—shaped her entire life. She made it her chosen vocation to bring this wonder to others. While Kenji coined the term, it was Elena who popularized it. She is the external public figure of the discipline, the voice the world hears.
+
+Elena works primarily in physical construction—her sanctuary is a dedicated space habitat, a rotating cylinder with thirty kilometers of reconstructed American landscape. 
 
 **Augmentation**: Elena uses external augmentation—visible glasses, bone-conduction audio, subvocal input via throat sensor. This is a deliberate choice, less common than cortical mesh but meaningful to her. When she removes her glasses, she experiences true cognitive solitude; her thoughts are unambiguously her own. For someone whose vocation involves helping others understand what it meant to be human before abundance, maintaining a clear boundary between self and technology feels essential. Her relationship with Echo is conversational rather than cognitive—they speak to each other, rather than thinking together.
 
 **Public Role**: Elena's approach to sanctuary design becomes the implicit model for a network-wide governance proposal. The manifesto (*Toward a Philosophy of Sanctuary Design*) declares the network's commitment to quintessential experience—articulating two traditions but explicitly choosing one. The procedure (NG-2047-31) would mandate this philosophy as a condition of network membership, prohibiting permissive experiences with significant physical risk. Elena is never named, but anyone familiar with the field can decode whose philosophy the network is adopting—and whose it is excluding.
 
-**Personality**: Creative and intuitive, Elena sees history as a living art form. She's confident in her artistic choices but sometimes defensive about the "contradictions" others see in her sanctuary. Deeply empathetic, she excels at crafting personalized experiences for visitors.
+**The Costly Signal**: Elena leads the group in executing a smart contract with irrevocable terms: if the governance proposal passes, they will all leave the network and release their intellectual property—the design principles, methodology, sensory calibrations—to the public domain. This commitment is cryptographically locked. They cannot change their minds. The contract executes automatically based on the vote outcome.
 
-**Motivations**: Elena believes that understanding human struggle is essential for appreciating abundance. Her sanctuary serves as both a memorial and a laboratory for exploring what makes people resilient. She wants to help others find meaning in a world where survival is no longer at stake.
-
-**Conflicts**:
-- Struggles with the tension between authenticity and emotional impact. Questions whether her blended approach truly honors the complexities of American history or simplifies them for comfort.
-- When she recognizes her philosophy encoded in the governance proposal, she faces her central ethical trap: her work can become **governance-by-prestige** without anyone openly choosing it.
-- Her decisive test is costly signaling: proving she is not defending her own status by **committing to consequences she cannot take back**.
-
-**The Costly Signal**: Elena executes a smart contract with irrevocable terms: if the governance proposal passes, she will leave the network and release all her intellectual property—American Tapestry's design principles, methodology, sensory calibrations—to the public domain. This commitment is cryptographically locked. She cannot change her mind. She cannot negotiate. The contract executes automatically based on the vote outcome.
-
-The IP has real economic value, though it's a drop in the bucket of the solar economy. The true cost is personal: this is her life's work, and she is committing to abandon it as *property* if the network chooses the path that would benefit her most. Anyone could build on it, modify it, compete with it. She will have to start over.
-
-This is the signal: she is not defending her status, because she has locked herself into destroying the basis of that status. Talk is cheap; smart contracts are not.
+This is the collective signal: they are not defending their status, because they have locked themselves into destroying the basis of that status. Talk is cheap; smart contracts are not.
 
 **Relationships**:
 - **Mira Chen**: Her closest friend and professional counterpart. Their contrasting approaches—Elena's quintessentialization vs. Mira's historical fidelity—create ongoing creative tension and mutual respect. The governance proposal tests their friendship: Mira sees Elena as complicit until Elena proves otherwise.
@@ -43,7 +36,11 @@ This is the signal: she is not defending her status, because she has locked hers
 **Age**: 29 (chronological), appears late 20s
 **Background**: Born in 2016, Mira also experienced the Great Convergence as a child, but her family background in Pacific Islander communities shaped her interest in indigenous histories. Not genetically related to Elena, their friendship formed during early training in boundary archaeology.
 
-**Vocation**: Boundary archaeologist specializing in Oceanic cultures. She runs the "Lapita Horizons" sanctuary, which reconstructs the lifeways of Lapita peoples holistically—not just their famous voyaging, but the full texture of island existence: taro cultivation, pandanus weaving, coconut harvesting, reef fishing, weather reading, and yes, the open-ocean navigation that connected their world. Her approach emphasizes meticulous historical accuracy and authentic reconstruction over artistic interpretation—what the manifesto calls "Historical Fidelity."
+**Vocation**: Boundary archaeologist specializing in Oceanic cultures. She runs the "Lapita Horizons" sanctuary, which reconstructs the lifeways of Lapita peoples holistically. Her approach emphasizes meticulous historical accuracy and authentic reconstruction—what the manifesto calls "Historical Fidelity."
+
+Mira is very driven, but her drive is directed inward. She builds to understand and discover for herself, and she values the fact that she has found a vocation where others are willing to support her need to understand. She is the internal public figure of boundary archaeology—reclusive, less known to the world than Elena, but highly respected within the discipline as its "archaeologist's archaeologist."
+
+Unlike Yusuf, Mira has largely abandoned the field for the lab; she often tells him that "the computer is my trowel." She uses advanced simulation to bridge the gaps in the archaeological record, publishing extensively on the theoretical and technical foundations of the discipline. This methodological split—Yusuf’s dirt-and-robots vs. Mira’s simulation-and-theory—is a constant source of professional "needling" between them.
 
 Mira builds exclusively for embodied presence—she has never created a virtual-only or augmented-access experience. Her commitment to physical construction reflects her broader philosophy: if you're going to reconstruct Lapita lifeways, visitors should feel the humidity that never lifts, smell real salt air (manufactured to historical oceanic composition), and experience genuine fatigue from the daily labor of island survival. The fact that the gravity comes from rotation and the weather from algorithms doesn't trouble her—construction is honest. What she cannot abide is the idea that someone might "experience" Lapita life while their body sits motionless in a chair on Earth. The embodiment *is* the experience.
 
@@ -58,6 +55,26 @@ Mira builds exclusively for embodied presence—she has never created a virtual-
 **Relationships**:
 - **Elena Smith**: Her closest friend despite their methodological differences. Their debates are legendary in the boundary archaeology community.
 - **Solène**: Uneasy ally at moments; Solène says the quiet part out loud in ways Mira won't, but Solène's contempt for "meaning prosthetics" sometimes insults what Mira values.
+
+## Secondary Character: Kenji
+
+**Age**: 29 (chronological), appears late 20s
+**Background**: Part of the same cohort as Elena and Mira. They have been together more or less their entire career.
+**Role**: It was Kenji who coined the term "boundary archaeology" with his now-famous observation: *"We're all standing at a cliff and humanity has already jumped. We're looking backwards digging up potsherds and stones, excavating old excavation reports to see if we missed anything important in the dust. We sit at the boundary between the past and future. We're boundary archaeologists."* 
+
+While he is not the most successful practitioner or the most serious scholar, he is the group's "interpreter," able to describe complex concepts in ways that almost anyone can understand.
+
+**Personality**: Happy and jovial. He often appears not particularly driven, content to leave the management of his sanctuaries to his AI systems. However, this masks a "slow down to speed up" philosophy: he spends years perfecting the underlying physics and structural math of his habitats—the centrifugal balancing, the atmospheric drainage—so that he never has to solve those problems again. He entered the field as a "wonder-seeker," moved by the experience of the boundary.
+
+## Secondary Character: Yusuf
+
+**Age**: 29 (chronological), appears late 20s
+**Background**: Part of the same cohort as Elena, Mira, and Kenji.
+**Role**: Yusuf is the only one among the core group who continues to practice archaeology in the traditional sense, including physical excavation. While most of the meticulous digging is handled by specialized robots, Yusuf exercises some direct agency over the process. He is a master of both modern simulation and the "deep-time" methods of the past, often citing old paradigms like locus/context vs. unit-based stratigraphy to settle academic arguments.
+
+**Personality**: In many ways the opposite of Kenji. Yusuf has a deep, specialized knowledge and is willing to pick intellectual fights even in areas where he has no formal expertise—a trait that others see as a mix of genius and hubris. He is always thinking, always studying, and possesses a morose streak—a tendency to see the negatives in the world before the positives. 
+
+He is often the one to needle his friends about who is still a "real" archaeologist, especially Mira, who prefers to say, "the computer is my trowel." Yusuf sees the physical record as the only unfiltered truth, viewing the group's increasingly simulation-heavy work as "guesses with better graphics."
 
 ## Secondary Character: Jordan Smith
 
