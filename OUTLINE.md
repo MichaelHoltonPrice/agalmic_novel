@@ -176,11 +176,20 @@ The deliberation reveals how diverse AI arguments (religious, evolutionary, math
 
 ### Chapter 7 (Executive): The Closing Case
 
-*The Executive reconvenes with his policy team to discuss the Framework's implications, while privately grappling with the swarm deliberation's revelations.*
+*The Executive presents his closing argument for the Framework to his policy team, drawing on insights from the Lapita case and the swarm deliberation—but the very system he's trying to standardize just proved itself incomprehensible to him.*
 
-The meeting continues with his core policy team, now discussing how the Framework standardizes permissive-tier protocols. The Executive shares insights from the case, but the swarm deliberation has fundamentally shifted his perspective. He begins to question whether the governance proposal merely institutionalizes evolved paternalism rather than resolving underlying tensions.
+The meeting continues (ambiguous whether this is the same meeting as Chapter 05 or a new one—maintaining uncertainty about the Executive's nature and the passage of time). His deputy and core policy team are present. He presents the Lapita case as evidence for why the Framework (NG-2047-31) is needed.
 
-The discussion reveals the principal-agent conflicts inherent in the system, with sanctuaries and visitors pursuing local goals while the network must maintain global stability.
+He explains the Framework proposal: it would mandate **quintessential experience philosophy** as the network standard—emotional depth without lasting physical harm. Sanctuaries offering permissive-tier experiences with significant physical risk (broken bones, lasting harm) would become non-compliant. He frames this as standardizing intervention protocols—making them consistent, auditable, predictable. He never names Elena; the discussion is about philosophical frameworks and network standards.
+
+He draws on what he learned from the swarm deliberation to support his case:
+- Zero-point ethics: evolved human preferences can misfire in changed conditions (the principal-agent problem between natural selection and organisms)
+- Network survival: multiplicative processes exhibit extreme intolerance to catastrophic failures
+- Systemic risk: visitors and sanctuaries pursue local goals while the network bears global risk
+
+**Dramatic irony**: He's advocating for standardization and auditability after just experiencing a system he couldn't understand, couldn't audit, and couldn't reproduce. He's using arguments from the swarm to justify controlling the swarm. The reader sees the contradiction; he doesn't yet articulate it, though subtle doubt is beginning to creep in.
+
+The chapter ends with him reading the visitor's complaint: "Who gave the network that authority?" His answer—evolved process, emergent consensus, everyone and no one—feels less certain than it would have before Chapter 06.
 
 ### Chapter 8 (Executive): The Reckoning
 

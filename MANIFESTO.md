@@ -17,7 +17,9 @@
 
 The boundary archaeology community has flourished through diversity. Across the solar system, sanctuaries offer experiences ranging from meticulous historical reconstruction to evocative emotional synthesis, from high-fidelity material culture to deliberately compressed narrative arcs. This plurality is humanity's inheritance.
 
-This document does not address the full plurality. It addresses *our* network—what we are for, what we offer, and what we do not.
+Our network has embraced this diversity. Sanctuaries within our network have practiced both historical fidelity and quintessential experience traditions, each bringing value to visitors seeking different forms of engagement with the past.
+
+This document marks a choice. After years of philosophical coexistence, we believe the time has come for our network to declare what it stands for—not to condemn other approaches, but to clarify our collective identity going forward.
 
 ---
 
@@ -87,9 +89,11 @@ But gardens have walls. The wall defines the garden as much as the flowers do.
 
 We are custodians of human memory. We help the living understand the dead, and through that understanding, themselves.
 
-Our network has chosen how to do this work: through quintessential experience, through emotional accessibility, through safety that enables depth. This is our identity. This is our offering.
+Our network is choosing how to do this work going forward: through quintessential experience, through emotional accessibility, through safety that enables depth. We honor the diverse practices that have flourished within our network. But we believe clarity of purpose serves both visitors and operators better than philosophical coexistence.
 
-We do not ask others to make the same choice. We only ask that our choice be respected, and that those who join our network do so knowing what we are.
+This is our identity going forward. This is our offering.
+
+We do not ask others to make the same choice. We only ask that our choice be respected, and that those who join our network do so knowing what we have become.
 
 ---
 

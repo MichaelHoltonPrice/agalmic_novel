@@ -15,9 +15,9 @@
 
 ## Summary
 
-This proposal codifies our network's commitment to quintessential sanctuary design and visitor safety. It establishes mandatory standards for all sanctuaries operating within the network, ensuring alignment with the principles articulated in *Toward a Philosophy of Sanctuary Design*.
+This proposal establishes our network's commitment to quintessential sanctuary design and visitor safety going forward. It establishes mandatory standards for all sanctuaries operating within the network, ensuring alignment with the principles articulated in *Toward a Philosophy of Sanctuary Design*.
 
-This proposal mandates specific design philosophy. Sanctuaries within our network must operate according to the quintessential tradition. Historical fidelity approaches that require significant physical risk are not compatible with network membership.
+This proposal mandates specific design philosophy. Sanctuaries within our network must operate according to the quintessential tradition. Historical fidelity approaches that require significant physical risk, while valuable and respected, are not compatible with our network's chosen direction.
 
 ---
 
@@ -123,11 +123,11 @@ The Operating Company will provide transition support, including referrals to ap
 
 ### 4.3 Expedited Review
 
-Given the importance of clarifying network identity, this proposal is submitted for expedited Guardian review. The standard 180-day deliberation period is waived in favor of a 45-day review, with public comment accepted during the first 30 days.
+Given the importance of establishing clear network identity, this proposal is submitted for expedited Guardian review. The standard 180-day deliberation period is waived in favor of a 45-day review, with public comment accepted during the first 30 days.
 
 Expedited review is appropriate because:
-- The proposal codifies existing network values rather than introducing new ones
-- Clarity benefits all stakeholders, including those who may choose to transition elsewhere
+- The proposal addresses a longstanding question about network direction
+- Prompt clarity benefits all stakeholders, including those who may choose to transition elsewhere
 - The recertification cycle provides a natural implementation milestone
 
 ---
@@ -136,7 +136,7 @@ Expedited review is appropriate because:
 
 ### 5.1 Reversibility
 
-This framework may be modified through standard governance procedures. However, given that it codifies network identity, modification should require demonstrated consensus that the network's fundamental purpose has changed.
+This framework may be modified through standard governance procedures. However, given that it establishes network identity going forward, modification should require demonstrated consensus that the network's chosen direction should change.
 
 ### 5.2 Audit Provisions
 
@@ -157,15 +157,17 @@ Amendments to this framework require:
 
 ## Appendix A: Rationale Summary
 
-This proposal responds to ongoing confusion about network identity. Some visitors and operators have understood our network as neutral between design philosophies, offering both quintessential and historical fidelity approaches. This understanding is incorrect.
+This proposal responds to the need for clarity about network identity going forward. Our network has historically embraced philosophical diversity, hosting both quintessential and historical fidelity approaches. This diversity has been valuable, allowing different operator philosophies to coexist and serve different visitor needs.
 
-Our network exists to provide quintessential experiences with guaranteed safety. This is not a compromise or a default; it is our purpose. Codifying this purpose serves:
+However, as the network has grown, we believe that declaring a unified philosophical direction serves our community better than continued coexistence. Going forward, our network will provide quintessential experiences with guaranteed safety. This is not a judgment on historical fidelity approaches; it is a choice about what our network will become.
+
+Codifying this direction serves:
 
 - **Visitors**: Clear expectations about what our network offers
-- **Operators**: Clear standards for network membership
+- **Operators**: Clear standards for network membership and philosophical alignment
 - **The broader community**: Clarity about which networks serve which traditions
 
-We respect the historical fidelity tradition. We simply do not practice it.
+We respect the historical fidelity tradition and honor the operators who have practiced it within our network. We are choosing a different direction, not condemning their approach.
 
 ---
 
