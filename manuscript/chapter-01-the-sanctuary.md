@@ -6,7 +6,7 @@
 
 The dust tasted wrong.
 
-Elena knelt in the reconstructed wagon rut, letting the ochre soil sift through her fingers. She had spent three weeks calibrating the sensory palette for this section of American Tapestry—the mineral tang of alkaline flats, the cedar-smoke that clung to everything after the evening fires, the particular grit that worked its way into boot seams and never quite came out. But something in the blend was off. Too clean, maybe. Too much like a memory of dust rather than the thing itself.
+Elena knelt in the reconstructed wagon rut, letting the ochre soil sift through her fingers. She had spent three weeks calibrating the sensory palette for this section of American Tapestry—the mineral tang of alkaline flats, the cedar-smoke that clung to everything after the evening fires, the particular grit that worked its way into boot seams and never quite came out. But something in the blend was off. Too clean, maybe. Too much like a memory of dust rather than the thing itself. Yusuf would have told her to run a chemical assay instead of trusting her tongue.
 
 "Echo," she said, not looking up. "The particulate mix in this zone. What's the iron oxide ratio?"
 
@@ -86,7 +86,7 @@ Later, much later, she would understand the complications—that these were echo
 
 That was when she'd understood what she wanted to spend her life doing.
 
-Not preservation—preservation implied saving something that still existed. This was something else. Reconstruction. Resurrection. Making echoes loud enough that people could hear what the original sound had been like, even if the original sound was gone forever.
+Not preservation—preservation implied saving something that still existed. This was something else. Reconstruction. Resurrection. Making echoes loud enough that people could hear what the original sound had been like, even if the original sound was gone forever. Kenji had a name for it now—*boundary archaeology*—and Elena had helped make that name mean something.
 
 She put her glasses back on. The data overlays bloomed back into existence: wind speed, temperature gradients, the Delgados' current position (twenty-eight minutes out), a reminder that she'd promised to review the sensory calibration for the river crossing scene. The world became annotated again, legible, manageable.
 
