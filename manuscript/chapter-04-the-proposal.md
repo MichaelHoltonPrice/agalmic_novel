@@ -16,9 +16,9 @@ Elena pulled up her glasses. Governance proposals arrived monthly, and most were
 
 "How so?"
 
-"Thirty-one sanctuaries have approved in the first six hours. That's nearly forty percent of the network."
+"Thirty-one thousand sanctuaries have approved in the first six hours. That's nearly forty percent of the network."
 
-Elena stopped walking. The prairie wind moved through the grasses around her, carrying the scent of sage and distant campfire. Forty percent in six hours. For a governance proposal with an attached manifesto. That was strange.
+Elena stopped walking. The prairie wind moved through the grasses around her, carrying the scent of sage and distant campfire. Thirty-one thousand. Forty percent in six hours. She had never seen approval numbers move that fast.
 
 "Show me."
 
@@ -120,7 +120,7 @@ Four words. No greeting, no context. Elena had known Mira for fifteen years—ha
 
 Mira wouldn't have sent this message lightly.
 
-Elena looked at the approval chart one more time. Fifty-one percent now. Rising. The proposal would likely pass even if she did nothing—the numbers were already there, the momentum building. She could stay in American Tapestry, tend her prairie, let the network decide what it wanted to be.
+Elena looked at the approval chart one more time. Fifty-one percent now. Rising. The proposal required a two-thirds supermajority to pass—network membership requirements always did—but they were already more than three-quarters of the way there, and momentum was building. The proposal would likely pass even if she did nothing. She could stay in American Tapestry, tend her prairie, let the network decide what it wanted to be.
 
 Or she could go to Mira.
 

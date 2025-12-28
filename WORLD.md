@@ -197,6 +197,8 @@ Boundary archaeologists design and maintain sanctuaries, crafting immersive expe
 
 ## The Sanctuary Network
 
+The sanctuary network spans tens of thousands of operators across the solar system—from individual artisans running dedicated cylinders to collaborative collectives hosting multiple reconstructions. This scale reflects the agalmic transformation: when construction costs collapse and space is abundant, cultural preservation and experiential archaeology can flourish at scales previously unimaginable.
+
 Boundary archaeologists maintain a rich ecosystem of professional relationships:
 
 - **Cross-Visiting Tradition**: It's common for sanctuary designers to spend extended periods in colleagues' sanctuaries, both for professional development and personal growth.
