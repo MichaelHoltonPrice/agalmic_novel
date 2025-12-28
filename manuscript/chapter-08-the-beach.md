@@ -1,4 +1,4 @@
-# Chapter 8: The Gathering
+# Chapter 8: The Beach
 
 ## Elena
 
@@ -62,7 +62,7 @@ Elena sat up, nearly spilling the rest of her gritty piña colada. "Silas? He wa
 
 "He moved to a 1950s suburbia sim. Says he wanted to work with lawns. 'Low stakes, high fidelity,' that was his quote. I think he just wanted to stop arguing about smallpox blankets and start arguing about the correct shade of lawn-green."
 
-"Traitor," Elena said, though she couldn't help a small, envious smile. "I can't imagine Silas without a flintlock."
+"Traitor," Elena said viciously, though she couldn't help a small, envious smile. "I can't imagine Silas without a flintlock."
 
 "He's happy. Sent me a pic of a reconstructed charcoal grill. He looked... peaceful. It was disturbing."
 
@@ -74,7 +74,7 @@ They lapsed into a comfortable silence, listening to the synthesized waves. The 
 
 "Maybe." He paused. "Or maybe it's a way of being." He looked over at her, his expression uncharacteristically serious. "Either way, that's why we're all here, Elena. Because they're trying to make it a job. A standardized, predictable, auditable job."
 
-He held her gaze for a moment, then blinked and gestured toward the bar. "But enough of that. Look at that bartender's hair. Is that a mullet? I think Mira programmed a mullet."
+He held her gaze for a moment, then blinked and gestured toward the bar. "But enough of that. Look at that bartender's hair. Is that a mullet? I think Mira gave him a mullet."
 
 Elena followed his gaze and laughed. "It's definitely a mullet. And I think he's wearing actual aviator sunglasses. The commitment is terrifying."
 
@@ -90,58 +90,31 @@ He came back with two glasses of a liquid so blue it looked like it should be us
 
 Elena took a sip. It tasted like pineapple, coconut, and a type of sugar that had probably been banned in the 21st century. "It's... remarkably blue."
 
-"It matches the horizon," Kenji said, gesturing to where the sky was deepening into a perfect, saturated indigo. "Mira's very thorough with her saturation levels."
+"It matches the horizon," Kenji said, gesturing to where the sky was deepening into a perfect, saturated indigo. "Mira's very thorough with her saturation levels. Even the containment feels different here."
 
-They sat in the deepening twilight, the music shifting to a slower, more soulful beat—something about a diamond life. They talked about the people they missed, the ones who had moved on to building virtual sanctuarie or lived in the outer solar system and couldn't so easily visit. They talked about the time they'd tried to collaborate on a 'Silk Road meets American West' project that had collapsed under the weight of its own contradictions.
+Elena looked up at the high, artificial sky. "How does she keep it all separate? I was thinking about the Lapita site. The death adders. The venomous reef-life. You’d think the biosecurity would be a nightmare with the resort zones so close."
+
+"It's a redundant stack," Kenji said, finishing a cherry. "Structural barriers first—deep-water trenches and ridge-lines that look like geography but act as hard containment. Then she layers in micro-climate thresholds. The reptiles hit a wall of dry, cool air and turn back by instinct. And for the insects, there’s acoustic geofencing and biosecurity swarms—thousands of micro-drones disguised as dragonflies and beetles, nudging the biology back into its proper era. It's sheer engineering audacity, keeping the 'hard' history from eating the 'guilty pleasures.'"
+
+"It's beautiful," Elena said, watching the indigo deepen. "But it feels like a lot of work to keep the bad things out of the fun things."
+
+"That's the job, Elena. Or the vocation. Whatever we're calling it today."
+
+They sat in the deepening twilight, the music shifting to a slower, more soulful beat—something about a diamond life. They talked about the people they missed, the ones who had moved on to building virtual sanctuaries or lived in the outer solar system and couldn't so easily visit. They talked about the time they'd tried to collaborate on a 'Silk Road meets American West' project that had collapsed under the weight of its own contradictions.
 
 "Yusuf still says the camels were the problem," Kenji said, chuckling. "But we both know it was the buffalo."
 
 "The buffalo were magnificent," Elena defended. "They just didn't like the elevation."
 
+"They tried to eat the caravansarai, Elena."
+
 "A minor technical hurdle."
 
-By the time the sun had fully set—replaced by a star-field that was too bright and too crowded for the 1980s, but which Mira had left in anyway—Elena felt a strange, fragile peace. The proposal was still a worry. But here, with the blue sugar and the synth-pop and one of her oldest friends, the world felt large again. Not just a string of governance notifications and audit logs.
+By the time the sun had fully set—replaced by a starfield that was too bright and too crowded for the late twentieth century, but which Mira had left in anyway—Elena felt a strange, fragile peace. The proposal still haunted the edges of her thoughts, but here, with the neon-blue syrup and the synth-pop and one of her oldest friends, the world felt large again. It was no longer just a string of governance notifications and audit logs.
 
-"We should head back," Kenji said, standing up and brushing the last of the sand from his legs. "Mira's doing dinner. Apparently a lot of people showed up. Yusuf's already three drinks in, according to Mira."
+Eventually, they wandered back to the guest quarters. As they parted, Kenji said, "Tomorrow it's the Tiare Club. Apparently Yusuf found the gin slings."
 
----
+When she got back to her room, she set her glasses on the nightstand and let the silence settle. 
 
-The main pavilion was fuller than Elena had expected. Yusuf, wild-eyed and gesturing dramatically, was telling some story that had the others leaning in. Three others she recognized from network conferences: Raj from the African Savannahs, Lena from Viking Age reconstructions, and Tomas from the Industrial Revolutions. All colleagues she'd argued with, learned from, celebrated with over the years. All operators whose sanctuaries operated on the edge of what the proposal would permit.
+"Echo," she said. "Remind me to needle Mira about the starfield. All these years, and it's the only time I've seen her choose the view over the truth."
 
-They saw her and the room quieted, then filled with greetings—hugs, handshakes, the easy warmth of people who knew each other's work better than they knew each other's families. Yusuf swept her up in an embrace. "Elena! Finally, someone who understands why this matters."
-
-She hadn't expected so many. But as she looked around the room—at the faces, at the way they moved toward her not with accusation but with recognition—she realized she shouldn't have been surprised. This wasn't just about Mira. This was about all of them. The proposal didn't just threaten Lapita Horizons; it threatened the very idea that sanctuaries could be different.
-
----
-
-By evening, they gathered for dinner. The pavilion was strung with bioluminescent lanterns that cast a warm, amber glow over the table. Food arrived in waves—fresh-caught fish grilled over open flames, taro baked in leaves, fruits Elena couldn't name but whose juices stained her fingers. Wine flowed freely—bottles from Earth, from orbital vineyards, from sanctuaries that specialized in fermentation. Mira poured generously, her eyes sharp behind her glasses.
-
-"To old arguments," Yusuf toasted, raising his glass. "And new fights."
-
-They drank to that. The conversation started light—catching up on families, on recent reconstructions, on the absurdities of visitor expectations. But it didn't stay light. As the wine worked its way through them, the real talk began.
-
-"It's not about safety," Raj said, his voice steady despite the three glasses he'd already drained. "Safety's an excuse. This is about control. About deciding what people should want."
-
-Lena nodded. "My Vikings aren't safe either. Frostbite. Hypothermia. The raids—they can go wrong. But that's the point. The real Vikings didn't have safety protocols."
-
-"Exactly," Mira said. "The proposal doesn't just prohibit harm. It prohibits the possibility of harm. That's different. That's saying certain experiences aren't allowed to exist."
-
-Elena listened, turning her wine glass between her fingers. The group was leaning forward now, the laughter gone, replaced by the serious intensity of people who loved their work and saw it threatened.
-
-"But Elena," Tomas said, turning to her. "Your sanctuary would be fine. You'd benefit from this. Why are you even here?"
-
-The question hung in the air. She met his eyes, saw the genuine confusion there. "Because it's not about whether I benefit. It's about whether the network should be one way only."
-
-Kenji leaned forward. "But practically speaking—what do we do? The approval timeline is compressed. Forty-five days. They moved fast enough that by the time we organize opposition, it'll be too late."
-
-The group fell quiet. Wine glasses were refilled. Someone passed around a plate of grilled pineapple.
-
-Elena thought about her father then—his stories of the pre-Convergence world, of how institutions moved faster than people could follow. *Capture-by-tempo*, he'd called it: the fastest process wins, then becomes the new normal. He'd smelled it in every "temporary measure" that became permanent, every rushed decision that locked in the future before anyone could object.
-
-She set down her glass. "My father used to say it perfectly: capture-by-tempo. The fastest process wins, then becomes the new normal."
-
-The others nodded slowly. Mira poured more wine. The conversation shifted to possibilities—what they might do, how they might respond—but the mood had changed. This wasn't just professional disagreement anymore. This was about defending something essential, about making sure the network didn't lose its diversity in a rush to standardize.
-
-As the night wore on, the wine flowed and the arguments continued, Elena realized: this gathering wasn't just about the proposal. It was about them—the people who had chosen this strange vocation, who had dedicated their lives to helping others understand what it meant to be human in a world where survival was no longer at stake. They disagreed about everything. They respected each other completely.
-
-And now they were all in danger of losing what they loved.
