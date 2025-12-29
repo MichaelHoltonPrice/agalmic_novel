@@ -27,7 +27,7 @@ The Convergence was not a rupture but an acceleration. Abundance had been growin
 
 Aging has been effectively solved through ubiquitous medical nanotechnology and genetic therapies. People can maintain physical youth indefinitely, but the treatments require ongoing choice – they're not automatic or mandatory.
 
-- **Maintenance Culture**: Most people continue treatments as a background convenience, living centuries while maintaining vitality.
+- **Maintenance Culture**: Most people continue treatments as a background convenience, living centuries while maintaining vitality. The same nanotechnology handles everyday physical management—inflammation, minor injuries, muscle stiffness from sleeping in awkward positions. A thought or subvocal command is enough to prioritize a repair.
 - **Natural Aging Option**: Those who discontinue treatments experience gradual aging over decades, allowing for natural life cycles when desired.
 - **Identity Continuity**: Longevity creates complex questions about self, memory, and change across centuries.
 

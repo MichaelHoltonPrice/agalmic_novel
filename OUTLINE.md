@@ -186,10 +186,12 @@ The system locks: the User Veto has been reached. The proposal is blocked. The r
 ## AFTERMATH
 
 ### Chapter 19: The New Project
-The morning after. The group gathers—their sanctuaries now operated by the trust, their IP in the public domain. The proprietary advantage they once held is gone. But they're still boundary archaeologists. They still have work to do.
+The morning after. Elena wakes in Mira's receiving room, stiff and disoriented. She and Mira share a quiet moment watching the simulated dawn. Elena expects to feel loss; she doesn't.
 
-Mira reveals what she was working on during the long night of watching the signal propagate: a proposal to revive the Silk Road collaboration. The project they started thirty years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. Kenji's AIs still have all the survey data. The caravanserai he built for the dinner party was just a draft. While the others watched the numbers climb, Mira was already thinking about what comes next.
+The group gathers for a celebratory brunch at the Tahitian Dream—Mira's 1980s resort reconstruction. All six of them: Elena, Mira, Kenji, Yusuf, Solène, and Jordan. Neon cocktail umbrellas and synth-pop. They've won; they've paid the price. The mood is light but real.
 
-They agree to pick it up. Not as proprietors this time, but as craftspeople working on behalf of the trust. The revenue will help fund universal basic services. The work itself will be the same as it always was: arguing about method, needling each other about fidelity versus essence, building something that helps people understand what it meant to be human before abundance.
+Mira reveals what she was working on during the long night of watching the signal propagate: a proposal to revive the Silk Road collaboration. The project they started thirty years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. While the others watched the numbers climb, Mira was already thinking about what comes next.
+
+They agree to pick it up. Solène asks to help; Jordan offers to consult. The work itself will be the same as it always was: arguing about method, needling each other about fidelity versus essence, building something that helps people understand what it meant to be human before abundance.
 
 It's not the ending anyone expected. But it feels like a beginning.
