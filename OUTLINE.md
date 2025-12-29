@@ -1,7 +1,7 @@
 # OUTLINE.md
 
 ## Logline
-When a governance proposal threatens to turn Elena's popular "Essentialist" philosophy into a mandatory network standard—effectively exiling her friend Mira's "Realist" approach—a close-knit group of pioneering boundary archaeologists must overcome decades of professional friction to save their discipline. After their prestige and expertise fail to move a public indifferent to "policy updates," they resort to a collective costly signal: an unconditional smart contract that will transfer all their intellectual property and sanctuary infrastructure to a public trust—funding the solar system's universal basic services—the moment the governance proposal reaches its final resolution, whether accepted or blocked.
+When a governance proposal threatens to turn Elena's popular "Essentialist" philosophy into a mandatory network standard—effectively exiling her friend Mira's "Realist" approach—a close-knit group of pioneering boundary archaeologists must overcome decades of professional friction to save their discipline. After their prestige and expertise fail to move a public indifferent to "policy updates," they resort to a collective costly signal: an unconditional smart contract that will release all their intellectual property into the public domain and transfer their physical sanctuary infrastructure to a public trust—funding the solar system's universal basic services—the moment the governance proposal reaches its final resolution, whether accepted or blocked.
 
 ## Core Conflict
 **Pluralism versus standardization.** The central question: *Can a discipline survive when its leading voices are forced into a single methodology?*
@@ -18,7 +18,7 @@ Three documents and one technical commitment drive the institutional conflict:
 
 **The Procedure** (NG-2047-31, *Sanctuary Standards and Safety Framework*): A governance proposal that mandates quintessential experience as the network's standard. The language is neutral ("codifying existing values"), but the effect is exclusionary. The compressed 45-day review is capture-by-tempo.
 
-**The Costly Signal**: A collective smart contract executed by the core group (Elena, Mira, Kenji, Yusuf, and others). The contract is unconditional and irreversible: it commits their proprietary IP—centuries of combined research, sensory calibrations, and design methodology—to a public trust designed to fund universal basic services. The transfer is timed for maximum symbolic weight: it triggers the moment the proposal process is finalized (all veto options exhausted). By locking their wheels in this way, they prove that their commitment to the discipline's future is absolute, regardless of whether they "win" or "lose" the vote.
+**The Costly Signal**: A collective smart contract executed by the core group (Elena, Mira, Kenji, Yusuf, and others). The contract is unconditional and irreversible: it releases their proprietary IP—decades of combined research, sensory calibrations, and design methodology—into the public domain, while transferring their physical sanctuary infrastructure to a public trust designed to fund universal basic services. (The physical sanctuaries continue to operate using the now-public IP.) The transfer is timed for maximum symbolic weight: it triggers the moment the proposal process is finalized (all veto options exhausted). By locking their wheels in this way, they prove that their commitment to the discipline's future is absolute, regardless of whether they "win" or "lose" the vote.
 
 ---
 
@@ -138,31 +138,35 @@ The ensemble reconvenes—Mira and Yusuf joining by call from transit, Elena and
 ### Chapter 15 (Elena/Kenji): The Decision
 Elena is at the beach—one of Kenji's reconstructions at Lapita Horizons—processing the Executive's rejection. Her father Jordan has come to visit after hearing about the crisis; they're talking when Kenji shows up, seeking the same shore to clear his head. Kenji is surprised but pleased to see Jordan (they know each other well). Kenji shares what his AI swarm told him: that attention follows perceived stakes, that "the cost is the hook." Jordan recognizes the pattern immediately—"Your AI already told you the answer. It's called costly signaling theory." He explains the framework: peacock tails, warranties, ritual sacrifice. The question crystallizes: *What's your peacock tail?*
 
-Later, the full group gathers. They debate what they have that could serve as a costly signal. Mira proposes the answer: their intellectual property, committed via smart contract to a public trust—unconditionally. The transfer triggers the moment the proposal process reaches finality, whether they win or lose. The sacrifice is real either way; that's what makes it honest. One by one, they agree.
+Later, the full group gathers. They debate what they have that could serve as a costly signal. Mira proposes the answer: their intellectual property, released into the public domain, and their physical sanctuary infrastructure, transferred to a public trust—unconditionally. The sanctuaries would continue to operate using the now-public IP, but the proprietary advantage would be gone forever. The transfer triggers the moment the proposal process reaches finality, whether they win or lose. The sacrifice is real either way; that's what makes it honest. One by one, they agree.
 
 ---
 
 ## PART III — COSTLY SIGNALS
 
 ### T-72 Hours (Elena)
-The group executes the collective smart contract. The notification hits the network: the pioneers have locked their wheels. Their proprietary IP is committed to a public trust, with the transfer scheduled to trigger the moment the proposal reaches finality. The signal is clear: their economic foundation is already gone; they are now fighting for the principle alone.
+The group cryptographically signs the collective smart contract. The IP will be released into the public domain; the physical infrastructure will be transferred to a public trust that funds universal basic services. The sanctuaries will continue operating—using the now-public IP—but the founders' proprietary advantage will be gone forever. The contract will execute when the proposal reaches a final, resolved state, regardless of the outcome. The notification hits the network: the pioneers have locked their wheels. The signal is clear: their vocation is burnt; they are now fighting for the principle alone.
 
 ### T-60 Hours (Executive)
-The Executive is stunned. He cannot understand why they would burn their status. For the first time, he feels the weight of a signal he didn't model.
+The Executive is stunned. He did not anticipate this. While the group represents a tiny fraction of the sanctuaries in the  network, they are founders with some of the best known cultural enclaves. It's 25% of the network's revenue.
 
 ### T-48 Hours (Solène)
-The signal cuts through. Users who ignored the "policy update" are suddenly paying attention to the "sacrifice." For some, it’s a news flash they see in a channel they watch; for others, their personal AI assistants flag the cohort's signal as interesting because of the cost. The 2/3 User Veto threshold begins to climb rapidly as the public engages for the first time.
+The signal cuts through. Users who never even knew of the proposal are now paying attention. For some, it’s a news flash they see in a channel they watch; for others, their personal AI assistants flag the cohort's signal as interesting because of the cost. The 2/3 User Veto threshold begins to climb rapidly as the public engages for the first time.
 
 ### T-36 Hours (Elena)
+# TODO: I don't much like this. What does it do for the story?
 The countdown continues. Elena recalls Jordan's warning: the fastest process becomes the future's baseline. She understands she's fighting for the next century of institutional habit. She watches the veto numbers rise, realizing they’ve finally broken the wall of indifference.
 
 ### T-24 Hours (Executive)
+# TODO: I dislike this. What briefing is this? There's no place in the process for the Triad to do anything. If anything, the Executive could appeal to the public, but that's no in line with his character or philosophy of governance. I think we just eliinate this chapter.
 Last-minute briefings. The Executive prepares his arguments for the Guardian Triad, but he is increasingly distracted by the live telemetry of the user veto. He genuinely believes the proposal will help people, but he is seeing a level of public engagement he didn't think was possible in an agalmic society.
 
 ### T-12 Hours (Elena): The Public Statement
+# TODO: I don't much like this. What does it do for the story?
 Elena names the capture mechanics—tempo, indifference, the safety-trap. The statement is broadcast across the network, amplified by the attention already gathered by the signal.
 
 ### T-0: The Decision
+# TODO: Again, why would the Guardian Triad deliberate?
 The countdown reaches zero. As the Guardian Triad prepares to deliberate, the Operating Company's system automatically locks the proposal: the 2/3 User Veto has been reached. The public has overridden the institutional momentum. The proposal is blocked.
 
 ---
@@ -170,7 +174,7 @@ The countdown reaches zero. As the Guardian Triad prepares to deliberate, the Op
 ## AFTERMATH
 
 ### Chapter: The Fallout
-The heroes have saved pluralism. The proposal is blocked, and at the moment of that finality, the smart contract triggers. Their intellectual property and design foundations are transferred to the public trust to fund universal basic services. They return to their sanctuaries, but the proprietary advantage they once held is gone. The "prestige" they once leaned on is replaced by a new, more difficult kind of authority earned through their sacrifice.
+The heroes have saved pluralism. The proposal is blocked, and at the moment of that finality, the smart contract triggers. Their intellectual property enters the public domain; their physical sanctuary infrastructure transfers to the public trust that funds universal basic services. They return to their sanctuaries—now operated by the trust, using IP anyone can access—but the proprietary advantage they once held is gone. The "prestige" they once leaned on is replaced by a new, more difficult kind of authority earned through their sacrifice.
 
 ### Chapter: Elena's Choice
 Elena begins the work of making "American Tapestry" more transparent. She removes some of the "Essentialist" smoothing, letting the contradictions and the grit of the history show through. It’s less "beautiful," and some visitors complain. She loses some of her popular appeal, but for the first time, she feels she is practicing the discipline Kenji named.

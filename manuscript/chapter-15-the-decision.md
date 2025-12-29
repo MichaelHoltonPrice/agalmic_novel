@@ -160,11 +160,11 @@ Mira looked up.
 
 Everyone looked at her.
 
-"Our intellectual property. The design foundations, the proprietary techniques, the systems we've spent decades building." Her voice was steady. "The things that make our sanctuaries *ours*."
+"Our intellectual property. The design foundations, the proprietary techniques, the systems we've spent decades building." Her voice was steady. "The things that make our sanctuaries *ours*. And the sanctuaries themselves."
 
-"You're talking about... giving it away?" Yusuf said.
+"You're talking about... giving it all away?" Yusuf said.
 
-"I'm talking about committing it. Irrevocably. To a public trust that funds universal basic services." She paused. "Not triggered by losing—triggered by *finality*. The moment the proposal process ends, whether we win or lose, the transfer happens. We can't take it back. We can't hedge."
+"I'm talking about releasing the IP into the public domain. Anyone can use it, copy it, build on it. And transferring our physical infrastructure—the habitats, the equipment, everything—to a public trust that funds universal basic services." She paused. "The sanctuaries keep running. They just won't be *ours* anymore. Not triggered by losing—triggered by *finality*. The moment the proposal process ends, whether we win or lose, it happens. We can't take it back. We can't hedge."
 
 "That's everything," Yusuf said quietly. "That's our legacy."
 
@@ -172,7 +172,7 @@ Everyone looked at her.
 
 "But if we win—" Solène started.
 
-"If we win, we still lose the IP. That's the point." Mira's voice was calm. "The sacrifice is unconditional. We're not saying 'we'll give this up if we lose.' We're saying 'we've already given it up, regardless of outcome.' The commitment is made the moment we sign. The outcome just determines whether the transfer happens in victory or defeat."
+"If we win, we still lose the IP—it goes public domain. The infrastructure still transfers to the trust. That's the point." Mira's voice was calm. "The sacrifice is unconditional. We're not saying 'we'll give this up if we lose.' We're saying 'we've already given it up, regardless of outcome.' The commitment is made the moment we sign. The outcome just determines whether the transfer happens in victory or defeat."
 
 Elena felt something shift in her chest. Her father's words echoed: *The cost makes it honest.*
 
@@ -186,7 +186,7 @@ Jordan spoke up. "Will it be enough? Will people notice?"
 
 She stood.
 
-"I'm going to do this. My IP, my techniques, my life's work—committed to a public trust, unconditionally. The question is whether I do it alone, or whether we do it together."
+"I'm going to do this. My IP released to the public domain. My sanctuary transferred to the trust. Unconditionally. The question is whether I do it alone, or whether we do it together."
 
 One by one, they looked at each other.
 
