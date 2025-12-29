@@ -246,6 +246,19 @@ In an agalmic society, physical proximity is a choice, not a requirement for coo
 #### Smart Contracts as Commitment Devices
 In an agalmic economy, talk can be cheap. When someone wants to make a costly signal—to prove their commitment is genuine, not strategic—they can use cryptographically locked contracts that execute automatically based on external conditions. These commitments cannot be revoked or renegotiated. They function as the post-scarcity equivalent of burning boats: by removing the option to retreat, they make words expensive.
 
+#### The On-Chain Attention Economy
+In a world of abundant content and AI-generated media, attention itself has become a scarce resource. Most people consume information through proprietary recommendation systems—opaque algorithms that filter the overwhelming flood of content into personalized feeds.
+
+However, a parallel attention economy exists on decentralized blockchain infrastructure. This ecosystem—sometimes called the "open chain"—has two distinctive properties:
+
+1. **Permanent on-chain storage**: Both news stories and the feeds that curate them are stored permanently on blockchain. Nothing is deleted; everything is auditable. The history of what was published, when, and how it propagated is permanently visible.
+
+2. **Open-source algorithms**: The recommendation algorithms that create feeds—and often the AI systems that generate news stories—are open-source and publicly readable. Anyone can inspect the logic, understand why a story was surfaced, or trace how attention propagated.
+
+This is infrastructure favored by transparency advocates, governance researchers, and a certain "tech bro" sensibility that values auditability over convenience. It's not mainstream—most users prefer the convenience of proprietary systems. But given the solar system's population, the open chain still has a massive user base. This scale makes it useful: while you can't see inside the closed systems, the open chain provides a measurable slice of the attention economy in real-time.
+
+**AI news agents**—autonomous systems that monitor blockchains and other data sources for interesting activity—are ubiquitous on the open chain (and off it). Swarms of such agents watch smart contract transactions, governance proposals, public statements, and other events. When they detect something noteworthy, they draft stories, add context, and publish to the chain within seconds. These agents are the first layer of the attention economy: before most humans are aware of an event, AI agents have already processed, contextualized, and begun propagating it through on-chain feeds.
+
 ## Cultural and Social Dynamics
 
 **Post-Scarcity Values**: With material needs met, human energy focuses on relationships, creativity, identity, and understanding the human condition.
