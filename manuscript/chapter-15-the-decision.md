@@ -110,8 +110,6 @@ Kenji blinked. "Costly signaling."
 
 "Biology: peacock tails. The tail is expensive to grow and makes the bird easier for predators to catch. That's the point—only a genuinely healthy peacock can afford the handicap. The tail *proves* the fitness precisely because it's a burden."
 
-"Economics: warranties and money-back guarantees. A company that offers a warranty is saying: 'We're so confident in our product that we'll take the hit if it fails.' The willingness to absorb cost signals quality."
-
 "Anthropology: ritual sacrifice, pilgrimage, initiation ordeals. The harder the ritual, the more it proves commitment to the group. You can't fake a pilgrimage. You either made the journey or you didn't."
 
 Kenji stared at him. The shape he'd been reaching for was suddenly clear.
