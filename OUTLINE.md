@@ -64,8 +64,7 @@ Once the proposal passes the legislative stage, the group must pivot to the form
 **The structure itself changes as the deadline approaches.**
 
 *   **Parts I & II:** Traditional chapter labels with POV markers. The three arcs have different temporal textures—Elena's chapters might span days, Solène's might span weeks, the Executive's follow institutional rhythms. Time passes but isn't emphasized in the structure. The vote deadline exists but feels manageable.
-*   **Interlude (End of Part II):** A structural "warning shot"—one chapter that breaks the pattern, mixing POVs and introducing countdown format for the first time. The reader knows something has changed.
-*   **Part III:** Explicit countdown labels (`T-72 Hours`, `T-36 Hours`, `T-0`). The POV cuts accelerate. Everyone is on the same clock. The "procedural thriller" becomes kinetic as the distributed signal propagates.
+*   **Part III:** The tempo compresses radically. Two chapters cover approximately 72 hours in near-real-time, following the group as they monitor the open chain after signing the smart contract. The POV cuts accelerate—the ensemble watches attention propagate through the decentralized feeds, with brief interludes from the Executive's perspective. The "procedural thriller" becomes visceral: not a countdown on a clock, but a live feed of the signal spreading through the network. The climax arrives when the User Veto threshold is crossed in the final hours.
 
 ---
 
@@ -144,47 +143,41 @@ Later, the full group gathers. They debate what they have that could serve as a 
 
 ## PART III — COSTLY SIGNALS
 
-### T-72 Hours (Elena)
-The group cryptographically signs the collective smart contract. The IP will be released into the public domain; the physical infrastructure will be transferred to a public trust that funds universal basic services. The sanctuaries will continue operating—using the now-public IP—but the founders' proprietary advantage will be gone forever. The contract will execute when the proposal reaches a final, resolved state, regardless of the outcome. The notification hits the network: the pioneers have locked their wheels. The signal is clear: their vocation is burnt; they are now fighting for the principle alone.
+### Chapter 16 (Elena/Ensemble): The Signal
 
-### T-60 Hours (Executive)
-The Executive is stunned. He did not anticipate this. While the group represents a tiny fraction of the sanctuaries in the  network, they are founders with some of the best known cultural enclaves. It's 25% of the network's revenue.
+The group gathers to sign the smart contract. Someone mentions that AI agents have already enumerated the IP and physical infrastructure—the work happened quickly, since AIs already manage most of the mundane aspects of running their operations. The moment is solemn. One by one, they sign. The contract locks: when the resolution window closes, their IP enters the public domain and their physical infrastructure transfers to the trust. There's no taking it back.
 
-### T-48 Hours (Solène)
-The signal cuts through. Users who never even knew of the proposal are now paying attention. For some, it’s a news flash they see in a channel they watch; for others, their personal AI assistants flag the cohort's signal as interesting because of the cost. The 2/3 User Veto threshold begins to climb rapidly as the public engages for the first time.
+Kenji has his AIs tap into the open chain—the decentralized attention economy where news stories and feeds are stored permanently on blockchain, with open-source algorithms anyone can audit. It's not mainstream (most people use proprietary feeds), but given the solar system's population it still has a massive user base. They can't easily see inside the closed systems, but the open chain is measurable in real-time.
 
-### T-36 Hours (Elena)
-# TODO: I don't much like this. What does it do for the story?
-The countdown continues. Elena recalls Jordan's warning: the fastest process becomes the future's baseline. She understands she's fighting for the next century of institutional habit. She watches the veto numbers rise, realizing they’ve finally broken the wall of indifference.
+**The first seconds:** An AI news agent—one of thousands that monitor blockchains for interesting activity—detects the smart contract. Within seconds, it reads the associated text, identifies the signatories (founders of major sanctuaries), cross-references the governance proposal, and drafts a story. The story is published to the agent's feed before the group has finished their toast.
 
-### T-24 Hours (Executive)
-# TODO: I dislike this. What briefing is this? There's no place in the process for the Triad to do anything. If anything, the Executive could appeal to the public, but that's no in line with his character or philosophy of governance. I think we just eliinate this chapter.
-Last-minute briefings. The Executive prepares his arguments for the Guardian Triad, but he is increasingly distracted by the live telemetry of the user veto. He genuinely believes the proposal will help people, but he is seeing a level of public engagement he didn't think was possible in an agalmic society.
+**The first minutes:** The story hits the open chain feeds. They watch the metrics climb—slowly at first, then accelerating. Other AI agents pick up the story, adding context, commentary, competing frames. The "relative attention" score for NG-2047-31—previously buried under thousands of more salient topics—begins to rise.
 
-### T-12 Hours (Elena): The Public Statement
-# TODO: I don't much like this. What does it do for the story?
-Elena names the capture mechanics—tempo, indifference, the safety-trap. The statement is broadcast across the network, amplified by the attention already gathered by the signal.
+**The first hours:** The story jumps from AI-curated feeds to human-curated ones. Solène's earlier viral essay resurfaces, now contextualized by the founders' sacrifice. The User Veto dashboard—which had been flat at 11% for days—begins to move. 12%. 14%. The wall of indifference is cracking. Friends they have not heard from in years message the group saying their personal AIs have surfaced the story for them, and expressing different sentiments.
 
-### T-0: The Decision
-# TODO: Again, why would the Guardian Triad deliberate?
-The countdown reaches zero. As the Guardian Triad prepares to deliberate, the Operating Company's system automatically locks the proposal: the 2/3 User Veto has been reached. The public has overridden the institutional momentum. The proposal is blocked.
+They watch through the night. Elena thinks about what Jordan said: *the cost makes it honest*. The attention isn't coming because they're famous or persuasive. It's coming because they burned their boats, and that's *interesting* in a way that arguments alone weren't.
+
+### Chapter 17 (Ensemble/Executive): The Climb
+
+**Hours 12-24:** The User Veto crosses 25%, then 35%. The open chain shows the story cascading through different communities—sanctuary enthusiasts, governance wonks, people who'd never heard of boundary archaeology but are fascinated by the spectacle of founders destroying their own advantage [c.f. Eve online battles and the news stories about USD losses; maybe Jordan can mention this if it works well within the story]. Memes appear. Counter-arguments emerge. The network is *paying attention* for the first time.
+
+**The Executive's perspective (interlude):** He watches the same telemetry, stunned. He didn't anticipate this. The group is a tiny fraction of the network's operators by count, but they're founders—pioneers who run some of the largest and most celebrated sanctuaries, representing a disproportionate share of the network's revenue. He genuinely believes the proposal will help people. He genuinely believed the process was fair. But he's watching public engagement at a level he didn't think possible in an agalmic society. The question he can't shake: *If this is what it takes to make people care, what does that say about ordinary governance?*
+
+**Hours 24-48:** The veto crosses 50%. The open chain shows the story has broken through to general interest. Active users who'd never engaged with governance before—people whose sanctuary visits were purely recreational, who'd never thought about network policy—are now voting for the first time. The founders' sacrifice has made the abstract question feel personal: *these people gave up everything for a principle, and maybe that principle matters*.
+
+**The final hours:** The group gathers again. The resolution window will close at midnight. The veto stands at 64%. They need 67%. The climb has slowed—the easy conversions are done, and what's left is harder. They watch the numbers tick upward in real-time. 65%. 66%. With two hours left, it crosses 67%.
+
+The system locks: the User Veto has been reached. The proposal is blocked. The resolution window closes, and the smart contract executes. Their IP enters the public domain. Their infrastructure transfers to the trust. They've won—and they've paid the price.
 
 ---
 
 ## AFTERMATH
 
-### Chapter: The Fallout
-The heroes have saved pluralism. The proposal is blocked, and at the moment of that finality, the smart contract triggers. Their intellectual property enters the public domain; their physical sanctuary infrastructure transfers to the public trust that funds universal basic services. They return to their sanctuaries—now operated by the trust, using IP anyone can access—but the proprietary advantage they once held is gone. The "prestige" they once leaned on is replaced by a new, more difficult kind of authority earned through their sacrifice.
+### Chapter 18: The New Project
+The morning after. The group gathers—their sanctuaries now operated by the trust, their IP in the public domain. The proprietary advantage they once held is gone. But they're still boundary archaeologists. They still have work to do.
 
-### Chapter: Elena's Choice
-Elena begins the work of making "American Tapestry" more transparent. She removes some of the "Essentialist" smoothing, letting the contradictions and the grit of the history show through. It’s less "beautiful," and some visitors complain. She loses some of her popular appeal, but for the first time, she feels she is practicing the discipline Kenji named.
+Someone mentions the Silk Road. The collaboration they started thirty years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. Kenji's AIs still have all the survey data. The caravanserai he built for the dinner party was just a draft.
 
-### Chapter: The Executive's Audit
-The Executive conducts a post-mortem on the failure. He isn't bitter, but he is deeply contemplative. He realizes that "care" without the possibility of refusal is just another form of capture. He begins to model the system not for survival, but for autonomy.
+They agree to pick it up. Not as proprietors this time, but as craftspeople working on behalf of the trust. The revenue will help fund universal basic services. The work itself will be the same as it always was: arguing about method, needling each other about fidelity versus essence, building something that helps people understand what it meant to be human before abundance.
 
-### Chapter: Ending Image
-The three POVs in a shared session together. Not allies, not enemies. Co-inhabitants of a system that remains friction-filled and distributed.
-
-The Executive asks: "How do we measure success now?"
-Solène: "When comfort stops pretending to be neutral."
-Elena: "When no one has to burn their status to prove they're honest."
+It's not the ending anyone expected. But it feels like a beginning.
