@@ -107,7 +107,11 @@ The contrast is immediate and visceral. As they walk through the site, they can 
 The needling continues—but with an edge now. As they see the permissive-tier risks (venomous reef-life, genuine physical danger), the stakes become tangible. They recall the Silk Road collaboration: thirty months of argument because their philosophies were different, but the discipline was big enough for all of them. Under the new proposal, this entire site would be "sanitized" out of existence. The vote count is climbing.
 
 ### Chapter 10 (Elena/Group): The Gathering (Midpoint Shift)
-The dinner party. Ten peers, thirty years of baggage. Professional bickering turns into a **Common Purpose.** By this point, it is clear that the 2/3 sanctuary vote for acceptance is going to pass; the smaller operators support the "standardized wonder" model. The group chooses to bypass the initial vote entirely, briefly considering but dismissing a "Rollback Motion" as a dead end. They decide to pivot, dividing and conquering the remaining veto options (Guardians, Users) and attempting to influence the Executive. They are optimistic; their prestige feels like armor.
+The dinner party. Kenji and Yusuf have arranged the setting: a caravanserai built by Kenji's AI systems in eighty-seven hours from the old Silk Road survey data—a draft of the collaboration they never finished. ("The buffalo ate the eastern wing. We never solved the herding patterns.")
+
+Mira finally appears—defensive, exhausted, braced for a fight. She's been waiting three days for Elena to say she supports the proposal; Elena's philosophy is the template, after all. The tension is palpable until Elena makes clear she understands what's at stake: Section 3.1, the scar, the death adders. She doesn't want her philosophy weaponized against Mira's.
+
+The core four realize they were always aligned. Henrik and Chen support the proposal (sincere opposition), but the cohort's heart is unified. They choose to bypass the initial vote—the 2/3 sanctuary threshold is going to pass—and pivot to the veto options: Mira takes the Guardian Appeal, Elena and Kenji take the User Veto campaign, Elena attempts institutional influence with the Executive. They toast: to death adders, to unfinished buffalo, to thirty years of arguments. Professional bickering becomes **Common Purpose**. They are optimistic; their prestige feels like armor.
 
 ---
 
