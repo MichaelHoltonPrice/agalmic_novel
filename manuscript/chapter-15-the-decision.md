@@ -118,10 +118,6 @@ Kenji stared at him. The shape he'd been reaching for was suddenly clear.
 
 "They were describing costly signaling. They gave you the mechanism. They just didn't give you the framework." Jordan looked at Elena, then back at Kenji. "The question for your group is: what's your tattoo? What can you sacrifice that proves you mean it—proves it so clearly that even people who wouldn't normally pay attention would notice?"
 
-*What's your peacock tail?*
-
-Kenji didn't know yet. But he knew the question now.
-
 ---
 
 ## The Meeting
