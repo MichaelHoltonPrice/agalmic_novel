@@ -74,6 +74,8 @@ While he is not the most successful practitioner or the most serious scholar, he
 
 He is often the one to needle his friends about who is still a "real" archaeologist, especially Mira, who prefers to say, "the computer is my trowel." Yusuf sees the physical record as the only unfiltered truth, viewing the group's increasingly simulation-heavy work as "guesses with better graphics."
 
+**The New Guinea Decision**: Years ago, Yusuf led the ethics review for a proposed excavation of early Lapita sites on mainland New Guinea—sites that could have filled in gaps in the record about Lapita lifeways on the larger landmass. Excavation is inherently destructive; you can only dig a site once. This raises a question every archaeologist should ask: should you dig now, or wait for better tools that would extract more information from that single, irreversible act? The question has always existed, but accelerating technological change makes it ever more acute. Yusuf voted to defer indefinitely. The decision was sound—Mira understood the reasoning. But the gaps remain unfilled, forcing her to build parts of her Lapita reconstruction on inference rather than evidence. She's been miffed ever since. Not angry, exactly. She respects the logic. But miffed.
+
 ## Central AI Character: Echo
 
 **Age**: "Born" in 2028 during the Great Convergence

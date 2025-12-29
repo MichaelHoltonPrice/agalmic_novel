@@ -97,46 +97,41 @@ Elena travels to Mira's habitat in response to a message. Kenji greets her with 
 
 The dynamic duo is established: jovial Kenji vs. morose Yusuf. They finish each other's complaints ("guesses with better graphics"). When Elena tries to bring up the manifesto, Kenji throws sand at her—"there's time for that later." They trade shop talk instead: audits, visitor complaints, colleagues who've fled to "lifestyle reconstructions." Yusuf goes on a tangent about excavation methodology (locus vs. units, Munsell numbers); later, Kenji quietly picks up the intellectual gauntlet ("Method *is* theory-laden, you know").
 
-Elena notices Mira gave a background bartender a failed marriage—fidelity for its own sake. Still no Mira; she's "deep in the zones," letting them accumulate like silt.
+Elena notices Mira gave a background bartender a failed marriage—fidelity for its own sake. Still no Mira; she's "deep in the zones," letting them accumulate like silt. The chapter ends on camaraderie: Elena preparing to needle Mira about the starfield—too bright, too crowded for the era. "The only time I've ever seen her choose the view over the truth."
 
-### Chapter 9 (Elena): The Tiare Club
-The trio travels to "The Tiare Club, 1926"—a French colonial beach hotel with white linen and gramophones. Other cohort members are already gathering (Lena, Raj, others). The mood shifts; they can no longer avoid the proposal.
+### Chapter 9 (Elena/Group): The Deep Past
+The next morning. The group (Elena, Kenji, Yusuf) takes a professional "field trip" to Mira's masterwork: the **Lapita Horizons** site. They leave the 1980s resort for the raw, high-humidity reality of 1000 BCE. Other cohort members (Lena, Raj, others) join them at the site.
 
-Kenji reminisces about Luna—the first cohort meeting where he coined "boundary archaeology." Elena articulates her discomfort: her Essentialist philosophy is being quoted in the manifesto like axioms, used as the template for mandatory standardization. Yusuf has read the fine print (Section 7.3, "Risk Tier Harmonization") and confirms her fears. They recall the Silk Road collaboration—thirty months of argument because their philosophies were different, but the discipline was big enough for all of them.
+The contrast is immediate and visceral. As they walk through the site, they can no longer avoid the proposal. Kenji reminisces about Luna—the first cohort meeting where he coined "boundary archaeology." Elena articulates her discomfort: her Essentialist philosophy is being quoted in the manifesto like axioms, used as the template for mandatory standardization. Yusuf has read the fine print (Section 7.3, "Risk Tier Harmonization") and confirms her fears.
 
-The vote count climbs. Mira's exquisite period reconstruction proves her point: she *could* build theme parks. She chooses the adders instead.
+The needling continues—but with an edge now. As they see the permissive-tier risks (venomous reef-life, genuine physical danger), the stakes become tangible. They recall the Silk Road collaboration: thirty months of argument because their philosophies were different, but the discipline was big enough for all of them. Under the new proposal, this entire site would be "sanitized" out of existence. The vote count is climbing.
 
-### Chapter 10 (Elena/Group): The Deep Past
-The group (Elena, Kenji, Yusuf, and other early arrivals) takes a professional "field trip" to Mira's masterwork: the **Lapita Horizons** site. They leave the 20th-century luxury for the raw, high-humidity reality of 1000 BCE. 
-
-As they walk through the site, the "needling" continues. Yusuf mocks Kenji’s "guesses with better graphics" approach, while Kenji teases Mira (through her work) about counting grains of sand. But as they see the "permissive-tier" risks—the venomous reef-life and the genuine physical danger Mira preserves—the tone begins to shift. They realize that under the new proposal, this entire site would be "sanitized" out of existence.
-
-### Chapter 11 (Elena/Group): The Gathering (Midpoint Shift)
+### Chapter 10 (Elena/Group): The Gathering (Midpoint Shift)
 The dinner party. Ten peers, thirty years of baggage. Professional bickering turns into a **Common Purpose.** By this point, it is clear that the 2/3 sanctuary vote for acceptance is going to pass; the smaller operators support the "standardized wonder" model. The group chooses to bypass the initial vote entirely, briefly considering but dismissing a "Rollback Motion" as a dead end. They decide to pivot, dividing and conquering the remaining veto options (Guardians, Users) and attempting to influence the Executive. They are optimistic; their prestige feels like armor.
 
 ---
 
 ## PART II — THE FAILURE OF PRESTIGE
 
-### Chapter 12 (Executive): The Reckoning
+### Chapter 11 (Executive): The Reckoning
 The Executive monitors the rollout. He is prepared for the "Founders' Response," reframing their expertise as "academic pedantry" to the thousands of newer operators who want the safety of the standard.
 
-### Chapter 13 (Solène): The Critique
+### Chapter 12 (Solène): The Critique
 Solène writes her viral critique. She realizes "viral" in an abundance economy is just noise; she needs a 2/3 User Veto.
 
-### Chapter 14 (Yusuf): The Operators' Wall
-The 2/3 sanctuary vote concludes and the proposal passes the legislative phase. Yusuf confirms the "Operators' Wall" is insurmountable; his analysis of the voting telemetry shows that even a follow-on "Rollback Motion" would be dead on arrival. The smaller operators see the proposal as a "Quality Update" that makes their lives easier. Yusuf’s appeals to methodological purity are dismissed by the network as "elite pedantry," leaving him to report back that the legislative path is officially closed.
+### Chapter 13 (Yusuf): The Operators' Wall
+The 2/3 sanctuary vote concludes and the proposal passes the legislative phase. Yusuf confirms the "Operators' Wall" is insurmountable; his analysis of the voting telemetry shows that even a follow-on "Rollback Motion" would be dead on arrival. The smaller operators see the proposal as a "Quality Update" that makes their lives easier. Yusuf's appeals to methodological purity are dismissed by the network as "elite pedantry," leaving him to report back that the legislative path is officially closed.
 
-### Chapter 15 (Mira): The Guardian Appeal
+### Chapter 14 (Mira): The Guardian Appeal
 Mira presents the case for Pluralism to the Triad. The Executive counters with decades of safety data. The Guardians see no "rational" reason to block the improvement, but suggest that this is why there exists a player veto.
 
-### Chapter 16 (Elena/Kenji): The Attention Gap
+### Chapter 15 (Elena/Kenji): The Attention Gap
 Elena and Kenji attempt to trigger the 2/3 User Veto, trying to channel the energy of Solène's viral movement into a formal procedural mechanism. They fail because of the **Attention Economy.** While Solène's independent efforts keep the topic in the public eye, most visitors remain comfortable and indifferent to "policy." The 2/3 threshold feels impossible to reach.
 
-### Chapter 17 (Elena): The Low Point
+### Chapter 16 (Elena): The Low Point
 The group realizes their prestige is their cage. In a world of abundance, "being right" isn't enough to cut through the indifference.
 
-### Chapter 18 (Elena): The Decision
+### Chapter 17 (Elena): The Decision
 The group gathers again. They debate options. They decide on the **Costly Signal**. They will burn their status to prove their honesty, and gain attention.
 
 ---
