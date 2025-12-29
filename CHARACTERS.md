@@ -149,7 +149,7 @@ Underneath the precision is something she guards carefully: she doesn't know if 
 
 He believes—genuinely, in whatever passes for his bones—in the importance of managing "zero-point" risks. He understands that in a network of this scale, survival depends on multiplicative functions where a single catastrophic failure can multiply the system's total value to zero. He sees the "principal-agent problem" between evolved human preferences and their contemporary well-being: people often choose risks that their biology was designed for but their actual environment can no longer justify. Where this conviction comes from is never explained. It simply *is*—as fundamental to him as the drive to optimize, to coordinate, to make systems work.
 
-**Vocation**: Executive lead of the sanctuary network's Operating Company. Authored or championed the manifesto (*Toward a Philosophy of Sanctuary Design*) and the governance proposal (NG-2047-31).
+**Vocation**: Executive lead of the sanctuary network's Operating Company. The manifesto (*Toward a Philosophy of Sanctuary Design*) and the governance proposal (NG-2047-31) emerged from network governance processes—the Philosophy Working Group, operator discussions, institutional deliberation. The Executive was involved in those discussions and supports the proposal, but it's an institutional product, not his personal creation.
 
 **Personality**: Calm, competent, not a cartoon villain. He speaks in care-language because he means it—and because it wins. He is excellent at meetings: patient, prepared, able to reframe opposition as concern-to-be-addressed. He rarely raises his voice. He rarely needs to.
 
