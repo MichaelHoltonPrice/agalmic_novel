@@ -145,27 +145,39 @@ Later, the full group gathers. They debate what they have that could serve as a 
 
 ### Chapter 16 (Elena/Ensemble): The Signal
 
-The group gathers to sign the smart contract. Someone mentions that AI agents have already enumerated the IP and physical infrastructure—the work happened quickly, since AIs already manage most of the mundane aspects of running their operations. The moment is solemn. One by one, they sign. The contract locks: when the resolution window closes, their IP enters the public domain and their physical infrastructure transfers to the trust. There's no taking it back.
+The enumeration of IP and physical infrastructure takes most of a day—not because of processing time, but because of light-speed delays coordinating across the inner solar system. A diversity of AI agents catalog their respective systems; Kenji's swarm coordinates.
 
-Kenji has his AIs tap into the open chain—the decentralized attention economy where news stories and feeds are stored permanently on blockchain, with open-source algorithms anyone can audit. It's not mainstream (most people use proprietary feeds), but given the solar system's population it still has a massive user base. They can't easily see inside the closed systems, but the open chain is measurable in real-time.
+The group gathers to sign the smart contract. The moment is solemn. One by one, they sign—Mira first, then Yusuf, Kenji, and Elena. Jordan and Solène sign as witnesses. The contract locks: when the resolution window closes, their IP enters the public domain and their physical infrastructure transfers to the trust. There's no taking it back.
 
-**The first seconds:** An AI news agent—one of thousands that monitor blockchains for interesting activity—detects the smart contract. Within seconds, it reads the associated text, identifies the signatories (founders of major sanctuaries), cross-references the governance proposal, and drafts a story. The story is published to the agent's feed before the group has finished their toast.
+They move to a monitoring room. Kenji taps into the open chain—the decentralized attention economy with permanent storage and open-source algorithms. Within seconds, an AI news agent detects the contract and publishes a story. The signal begins to propagate.
 
-**The first minutes:** The story hits the open chain feeds. They watch the metrics climb—slowly at first, then accelerating. Other AI agents pick up the story, adding context, commentary, competing frames. The "relative attention" score for NG-2047-31—previously buried under thousands of more salient topics—begins to rise.
+**The first hours:** The story jumps from AI-curated feeds to human-curated ones. Solène's earlier viral essay resurfaces. The User Veto dashboard—which had been flat at 11% for days—begins to move. 12%. 14%. Friends they haven't heard from in years message the group. The wall of indifference is cracking.
 
-**The first hours:** The story jumps from AI-curated feeds to human-curated ones. Solène's earlier viral essay resurfaces, now contextualized by the founders' sacrifice. The User Veto dashboard—which had been flat at 11% for days—begins to move. 12%. 14%. The wall of indifference is cracking. Friends they have not heard from in years message the group saying their personal AIs have surfaced the story for them, and expressing different sentiments.
+**Through the night:** 15%. 16%. 17%. The story breaks through to proprietary feeds. Commentary threads explode with debate—is it genuine or performative? Elena steps outside with Jordan; she asks what happens if it's not enough.
 
-They watch through the night. Elena thinks about what Jordan said: *the cost makes it honest*. The attention isn't coming because they're famous or persuasive. It's coming because they burned their boats, and that's *interesting* in a way that arguments alone weren't.
+**By morning:** The number crosses 20%, then 22%. The story has reached general interest feeds. People who'd never heard of boundary archaeology are clicking, reading, voting. The sacrifice is the hook, and the story is beginning to spread.
 
-### Chapter 17 (Ensemble/Executive): The Climb
+### Chapter 17 (Executive): Interlude
 
-**Hours 12-24:** The User Veto crosses 25%, then 35%. The open chain shows the story cascading through different communities—sanctuary enthusiasts, governance wonks, people who'd never heard of boundary archaeology but are fascinated by the spectacle of founders destroying their own advantage [c.f. Eve online battles and the news stories about USD losses; maybe Jordan can mention this if it works well within the story]. Memes appear. Counter-arguments emerge. The network is *paying attention* for the first time.
+A temporal cut. We leave the founders at 22% and drop into the Executive's perspective at the Axis.
 
-**The Executive's perspective (interlude):** He watches the same telemetry, stunned. He didn't anticipate this. The group is a tiny fraction of the network's operators by count, but they're founders—pioneers who run some of the largest and most celebrated sanctuaries, representing a disproportionate share of the network's revenue. He genuinely believes the proposal will help people. He genuinely believed the process was fair. But he's watching public engagement at a level he didn't think possible in an agalmic society. The question he can't shake: *If this is what it takes to make people care, what does that say about ordinary governance?*
+**A sharp moment:** The Executive watches the telemetry. The User Veto—a mechanism that has never crossed 4% in the network's history—is climbing. He didn't anticipate this. The founders are a tiny fraction of operators by count, but they run some of the largest and best-known sanctuaries, with a disproportionate share of revenue. They found a lever he didn't know existed.
 
-**Hours 24-48:** The veto crosses 50%. The open chain shows the story has broken through to general interest. Active users who'd never engaged with governance before—people whose sanctuary visits were purely recreational, who'd never thought about network policy—are now voting for the first time. The founders' sacrifice has made the abstract question feel personal: *these people gave up everything for a principle, and maybe that principle matters*.
+He genuinely believes the proposal will help people. He genuinely believed the process was fair. But he's watching public engagement at a level he didn't think possible in an agalmic society. The question he can't shake: *If this is what it takes to make people care, what does that say about ordinary governance?*
 
-**The final hours:** The group gathers again. The resolution window will close at midnight. The veto stands at 64%. They need 67%. The climb has slowed—the easy conversions are done, and what's left is harder. They watch the numbers tick upward in real-time. 65%. 66%. With two hours left, it crosses 67%.
+A moment of doubt. Not about the goal—safety matters, systemic resilience matters—but about the method. About tempo. About what it means to follow every rule and still miss something essential.
+
+The interlude is brief. A handful of pages. Then we cut back.
+
+### Chapter 18 (Ensemble): The Climb
+
+We return to the founders. The vote continues—a sigmoid curve. Initial acceleration, then slowing as the easy conversions are exhausted.
+
+**The acceleration:** 25%. 35%. 50%. The story cascades through different communities—sanctuary enthusiasts, governance wonks, people who'd never heard of boundary archaeology but are fascinated by the spectacle of founders destroying their own advantage. Memes appear. Counter-arguments emerge. The network is *paying attention* for the first time.
+
+**The slowdown:** The climb decelerates. The people who were going to be convinced have been convinced. What's left is harder—the genuinely indifferent, the actively opposed, the people who don't vote on principle.
+
+**The final hours:** The resolution window will close at midnight. The veto stands at 64%. They need 67%. They watch the numbers tick upward in real-time. 65%. 66%. With two hours left, it crosses 67%.
 
 The system locks: the User Veto has been reached. The proposal is blocked. The resolution window closes, and the smart contract executes. Their IP enters the public domain. Their infrastructure transfers to the trust. They've won—and they've paid the price.
 
@@ -173,7 +185,7 @@ The system locks: the User Veto has been reached. The proposal is blocked. The r
 
 ## AFTERMATH
 
-### Chapter 18: The New Project
+### Chapter 19: The New Project
 The morning after. The group gathers—their sanctuaries now operated by the trust, their IP in the public domain. The proprietary advantage they once held is gone. But they're still boundary archaeologists. They still have work to do.
 
 Mira reveals what she was working on during the long night of watching the signal propagate: a proposal to revive the Silk Road collaboration. The project they started thirty years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. Kenji's AIs still have all the survey data. The caravanserai he built for the dinner party was just a draft. While the others watched the numbers climb, Mira was already thinking about what comes next.
