@@ -8,6 +8,8 @@ The call connected across four locations: Mira and Yusuf in transit, their faces
 
 It was the first time all of them had been in the same conversation.
 
+Solène wasn't sure when she'd become part of "all of them." A month ago, she'd been writing essays about how these people—the pioneers, the artisanal meaning-makers—were half the problem. Now she was on a call where her name appeared alongside theirs like she belonged there. She didn't, quite. But here she was anyway.
+
 "Two to one," Mira said. Her voice was steady, but the exhaustion showed in the set of her shoulders. "The AI dissented. The humans declined to block."
 
 "Their reasoning?" Elena asked.
@@ -53,6 +55,10 @@ Solène felt something cold settle in her chest. She'd thought the viral moment 
 "Your essay mattered," Elena said quickly. "It created awareness. It validated people's feelings. It—"
 
 "It didn't move the numbers. Not enough." Solène's voice was flat. "Seventeen thousand shares, and we're at eleven percent."
+
+She watched Elena's face—earnest, sympathetic, trying to make her feel better. This was the woman whose sanctuary had embodied everything Solène had criticized. Beauty without stakes. Craft without cost. And now Elena was reassuring her, welcoming her, treating her like a colleague instead of a critic.
+
+Part of Solène wanted to accept it. Part of her wondered if she was being absorbed.
 
 No one contradicted her at first, but then Kenji said, "Well, but we have to consider the counterfactual. If you hadn't written the essay, we'd be even worse off!"
 

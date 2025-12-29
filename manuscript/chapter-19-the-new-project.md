@@ -102,6 +102,10 @@ Solène arrived last, looking more awake than she had any right to. She'd found 
 
 "When in Tahiti," she said.
 
+Elena smiled at her. Solène smiled back, and caught herself wondering when that had become automatic. Three months ago she'd stood on a rise in Elena's sanctuary and watched her work from a distance, trying to understand what it felt like to care about something that much. Now she was eating bagels at the founders' table like she'd always been there.
+
+She wasn't sure how she felt about that. But the bagel was good.
+
 By now the morning had slid into brunch. Neon cocktail umbrellas appeared. The synth-pop cycled through its playlist again.
 
 "So," Kenji said, spearing another piece of pineapple. "What now?"
