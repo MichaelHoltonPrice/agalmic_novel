@@ -6,15 +6,7 @@ Elena stepped through the threshold and stopped.
 
 The caravanserai stretched before her—a courtyard of fired brick and carved stucco, the geometry unmistakably Central Asian. Silk banners hung from second-floor galleries in deep reds and golds. The air smelled of cumin and woodsmoke, and somewhere beyond the walls, she could hear the low complaint of camels.
 
-"Eighty-seven hours," Echo said quietly. "Kenji's systems built this from the original survey data. The structural math was already solved; they just needed to paint."
-
-Elena walked slowly toward the central fountain. The water was real—she could feel the mist on her face. The tiles beneath her feet were worn in the patterns of ten thousand travelers.
-
-"This is what we would have made," she said.
-
-"A draft. Kenji's note said to tell you: 'The buffalo ate the eastern wing. We never solved the herding patterns.'"
-
-She laughed, remembering. Thirty months of argument, and in the end they'd shelved the project because none of them could agree on whether Sogdian merchants would have tolerated the smell.
+A new message arrived from Kenji: "A draft. The buffalo ate the eastern wing." Elena laughed.
 
 The courtyard was filling. She recognized faces from conferences, from collaborations, from decades of professional friction. Raj was examining the tilework with a jeweler's loupe. Lena was arguing with someone about the placement of a brazier. Others milled in clusters, drinks in hand, voices low.
 
@@ -32,7 +24,7 @@ Elena felt Kenji materialize at her elbow.
 
 "You should." Kenji pressed a drink into her hand. "But maybe not yet. Let her settle. Let the room settle."
 
-So Elena circled. She admired Lena's argument about the brazier placement. She listened to someone she half-recognized explain why the fountain's water pressure was slightly wrong for the period. She watched Mira move through the crowd—always visible, never close, the two of them orbiting each other like binary stars that had forgotten how to touch.
+So Elena circled. She admired Lena's argument about the brazier placement. She listened to someone she half-recognized explain why the fountain's water pressure was slightly wrong for the period. She watched Mira move through the crowd—always visible, never close, the two of them orbiting each other like binary stars that could always dance, never touch.
 
 Every time Elena considered approaching, Mira was already in conversation. Every time Mira glanced her way, Elena was examining tilework or laughing at something Yusuf said. The avoidance was so precise it had to be mutual.
 
@@ -56,65 +48,83 @@ Mira's head turned sharply. "What?"
 
 Elena felt Mira's attention shift to her—really shift, for the first time all evening. "You went to the site?"
 
-"All morning." Elena kept her voice neutral, matching Mira's earlier tone. "Kenji showed me the potter. The young man with the scar."
+"All morning." Elena kept her voice neutral. "Kenji showed me the potter. The young man with the scar."
 
-"And?"
+Before Mira could respond, Lena's voice cut across the table from three seats down. "The site is exactly the problem, Mira. You know that."
 
-"And I stood in your world." Elena turned to meet Mira's eyes. "I understand what they're trying to take."
+Mira turned. Her expression didn't change, but Elena saw her shoulders tighten.
 
-The table noise seemed to recede. Around them, the others kept eating, kept talking, but Elena was aware only of the space between herself and Mira—the years of friendship, the weeks of silence, the weight of everything unsaid.
+"The death adders," Lena continued, her tone reasonable, almost gentle. "The unfiltered pathogens. The containment protocols that are one system failure away from catastrophe. It's beautiful work. No one's saying otherwise. But the proposal exists because of sites like yours."
 
-"Do you." Mira's voice was flat.
+"The proposal exists because someone decided my methodology was inconvenient."
 
-It wasn't a question. Elena heard what was underneath it: *Your philosophy is the template. Your name is all over this, even if they never wrote it down.*
+"The proposal exists because a visitors were injured and the network had to intervene." Lena set down her cup. "I'm not saying you're wrong to build what you build. I'm saying you could adapt. Accept the enhanced safety protocols. Keep your membership. Sanitize just enough to pass review."
 
-"I didn't ask for this," Elena said quietly. "And I don't want it."
+"Sanitize." Mira's voice was flat.
 
-"That's easy to say."
+"Compromise."
 
-"I know."
+"You want me to remove the death adders."
 
-Mira set down her bread. Her hands were steady, but something in her jaw was tight. "Lena thinks I should compromise. Accept the 'enhanced safety protocols' and keep my membership. Sanitize the site just enough to pass review."
+"I want you to still be part of this network in six months." Lena leaned forward. "Half this table thinks you should have seen this coming and built differently from the start. The other half—" she gestured at herself, at the seats around her, "—we think you can still save it. But not if you treat every accommodation as a betrayal."
 
-"Is that what you want?"
+The table had gone quiet. Elena saw Kenji watching from across the room, his expression unreadable. Yusuf was studying his plate.
 
-"It's what half this table thinks I should do." Mira's gesture took in the room. "The other half thinks I should have seen this coming and built differently from the start."
+Mira was silent for a long moment. When she spoke, her voice was controlled. "Is that what the rest of you think?"
 
-"And what do *you* think?"
+The question opened the floor. Elena watched the table shift—glances exchanged, postures adjusted.
 
-The question hung in the air. Around them, Elena noticed the conversations had grown quieter. Others were listening now—not obviously, but the table had turned in their direction.
+It was Raj who spoke next, his tone careful. "Lena's not wrong about the numbers, Mira. The smaller operators are voting yes because they want clarity. They're not trying to hurt you. They genuinely believe this makes the network better."
 
-"I think," Mira said slowly, "that I've spent three days waiting for you to tell me you support it."
+"Better for whom?"
 
-Elena felt the words land. "Mira—"
+"For everyone who doesn't want to explain to a grieving family why their loved one died in a reconstruction." Raj set down his cup. "I'm not saying you're careless. I'm saying the network has to think in aggregates. One death in your sanctuary becomes a question about every sanctuary."
 
-"Your philosophy. Your approach. Everything I do is the thing they're trying to eliminate, and everything you do is the thing they're trying to mandate." Mira's voice was low but steady. "I kept waiting for you to say it made sense. That the network needed to choose. That my way was just... too much."
+Lena nodded. "It's not personal. It's structural."
 
-"No."
+"Structural." Mira's voice was flat.
 
-"No?"
+Elena felt the weight of the moment. The table was waiting—not just for Mira's response, but for hers. *Your philosophy is the template.* The words she'd imagined Mira thinking all week. *Your name is all over this, even if they never wrote it down.*
 
-"No." Elena didn't look away. "I read Section 3.1. I saw what 'no permissive tier' means. I watched your AI potter make the same pattern over and over while her neighbor has a scar from something that actually happened." She took a breath. "I don't want my philosophy to be a weapon against yours. I never did."
+"I think," Elena said slowly, "that I almost stepped on a death adder yesterday. Yusuf had to grab me." She turned to meet Mira's eyes. "Best moment I've had in weeks."
 
-The table was silent now. Everyone was listening.
+Mira blinked.
 
-Mira studied her face. Elena let herself be studied—by Mira, by Kenji, by Yusuf, by the whole cohort watching this unfold. Whatever she said next would be on the record.
+"I stood in your world, Mira. I watched your AI potter make the same pattern over and over while the young man next to her had a scar from something that actually happened. I felt the heat, and the danger, and what it meant to be somewhere that wasn't smoothed for my comfort." Elena took a breath. "Section 3.1 says 'no permissive tier.' That means no scars. No real consequences. No death adders. It means your site doesn't exist."
 
-"Kenji told me you were with us," Mira said finally. "Yusuf said you understood. I wanted to believe them."
+"I know what it means."
 
-"You should have."
+"I know you do." Elena didn't look away. "What you don't know is that I don't want my philosophy to be a weapon against yours. I never did. I didn't ask for this. And I'm not going to sit here and tell you to sanitize your life's work so someone else's liability model looks cleaner."
 
-"I'm careful about what I believe."
+The silence stretched.
 
-"I know." Elena allowed herself a small smile. "That's why you're good at this."
+Raj shifted uncomfortably. Lena's expression was complicated—not hostile, but not convinced either.
+
+"It's not about liability models," Lena said quietly. "It's about what we owe visitors."
+
+"And what do we owe them?" Elena looked around the table. "Protection from every risk they've consented to? Comfort they didn't ask for?" She shook her head. "If Mira's approach gets defined out of existence, what's next? Yusuf's excavation ethics? Kenji's permissive navigation? How long before 'standardized wonder' means we're all building the same thing?"
+
+No one answered.
+
+Mira was watching her—really watching, for the first time all evening. Something in her expression had shifted. Not softened, exactly. But the woman counting exits had stopped counting.
+
+"Kenji told me you were with us," Mira said finally. "Yusuf said you understood."
+
+"They were right."
+
+"I wanted to believe them."
+
+"You should have." Elena allowed herself a small smile. "But I'm glad you made me say it out loud."
 
 A long moment. Then Mira exhaled—a sound Elena hadn't realized she'd been waiting for.
 
 "Alright," Mira said. "Alright."
 
-Kenji raised his cup. "Are we done with the portion of the evening where everyone suspects everyone else of betrayal? Because this lamb is historically accurate and also delicious."
+Lena was quiet, her expression complicated. Elena couldn't tell if she was hurt, or relieved, or simply recalibrating.
 
-Mira took one of the drinks. "You built this in eighty-seven hours."
+Kenji raised his cup from across the table. "Are we done with the portion of the evening where everyone suspects everyone else of betrayal? Because this lamb is historically accurate and also delicious."
+
+Mira took one of the drinks. "You built this in eighty-seven hours." It was a statement, not a question.
 
 "My systems built it. I gave aesthetic direction." Kenji gestured at the banners. "Those are wrong, by the way. The red should be more madder, less cochineal. But we were working fast."
 
@@ -134,97 +144,49 @@ Something in Mira's face relaxed. Not completely—Elena suspected that would ta
 
 "We built it for us." Kenji handed Elena the other drink. "All of us. Because we've spent thirty years arguing about methodology, and I thought we should remember that the arguments were never the point."
 
-Yusuf joined them, his expression characteristically grim. "The vote count is still climbing. Sixty-three percent support as of an hour ago."
+Yusuf's voice cut through the moment, characteristically grim. "The vote count is still climbing. Sixty-three percent support as of an hour ago."
 
 "How long until the threshold?" Elena asked.
 
-"Two days. Maybe less." Yusuf's voice was flat. "We're not going to stop the initial vote. The smaller operators see this as a quality-of-life improvement. Standardized wonder, reduced liability. They don't understand what they're giving up."
+"Six hours. Maybe less." Yusuf's voice was flat. "We're not going to stop the initial vote. The smaller operators see this as a quality-of-life improvement. Standardized wonder, reduced liability. They don't understand what they're giving up, or they don't care. And maybe they shouldn't."
 
 "Then we don't fight the initial vote," Elena said.
 
 Mira looked at her sharply. "What?"
 
-"We bypass it. We concede the legislative phase and pivot to the vetoes." Elena had been thinking about this since the death adder. Since the scar. "Yusuf, you said there's a rollback motion option?"
+"We bypass it. We concede the legislative phase and pivot to the vetoes." Elena had been thinking about this during the ride over. "Yusuf, you said there's a rollback motion option?"
 
-"Technically." Yusuf shook his head. "But the same operators who vote yes will vote against rollback. The numbers don't change."
+"Technically." Yusuf shook his head. "But the same operators who vote yes will vote against rollback. Probably."
 
-"Then we skip it. We go straight to the vetoes." Elena looked at each of them in turn. "Guardian Triad. User Veto. Institutional influence."
+"So what do you propose?" Lena's voice was sharp. "Fight the vetoes? Spend six months on a Guardian Appeal that goes nowhere?"
 
-"Divide and conquer," Kenji said.
+"I'm proposing we don't surrender before the fight starts."
 
-"Divide and coordinate." Elena turned to Mira. "The Guardian Appeal is your strongest ground. You can make the case for pluralism better than any of us."
+"No one's surrendering." Raj looked up from his plate. "But Elena, you're talking about overriding a supermajority of operators. The smaller sanctuaries want this. They see it as a quality-of-life improvement. Are we really going to tell them they're wrong?"
 
-"And if they say no?"
+"They're not wrong about what they want," Kenji said quietly. "They're wrong about what it costs."
 
-"Then we escalate." Elena paused. "But I don't think they will. The Contemporary Trust guardian is sensitive to paternalism. The Legacy guardian remembers how temporary measures become permanent. If we frame this right—"
+"That's paternalistic."
 
-"If we frame this right, we're still asking them to override a supermajority of operators," Yusuf said. "That's politically expensive."
+"It's honest."
 
-"Which is why we need the User Veto as backup." Elena looked at Kenji. "Your systems. Your reach. Can you help me build a campaign?"
+The argument fractured into smaller debates. Elena heard Henrik—three seats down, a voice she'd known for twenty years—say something about "liability exposure" and "responsible stewardship." Chen was nodding along. Raj was trying to find middle ground that didn't exist.
 
-Kenji's expression shifted—the joviality dropping away to reveal something sharper underneath. "I've been modeling the attention problem. Most users don't care about governance. They care about their next experience. We need something that cuts through."
+Mira had gone quiet, watching the table splinter.
 
-"What?"
+Elena caught Kenji's eye. He gave a small nod toward the colonnade—*later.*
 
-"I don't know yet." Kenji's eyes were distant, already calculating. "But I'll find it."
+The evening wound down in fragments. The lamb grew cold. The arguments circled without resolving. One by one, guests made their excuses—early mornings, pending deadlines, the polite fictions that let people leave uncomfortable rooms.
 
-"And institutional influence?" Mira asked.
+By the time the courtyard was half-empty, Elena knew two things: the cohort was not united, and the people who mattered were.
 
-"That's me." Elena felt the weight of it settle onto her shoulders. "I have connections in the Operating Company. People who respect what we've built. I can try to get the Executive to pause, to reconsider—"
+Kenji found her by the fountain. "Tomorrow morning. Mira's receiving room. Anyone who wants to talk next steps."
 
-"The Executive wrote the manifesto," Yusuf said. "He believes in this."
+"How many is that?"
 
-"I know." Elena remembered the clinical language of Section 3.1. "But he also believes in process. If we can show him the process was captured—the compressed timeline, the consent friction adjustments—he might listen."
+"Hard to say." Kenji's expression was unreadable. "But more than I expected. I think people are finally ready to plan instead of argue."
 
-"Or he might dismiss us as academics clinging to privilege."
+Elena looked back at the caravanserai—the silk banners, the tilework, the draft of something they'd never finished. Tomorrow they would start something new.
 
-"He might." Elena met Yusuf's eyes. "But we have to try."
-
-The courtyard was quieter now. The other guests had drifted into their own conversations, their own debates. Elena could see Raj still arguing about the brazier placement, could hear Lena's voice rising in defense of some methodological point.
-
-"There's something else," Mira said quietly. "Henrik. And possibly Chen."
-
-"What about them?"
-
-Mira's expression was carefully neutral. "They support the proposal. Genuinely. Henrik thinks permissive-tier experiences are irresponsible—he's been saying so for years. Chen believes standardization will legitimize the discipline, make it easier to defend against critics."
-
-"They're wrong," Elena said.
-
-"They're sincere." Mira's voice was flat. "They're our colleagues, and they want the proposal to pass."
-
-The silence stretched. Somewhere beyond the walls, a camel made a sound of complaint.
-
-"Then we convince them," Elena said finally. "Or we work around them. But we don't let their sincerity stop us from fighting for what's right."
-
-Yusuf raised his cup. "To the death adders."
-
-Kenji raised his. "To the buffalo we never herded."
-
-Elena raised hers. "To thirty years of arguments."
-
-Mira hesitated. Then she lifted her cup to meet theirs. "To finishing what we started."
-
-They drank. The courtyard glowed in the evening light, silk banners moving in a breeze that Kenji's systems had calibrated for authenticity. Somewhere in the distance, the camels settled into silence.
-
-Elena looked at her friends—her colleagues, her rivals, her cohort. They had spent three decades needling each other about methodology, about philosophy, about whether the computer could ever replace the trowel. They had argued about everything.
-
-And now, finally, they were on the same page.
-
-"So," Kenji said, breaking the silence. "Who wants to hear about the herding patterns I made up?"
-
-"They're terrible," Raj called from across the courtyard. "Completely ahistorical."
-
-"That's the point." Kenji grinned. "It's a draft. We're allowed to be wrong."
-
-Mira shook her head, but she was almost smiling. "You're impossible."
-
-"I'm consistent." Kenji spread his hands. "I've been impossible for thirty years. You should be used to it by now."
-
-Elena watched them settle into the old rhythms—the needling, the affection, the professional friction that had somehow become the foundation of everything they'd built together. The proposal was still climbing toward passage. The fight was just beginning.
-
-But for the first time since the notification arrived, she felt something like hope.
-
-Not certainty. Never certainty. But hope.
-
-It would have to be enough.
+She hoped they would finish it.
 

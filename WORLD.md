@@ -224,6 +224,12 @@ When a network wants to standardize practices, it does so through formal proposa
 
 The structural risk: **tempo can become a weapon**. A compressed timeline—45 days instead of 180—can push a proposal through before slow dissent can organize. Every rule may be followed while the outcome is effectively predetermined.
 
+#### Vote Mechanics
+Operator votes on governance proposals are not instantaneous—they accumulate over the review period. Individual sanctuaries can change their vote at any time until the **resolution window closes**, at which point all votes become fixed and the final tally is computed. In practice, once a proposal crosses the supermajority threshold, momentum becomes self-reinforcing; late-stage vote changes are rare. The period between "effective passage" (when the threshold is crossed) and "formal passage" (when the window closes) is often psychologically decisive—opponents must pivot from blocking the vote to pursuing veto options.
+
+#### User Veto Eligibility
+For User Veto purposes, an "active end-user" is defined as someone who has made at least two physical sanctuary visits within the past standard year. This threshold ensures voting weight reflects genuine engagement rather than passive registration. Virtual-only or AR-mediated experiences don't count toward eligibility—the requirement is embodied presence in a physical sanctuary.
+
 #### The Binding Vote (legitimacy ritual)
 When a proposed standard would significantly constrain network membership or exclude existing approaches, some charters require a high-friction decision: a binding vote with audit and reversal provisions. The novel's primary network uses a small Guardian voting panel (a "triad") that includes an AI seat constrained toward auditability and reversibility.
 

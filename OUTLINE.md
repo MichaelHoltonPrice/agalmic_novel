@@ -106,36 +106,41 @@ The contrast is immediate and visceral. As they walk through the site, they can 
 
 The needling continues—but with an edge now. As they see the permissive-tier risks (venomous reef-life, genuine physical danger), the stakes become tangible. They recall the Silk Road collaboration: thirty months of argument because their philosophies were different, but the discipline was big enough for all of them. Under the new proposal, this entire site would be "sanitized" out of existence. The vote count is climbing.
 
-### Chapter 10 (Elena/Group): The Gathering (Midpoint Shift)
-The dinner party. Kenji and Yusuf have arranged the setting: a caravanserai built by Kenji's AI systems in eighty-seven hours from the old Silk Road survey data—a draft of the collaboration they never finished. ("The buffalo ate the eastern wing. We never solved the herding patterns.")
+### Chapter 10 (Elena/Group): The Gathering
+The dinner party. Kenji and Yusuf have arranged the setting: a caravanserai built by Kenji's AI systems in eighty-seven hours from the old Silk Road survey data—a draft of the collaboration they never finished. ("The buffalo ate the eastern wing.")
 
-Mira finally appears—defensive, exhausted, braced for a fight. She's been waiting three days for Elena to say she supports the proposal; Elena's philosophy is the template, after all. The tension is palpable until Elena makes clear she understands what's at stake: Section 3.1, the scar, the death adders. She doesn't want her philosophy weaponized against Mira's.
+Mira finally appears—defensive, exhausted, braced for a fight. She's been waiting three days for Elena to say she supports the proposal. The core four orbit each other until dinner forces them together. Lena argues with Mira about compromise ("sanitize just enough to pass review"); Mira turns and asks Elena directly what she thinks. Elena declares herself publicly: she doesn't want her philosophy weaponized against Mira's.
 
-The core four realize they were always aligned. Henrik and Chen support the proposal (sincere opposition), but the cohort's heart is unified. They choose to bypass the initial vote—the 2/3 sanctuary threshold is going to pass—and pivot to the veto options: Mira takes the Guardian Appeal, Elena and Kenji take the User Veto campaign, Elena attempts institutional influence with the Executive. They toast: to death adders, to unfinished buffalo, to thirty years of arguments. Professional bickering becomes **Common Purpose**. They are optimistic; their prestige feels like armor.
+The table fractures into smaller debates. Henrik and Chen support the proposal (sincere opposition). The arguments circle without resolving. The evening ends with the cohort not united—but the core four knowing they need to talk. Kenji arranges a morning meeting.
+
+### Chapter 11 (Elena/Group): The Plan (Midpoint Shift)
+The next morning. Mira's receiving room—sparse, functional, no reconstruction. Nine people gather: the core four (Elena, Mira, Kenji, Yusuf), plus Raj, two other colleagues, and—surprisingly—Lena, who "isn't sure she's opposed, but wants to understand what opposing looks like."
+
+The proposal passed overnight—seventy-one percent. Technically, sanctuaries can still change their votes until the resolution window closes, but the legislative phase is effectively over. They pivot to the veto options: Mira takes the Guardian Appeal, Elena and Kenji take the User Veto campaign, Elena attempts institutional influence with the Executive. They toast (miming the gesture): to death adders, to unfinished buffalo, to thirty years of arguments. Professional bickering becomes **Common Purpose**. They are optimistic; their prestige feels like armor.
 
 ---
 
 ## PART II — THE FAILURE OF PRESTIGE
 
-### Chapter 11 (Executive): The Reckoning
+### Chapter 12 (Executive): The Reckoning
 The Executive monitors the rollout. He is prepared for the "Founders' Response," reframing their expertise as "academic pedantry" to the thousands of newer operators who want the safety of the standard.
 
-### Chapter 12 (Solène): The Critique
+### Chapter 13 (Solène): The Critique
 Solène writes her viral critique. She realizes "viral" in an abundance economy is just noise; she needs a 2/3 User Veto.
 
-### Chapter 13 (Yusuf): The Operators' Wall
+### Chapter 14 (Yusuf): The Operators' Wall
 The 2/3 sanctuary vote concludes and the proposal passes the legislative phase. Yusuf confirms the "Operators' Wall" is insurmountable; his analysis of the voting telemetry shows that even a follow-on "Rollback Motion" would be dead on arrival. The smaller operators see the proposal as a "Quality Update" that makes their lives easier. Yusuf's appeals to methodological purity are dismissed by the network as "elite pedantry," leaving him to report back that the legislative path is officially closed.
 
-### Chapter 14 (Mira): The Guardian Appeal
+### Chapter 15 (Mira): The Guardian Appeal
 Mira presents the case for Pluralism to the Triad. The Executive counters with decades of safety data. The Guardians see no "rational" reason to block the improvement, but suggest that this is why there exists a player veto.
 
-### Chapter 15 (Elena/Kenji): The Attention Gap
+### Chapter 16 (Elena/Kenji): The Attention Gap
 Elena and Kenji attempt to trigger the 2/3 User Veto, trying to channel the energy of Solène's viral movement into a formal procedural mechanism. They fail because of the **Attention Economy.** While Solène's independent efforts keep the topic in the public eye, most visitors remain comfortable and indifferent to "policy." The 2/3 threshold feels impossible to reach.
 
-### Chapter 16 (Elena): The Low Point
+### Chapter 17 (Elena): The Low Point
 The group realizes their prestige is their cage. In a world of abundance, "being right" isn't enough to cut through the indifference.
 
-### Chapter 17 (Elena): The Decision
+### Chapter 18 (Elena): The Decision
 The group gathers again. They debate options. They decide on the **Costly Signal**. They will burn their status to prove their honesty, and gain attention.
 
 ---
