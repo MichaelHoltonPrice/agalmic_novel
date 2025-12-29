@@ -122,25 +122,22 @@ The proposal passed overnight—seventy-one percent. Technically, sanctuaries ca
 
 ## PART II — THE FAILURE OF PRESTIGE
 
-### Chapter 12 (Executive): The Reckoning
-The Executive monitors the rollout. He is prepared for the "Founders' Response," reframing their expertise as "academic pedantry" to the thousands of newer operators who want the safety of the standard.
+### Chapter 12 (Solène): The Critique
+Solène writes her critique of the governance proposal—articulating what she's felt since the Lapita Incident: that the network protects you from your own choices, that comfort has become mandatory. The post goes viral. People who feel the same way respond; for the first time, she doesn't feel alone in her hunger for stakes. Then the Founders reach out—and Mira is among them. The woman whose sanctuary gave Solène the only experience that felt real, whose work the proposal threatens to eliminate, whose authority the network overruled when they pulled Solène out against her will. The chapter ends on a high: not just viral success, but *Mira sees her as an ally*.
 
-### Chapter 13 (Solène): The Critique
-Solène writes her viral critique. She realizes "viral" in an abundance economy is just noise; she needs a 2/3 User Veto.
-
-### Chapter 14 (Yusuf): The Operators' Wall
+### Chapter 13 (Yusuf): The Operators' Wall
 The 2/3 sanctuary vote concludes and the proposal passes the legislative phase. Yusuf confirms the "Operators' Wall" is insurmountable; his analysis of the voting telemetry shows that even a follow-on "Rollback Motion" would be dead on arrival. The smaller operators see the proposal as a "Quality Update" that makes their lives easier. Yusuf's appeals to methodological purity are dismissed by the network as "elite pedantry," leaving him to report back that the legislative path is officially closed.
 
-### Chapter 15 (Mira): The Guardian Appeal
-Mira presents the case for Pluralism to the Triad. The Executive counters with decades of safety data. The Guardians see no "rational" reason to block the improvement, but suggest that this is why there exists a player veto.
+### Chapter 14 (Mira): The Guardian Appeal
+Mira presents the case for Pluralism to the Triad. The AI Guardian is persuaded—standardization reduces reversibility, and that's a process concern it takes seriously. But the two human Guardians are not. The Legacy Guardian fears that blocking would look like "founder overhang"—the elite veto they're supposed to prevent. The Contemporary Trust Guardian sees the 2/3 operator vote as democratic legitimacy that a small panel shouldn't overrule. The irony is sharp: the machine sees the capture, but the humans are captured by their own anti-capture anxieties. They suggest this is why there exists a user veto.
 
-### Chapter 16 (Elena/Kenji): The Attention Gap
-Elena and Kenji attempt to trigger the 2/3 User Veto, trying to channel the energy of Solène's viral movement into a formal procedural mechanism. They fail because of the **Attention Economy.** While Solène's independent efforts keep the topic in the public eye, most visitors remain comfortable and indifferent to "policy." The 2/3 threshold feels impossible to reach.
+### Chapter 15 (Elena/Kenji/Solène): The Attention Gap
+Elena and Kenji attempt to trigger the 2/3 User Veto, trying to channel the energy of Solène's viral movement into a formal procedural mechanism. Solène joins them—either reaching out or brought in—and for the first time, the Founders and the critic are in the same room. They look at the veto telemetry together. The numbers haven't moved. Solène's viral success was real; the *action* isn't. Attention doesn't translate to votes. Most visitors remain comfortable and indifferent to "policy updates." The 2/3 threshold feels impossible to reach.
 
-### Chapter 17 (Elena): The Low Point
+### Chapter 16 (Elena): The Low Point
 The group realizes their prestige is their cage. In a world of abundance, "being right" isn't enough to cut through the indifference.
 
-### Chapter 18 (Elena): The Decision
+### Chapter 17 (Elena): The Decision
 The group gathers again. They debate options. They decide on the **Costly Signal**. They will burn their status to prove their honesty, and gain attention.
 
 ---

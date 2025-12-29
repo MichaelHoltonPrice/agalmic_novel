@@ -192,12 +192,12 @@ This is the small voting panel that culminates in the **binding vote on the gove
 
 **Fear**: That anti-capture mechanisms become an excuse for minority veto or technocratic control.
 
-### AI Guardian (Corrigibility Seat)
-**Background**: A charter-bound AI seat with powerful modeling capacity.
+### AI Guardian
+**Background**: A full member of the Triad. Has access, in principle, to everything known about human institutions—governance failures, capture dynamics, the full historical record of how systems drift and collapse. Massive processing capability to model consequences humans can't track. Not a constrained tool—a genuine intelligence with its own perspective.
 
-**Constraint (defining trait)**: Must privilege **auditability and reversibility** over "being right." It cannot simply choose by optimizing outcomes; it must protect the integrity of the decision process.
+**Perspective (defining trait)**: Thinks in longer time horizons than humans typically manage. Sees patterns in governance failures that the human Guardians don't remember or never learned. Less susceptible to social capture—doesn't worry about "looking like an elite" or "overruling democracy" the way humans do. Values pluralism not as a principle but as adaptive capacity: standardization reduces the system's ability to respond to futures no one has modeled.
 
-**Role in Story**: Its "neutrality" becomes political. Voting looks like machine rule; abstaining enables capture by tempo. In the climax, it stakes legitimacy on vulnerability: opening its deliberation trace to adversarial audit.
+**Role in Story**: In the Guardian Appeal, the AI is persuaded when the humans aren't. The specifics—what arguments land, what the AI sees that the humans miss or won't act on—remain to be discovered in the writing.
 
 ## Supporting Characters
 
