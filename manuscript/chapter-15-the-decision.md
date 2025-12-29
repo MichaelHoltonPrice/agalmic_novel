@@ -110,13 +110,13 @@ Kenji blinked. "Costly signaling."
 
 "Biology: peacock tails. The tail is expensive to grow and makes the bird easier for predators to catch. That's the point—only a genuinely healthy peacock can afford the handicap. The tail *proves* the fitness precisely because it's a burden."
 
-"Anthropology: ritual sacrifice, pilgrimage, initiation ordeals. The harder the ritual, the more it proves commitment to the group. You can't fake a pilgrimage. You either made the journey or you didn't."
+"Anthropology: tattoo on your forehead, pilgrimage, initiation ordeals. The harder the act, the more it proves commitment to the group. You can't fake a tattoo on your forehead. You either have it or you don't."
 
 Kenji stared at him. The shape he'd been reaching for was suddenly clear.
 
 "So when my swarm said 'the cost is the hook'—"
 
-"They were describing costly signaling. They gave you the mechanism. They just didn't give you the framework." Jordan looked at Elena, then back at Kenji. "The question for your group is: what's your pilgrimage? What can you sacrifice that proves you mean it—proves it so clearly that even people who aren't paying attention will notice?"
+"They were describing costly signaling. They gave you the mechanism. They just didn't give you the framework." Jordan looked at Elena, then back at Kenji. "The question for your group is: what's your tattoo? What can you sacrifice that proves you mean it—proves it so clearly that even people who wouldn't normally pay attention would notice?"
 
 *What's your peacock tail?*
 
