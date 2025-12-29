@@ -144,11 +144,11 @@ The question hung there. It was the right question.
 
 "Money doesn't work," Kenji said. "Everyone has material abundance. You can't signal commitment by spending credits—there's nothing heroic about buying things."
 
-"Time has some cost," Elena said slowly. "We already used that. Mira and Yusuf traveled to the Guardians in person instead of appearing remotely. That was a signal."
+"Time has some cost," Elena said slowly. "But we already used that. Mira and Yusuf traveled to the Guardians in person instead of appearing remotely. That was a signal."
 
 "And it wasn't enough," Yusuf said. "Four days of transit. The Guardians noted it, I think. But it didn't change the outcome."
 
-"Because time is recoverable," Jordan said from his corner. "You spent four days, but you got them back on the other side. The cost was real but temporary. For a signal to cut through the noise you're describing, it needs to be... permanent. Irrecoverable."
+"Because time is recoverable," Jordan said from his corner. "You spent four days, but you got them back on the other side. The cost was real but temporary. For a signal to cut through the noise you're describing, it needs to be... permanent. Irrecoverable. Non-fungible."
 
 "Our reputations?" Elena offered. "But reputation is diffuse. Hard to sacrifice visibly. And in a world where everyone can rebuild, even a damaged reputation doesn't feel permanent."
 
@@ -172,7 +172,7 @@ Everyone looked at her.
 
 "I'm talking about committing it. Irrevocably. To a public trust that funds universal basic services." She paused. "Not triggered by losing—triggered by *finality*. The moment the proposal process ends, whether we win or lose, the transfer happens. We can't take it back. We can't hedge."
 
-"That's everything," Yusuf said quietly. "That's our economic foundation. Our competitive advantage. Our legacy."
+"That's everything," Yusuf said quietly. "That's our legacy."
 
 "I know." Mira met his eyes. "That's why it might work. A signal that costs nothing proves nothing. A signal that costs everything proves everything."
 
@@ -186,7 +186,7 @@ Elena felt something shift in her chest. Her father's words echoed: *The cost ma
 
 "Yes."
 
-Jordan spoke for the first time. "Will it be enough? Will people notice?"
+Jordan spoke up. "Will it be enough? Will people notice?"
 
 "I don't know." Mira looked around the room. "But I know that everything else hasn't worked. And I know that in eight days, the resolution window closes. After that, our sanctuaries become non-compliant. We either conform or we're out of the network."
 
@@ -197,16 +197,3 @@ She stood.
 One by one, they looked at each other.
 
 One by one, they nodded.
-
----
-
-That night, Kenji's swarm ran the projections.
-
-If the announcement reached 40% of eligible users... if the conversion rate matched the 83% of engaged voters... if the timing held...
-
-The numbers were tight. But they weren't impossible.
-
-For the first time in days, something other than despair stirred in the room.
-
-They were about to bet everything they'd built on a theory about peacock tails.
-
