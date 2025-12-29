@@ -8,7 +8,7 @@ They gathered early. Elena counted nine: herself, Mira, Kenji, Yusuf, Raj, two c
 
 The formality of the dinner was gone. So was some of the defensive tension. What remained was a room full of people who had spent decades arguing about methodology, trying to find common ground on something larger.
 
-The proposal had passed overnight—seventy-one percent of sanctuary operators in favor. Technically, individual sanctuaries could still change their votes until the resolution window closed, but no one in the room expected that to happen. The legislative phase was effectively over.
+The vote count had crossed the two-thirds threshold overnight—seventy-one percent of sanctuaries now in favor of NG-2047-31. Technically, individual sanctuaries could still change their votes until the resolution window closed, but no one in the room expected that to happen. The proposal would pass. The only question now was whether it could be vetoed.
 
 Kenji had arranged for one of his AI systems to facilitate. It manifested as a soft geometric pattern hovering above the table's center—visible through cortics or glasses, invisible to the unaugmented eye. "I can summarize your options if that would be helpful," it said.
 
@@ -33,6 +33,8 @@ The pattern dimmed slightly, awaiting further questions. But the room had alread
 "Exactly."
 
 "I'll take the Guardian Appeal," Mira said. Her voice was calm, almost clinical. "I can make the case for pluralism. It's my site they're trying to define out of existence."
+
+"I'll work it with you," Yusuf said. "Two founders carry more weight than one. And if we're arguing about the deep history of the network, we need someone who still digs in the dirt."
 
 "And if they say no?" one of the unnamed colleagues asked.
 

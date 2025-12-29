@@ -230,12 +230,16 @@ Operator votes on governance proposals are not instantaneous—they accumulate o
 #### User Veto Eligibility
 For User Veto purposes, an "active end-user" is defined as someone who has made at least two physical sanctuary visits within the past standard year. This threshold ensures voting weight reflects genuine engagement rather than passive registration. Virtual-only or AR-mediated experiences don't count toward eligibility—the requirement is embodied presence in a physical sanctuary.
 
-#### The Binding Vote (legitimacy ritual)
-When a proposed standard would significantly constrain network membership or exclude existing approaches, some charters require a high-friction decision: a binding vote with audit and reversal provisions. The novel's primary network uses a small Guardian voting panel (a "triad") that includes an AI seat constrained toward auditability and reversibility.
+#### The Guardian Triad (oversight body)
+When proposals pass the operator vote, they proceed to the Guardian Triad—a three-seat oversight body (Legacy, Contemporary Trust, AI) with authority to veto. The Guardians have **blanket veto power**: they are not limited to specific grounds such as charter violations. However, they must **publicly justify any veto with principled reasoning**. Their legitimacy derives not from formal constraints but from the quality of their arguments. A veto that appears arbitrary, self-interested, or captured would damage the Triad's standing even if technically valid.
+
+This structure creates a deliberate tension. The Guardians *can* block almost anything, but they must explain why—and their explanation becomes part of the network's institutional memory, subject to critique by the community. The result is a body with broad power but strong incentives toward reasoned restraint.
 
 #### Institutional Loci
 
-**The Axis**: A large multi-use station in Earth orbit serving as the Operating Company's headquarters and administrative hub. While the Operating Company's physical infrastructure is centered here, all governance actions—including the binding vote—are cryptographically distributed across the solar system's network nodes. Institutional scenes (Executive's meetings, Guardian Triad deliberations) are often associated with the Axis, though it remains ambiguous whether participants are physically present or joined via high-fidelity virtual presence. 
+**The Axis**: A large station in Earth orbit serving as the Operating Company's headquarters and administrative hub. This is the Executive's domain—the infrastructure for day-to-day network operations, policy implementation, and institutional coordination.
+
+**The Triad Chamber**: The Guardian Triad maintains its own separate infrastructure, deliberately independent from the Operating Company. Their primary deliberation space is a smaller station in a different orbital position, emphasizing their role as an oversight body rather than an arm of network administration. The Guardians' physical and cyber infrastructure is less extensive than the Operating Company's, but sufficient for their purpose: providing an independent check on institutional power.
 
 In an agalmic society, physical proximity is a choice, not a requirement for coordination. Most institutional coordination occurs through distributed narrative and digital convergence rather than physical gathering.
 
