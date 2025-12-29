@@ -70,7 +70,7 @@ The older man turned, and his weathered face broke into a smile. "Kenji. It's be
 
 "Visiting my daughter." Jordan rose, extending a hand. "She sounded like she needed someone who thinks about systems."
 
-Kenji shook his hand warmly, still processing. Jordan Smith, Elena's father—127 years old, systems theorist, lived on Mercury. They'd met several times over the decades, traded ideas about institutional dynamics, shared a memorable argument about entropy and meaning at a conference that no longer existed.
+Kenji shook his hand warmly, still processing. Jordan Smith, Elena's father—seventy-five years old, looked about sixty, systems theorist, lived on Mercury. They'd met several times over the years, traded ideas about institutional dynamics, shared a memorable argument about entropy and meaning at a conference that no longer existed.
 
 "I didn't know you were coming," Kenji said.
 
