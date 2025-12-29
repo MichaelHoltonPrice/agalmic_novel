@@ -132,13 +132,10 @@ The answer is obvious: yes. Making the effort has meaning. In a world where remo
 
 Together, they present the case for Pluralism. The AI Guardian is persuaded—standardization reduces reversibility, and that's a concern it takes seriously. But the two human Guardians are not. The Legacy Guardian fears that blocking would look like "founder overhang"—the elite veto they're supposed to prevent. The Contemporary Trust Guardian sees the 2/3 operator vote as democratic legitimacy that a small panel shouldn't overrule. The irony is sharp: the machine sees the capture, but the humans are captured by their own anti-capture anxieties. They suggest this is why there exists a user veto.
 
-### Chapter 14 (Elena/Kenji/Solène): The Attention Gap
-Elena and Kenji attempt to trigger the 2/3 User Veto, trying to channel the energy of Solène's viral movement into a formal procedural mechanism. Solène joins them—either reaching out or brought in—and for the first time, the Founders and the critic are in the same room. They look at the veto telemetry together. The numbers haven't moved. Solène's viral success was real; the *action* isn't. Attention doesn't translate to votes. Most visitors remain comfortable and indifferent to "policy updates." The 2/3 threshold feels impossible to reach.
+### Chapter 14 (Ensemble): The Low Point
+The ensemble reconvenes—Mira and Yusuf joining by call from transit, Elena and Kenji reporting from their User Veto efforts, Solène now part of the group. All failures stack at once: the Guardian appeal denied (2-1, AI dissenting), and the User Veto numbers haven't moved despite Solène's viral success. Attention isn't translating to votes. Most users remain comfortable and indifferent to "policy updates." The 2/3 threshold feels impossible. Every institutional path has failed. The chapter ends in genuine crisis—they've tried everything their prestige should have enabled, and none of it worked.
 
-### Chapter 15 (Elena): The Low Point
-The group realizes their prestige is their cage. In a world of abundance, "being right" isn't enough to cut through the indifference.
-
-### Chapter 16 (Elena): The Decision
+### Chapter 15 (Elena): The Decision
 The group gathers again. They debate options. They decide on the **Costly Signal**. They will burn their status to prove their honesty, and gain attention.
 
 ---
