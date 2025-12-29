@@ -176,7 +176,7 @@ The system locks: the User Veto has been reached. The proposal is blocked. The r
 ### Chapter 18: The New Project
 The morning after. The group gathers—their sanctuaries now operated by the trust, their IP in the public domain. The proprietary advantage they once held is gone. But they're still boundary archaeologists. They still have work to do.
 
-Someone mentions the Silk Road. The collaboration they started thirty years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. Kenji's AIs still have all the survey data. The caravanserai he built for the dinner party was just a draft.
+Mira reveals what she was working on during the long night of watching the signal propagate: a proposal to revive the Silk Road collaboration. The project they started thirty years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. Kenji's AIs still have all the survey data. The caravanserai he built for the dinner party was just a draft. While the others watched the numbers climb, Mira was already thinking about what comes next.
 
 They agree to pick it up. Not as proprietors this time, but as craftspeople working on behalf of the trust. The revenue will help fund universal basic services. The work itself will be the same as it always was: arguing about method, needling each other about fidelity versus essence, building something that helps people understand what it meant to be human before abundance.
 
