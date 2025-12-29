@@ -142,7 +142,7 @@ Inside, the three Guardians faced each other across the curved table.
 
 "Even so," the Legacy Guardian said, "the operators voted for the proposal as written. We can't assume they were confused."
 
-"We can note the ambiguity. The framing shaped the outcome. If the proposal had been presented more clearly as 'Essentialism over Realism' rather without being muddied by 'safety standards,' the vote might have been different."
+"We can note the ambiguity. The framing shaped the outcome. If the proposal had been presented more clearly as 'Essentialism over Realism' rather than being muddied by 'safety standards,' the vote might have been different."
 
 The Trust Guardian shook her head. "Might. We don't know. And we can't block a supermajority vote on the basis of speculation about what operators *would* have done under different framing."
 
@@ -184,7 +184,7 @@ The Legacy Guardian stepped forward. "Mira, Yusuf. The Triad's decision is not t
 
 The doors to the chamber slid shut behind them.
 
-"Two to one, huh." Yusuf felt sad, yes, but also bemused. "We got the AI on our side. I didn't expect that."
+"Two to one." Yusuf felt sad, yes, but also bemused. "We got the AI on our side. I didn't expect that."
 
 Mira started toward the transit docks. "The Guardians made a principled choice. I don't agree with it, but I understand it. They're weighing operator voice and demonstrated harm. We're weighing systemic resilience and founding principles. Different weights, same values."
 
