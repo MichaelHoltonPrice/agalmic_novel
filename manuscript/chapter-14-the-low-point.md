@@ -4,7 +4,7 @@
 
 ---
 
-The call connected across four locations: Mira and Yusuf in transit, their faces lit by the pale glow of their pod's display; Elena at the Axis, where she'd been trying to arrange a meeting with the Executive; Kenji at his Silk Road caravanserai, surrounded by half-finished AI drafts; and Solène at Wanderer's Rest, the hostel cluster near L5 where she'd been staying since her essay went viral.
+The call connected across four locations: Mira and Yusuf in transit, their faces lit by the pale glow of their pod's display; Elena at Lapita Horizons, where she'd come after the Executive meeting; Kenji at his Silk Road caravanserai, surrounded by half-finished AI drafts; and Solène at Wanderer's Rest, the hostel cluster near L5 where she'd been staying since her essay went viral.
 
 It was the first time all of them had been in the same conversation.
 
@@ -56,11 +56,19 @@ Solène felt something cold settle in her chest. She'd thought the viral moment 
 
 No one contradicted her at first, but then Kenji said, "Well, but we have to consider the counterfactual. If you hadn't written the essay, we'd be even worse off!"
 
-Mira's face on the display was still, unreadable. "Elena, what about the Executive? Any progress there?"
+Mira's face on the display was still, unreadable. "Elena, what about the Executive?"
 
-"I finally got a meeting scheduled. Tomorrow." Elena didn't sound hopeful. "But I've traced the origins of the proposal. It's not definite, but I think he helped authoer it. He's not going to block what's probably his own proposal. The best I can hope for is that he understands why we're opposing it. Maybe that plants a seed for the future. But it won't change what's happening now."
+Elena's expression tightened. "I met with him yesterday. It didn't go well."
 
-"So let me make sure I understand." Yusuf leaned forward, his voice taking on the careful, methodical tone he used when teaching students about excavation grids. "The operator vote passed with seventy-one percent. The Guardian Triad declined to veto, two to one. The User Veto is at eleven percent with no upward momentum. And the Executive—whatever their involvement in crafting the proposal—isn't going to undercut a process that's followed every rule."
+"What happened?"
+
+"He was... polite. Sincere. He listened to everything I said. He understood my concerns about the proposal being used to exclude rather than include." She paused. "And then he explained, very calmly, that the proposal followed every rule. That the operators had spoken. That his role was to steward the process, not to override it based on the objections of a minority—even a minority he respected."
+
+"He's not going to help," Yusuf said.
+
+"No. He believes in the proposal. Not because he's captured, but because he genuinely thinks standardization will protect people. He's wrong, but he's sincere." Elena shook her head. "I planted a seed, maybe. But it won't grow in time."
+
+"So let me make sure I understand." Yusuf leaned forward, his voice taking on the careful, methodical tone he used when teaching students about excavation grids. "The operator vote passed with seventy-one percent. The Guardian Triad declined to veto, two to one. The User Veto is at eleven percent with no upward momentum. And the Executive believes in the proposal and won't undercut a process that followed every rule."
 
 "That's correct," Elena said.
 
@@ -103,5 +111,4 @@ Eleven percent.
 She'd thought being seen was victory. She'd thought the viral moment meant something. She'd thought attention was power.
 
 But attention without action was just noise. And noise, even in an agalmic world, was the cheapest thing there was.
-
 
