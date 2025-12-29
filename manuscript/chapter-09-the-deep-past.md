@@ -56,9 +56,9 @@ They descended the ridge, their feet sinking into dark, anaerobic muck. From dee
 
 Kenji shrugged, suddenly interested in the village below. "I was pretentious."
 
-"You named what we do," Elena said. "We sit at the boundary between the past and future. We're boundary archaeologists." She paused. "And now they're trying to standardize it."
+"You named what we do," Elena said. "We sit at the boundary between the past and future. We're boundary archaeologists." She paused, swatting at a fly. "And now they're trying to standardize it."
 
-"And now they're trying to standardize it." Yusuf's voice was flat. "Have you actually read the proposal, Elena? The full text?"
+Yusuf's voice was flat. "Have you actually read the proposal? The full text?"
 
 "I've read the summary."
 
@@ -80,41 +80,39 @@ The words came out harder than she'd intended. Kenji and Yusuf both looked at he
 
 They walked in silence for a moment, the muck sucking at their feet. Elena thought about the manifesto, about seeing her own words reflected back at her in institutional language. It had felt wrong from the start—her choices hardened into requirements, her preferences turned into exclusions. A trap wearing her face.
 
-"I keep thinking about the Silk Road project," she said finally.
+They reached the edge of the village. A group of villagers—AI-driven, but their skin and movements indistinguishable from human—were working with clay, decorating pottery with the intricate, dentate-stamped patterns that were the signature of the Lapita culture.
+
+Elena crouched to watch. The potter's hands moved with the patience of someone who had done this ten thousand times—pressing the dentate stamp into wet clay, rotating the vessel, pressing again. The rhythm was hypnotic. The flies didn't seem to bother her.
+
+"You know what I keep thinking about?" Elena said, still watching. "The Silk Road project."
 
 Kenji groaned. "The thirty-month argument?"
 
-"The thirty-month argument." She looked at Yusuf. "You spent six months insisting the camel genetics were wrong."
+"The thirty-month argument." Elena smiled. "Yusuf spent six months on the camel genetics. Mira wanted the trade goods exactly right, which meant sourcing silk reconstructions from orbital labs. You wanted to build 'the emotional arc of exchange' without worrying about timeline. And I wanted it to *mean* something—which meant streamlining, which meant—"
 
-"They *were* wrong."
+"Which meant you were 'erasing the surplus,'" Yusuf finished. "I stand by that."
 
-"Mira wanted the trade goods exactly right, which meant sourcing silk reconstructions from orbital labs in the outer system. Kenji wanted to build 'the emotional arc of exchange' without worrying about whether the timeline was coherent. And I wanted it to *mean* something—which meant streamlining, which meant—"
-
-"Which meant you were 'erasing the surplus,'" Yusuf finished. "I stand by that, by the way."
-
-"I know you do." Elena paused at the edge of the village. A group of villagers—AI-driven, but their skin and movements indistinguishable from human—were working with clay, decorating pottery with the intricate, dentate-stamped patterns that were the signature of the Lapita culture. "But here's what I keep thinking about: we argued for thirty months. We made each other miserable. The buffalo tried to eat the caravansarai—"
+"I know you do. The buffalo tried to eat the caravansarai—"
 
 "A minor technical hurdle," Kenji murmured.
 
-"—and in the end, we couldn't make it work. Our philosophies were too different." She watched the potters for a moment. "But we kept *trying*. We kept arguing, and collaborating, and failing, and starting over. Because the discipline was big enough for all of us."
+"—and in the end, we couldn't make it work. Our philosophies were too different." She stood, wiping her hands on her already-ruined shirt. "But we kept *trying*. We kept arguing, failing, starting over. Because the discipline was big enough for all of us."
 
-She gestured at the swamp, the village, the raw humidity that clung to everything.
+The potter looked up briefly, then returned to her work.
 
-"This is what Mira builds. Not the resorts—this. And under the proposal, it would be 'sanitized' out of existence. They want the pattern on the pot," she said, nodding toward the villagers, "but not the fear that the pot is the only thing standing between you and starvation."
+"Under the proposal," Elena said, "that's over. One philosophy. One standard. This—" she gestured at the swamp, the village, the heavy air, "—would be 'sanitized' out of existence."
 
-"The permissive-tier," Kenji said quietly.
+They walked along the edge of the swamp in silence. The muck grabbed at Elena's boots with each step. Ahead, a young man was repairing an outrigger, his hands moving with a practiced, rhythmic grace. 
 
-"The thing the proposal would ban." Yusuf picked up a shard of discarded pottery, turning it over in his hands. "The network says this is 'unnecessary harm.' They say we can give people the *feeling* of 1000 BCE without the actual death adders or malaria. They want the pattern, but not the sweat on the brow."
+Elena stopped. There was a scar on his leg—a jagged line, coral-pink, the edges slightly raised. It looked like a coral scrape that had been allowed to heal naturally. No medical intervention. No accelerated recovery.
 
-They walked along the edge of the swamp. A young man was repairing an outrigger, his hands moving with a practiced, rhythmic grace. There was a scar on his leg, a jagged line that looked like it had been earned from a coral scrape and allowed to heal naturally.
+"That scar," she said quietly.
 
-"That scar," Elena said. "It's not a simulation."
+"It's a record," Yusuf said. "In Mira's world, you keep your scars. They're part of your biography." He paused. "In your world, they're healed within hours."
 
-"It's a record," Yusuf said. "In Mira's world, you keep your scars. They're part of your biography." He glanced at Elena. "In your world, the scars are healed within hours."
+Elena didn't answer. She watched the young man work, his scarred leg braced against the outrigger's hull. The scar was part of him now—a story written in his skin, something he'd carry.
 
-"I build for the emotional resonance," Elena said, though the defense felt weaker than it had yesterday. "I don't think you need permanent disfigurement to understand the Lapita people."
-
-"Maybe not," Kenji said. His voice lacked its usual joviality. "But without the *risk* of the disfigurement, is it the same understanding?"
+"Maybe you don't need permanent disfigurement to understand the Lapita people," Kenji said. His voice was unusually serious. "But without the *risk* of it—is it the same understanding?"
 
 They stood in silence for a long moment, the heavy air pressing down on them. Elena looked across the black water toward the far side of the cylinder, where the horizon curved upward toward a world she couldn't see. Mira was out there somewhere, in the middle of this raw, uncompromising reality.
 
@@ -126,8 +124,30 @@ The contrast between last night's beach resort and this raw, humid village felt 
 
 "We should head back," Kenji said, wiping sweat from his forehead. "The others will be gathering by now."
 
-As they turned back toward the transit lock, Elena caught a glimpse of something moving in the undergrowth—a flash of dark scales, a silent, deadly presence. A death adder, maybe. It didn't care about governance proposals or network standards. It was just there, waiting.
+They turned toward the transit lock. Elena took a step—
 
-And for the first time, Elena felt the weight of what they might lose.
+Yusuf's hand shot out and caught her arm. "Don't."
+
+She froze. Her foot hovered over a tangle of roots and leaf litter. 
+
+"Back up," Yusuf said quietly. "Slowly."
+
+She did. One step. Two. 
+
+Then she saw it: a coil of dark scales, half-hidden in the debris. The head was triangular, the body thick and still. It hadn't moved. It didn't need to. 
+
+A death adder. Maybe two feet from where her boot would have landed.
+
+"If you'd stepped there," Kenji said, his voice strange, "and you weren't wearing your glasses on high-alert—"
+
+"I know." Elena's heart was pounding. She could feel her pulse in her throat.
+
+The snake slid away into the undergrowth, silent and unhurried. It didn't care about governance proposals or network standards. It was just there. Part of the record.
+
+No one spoke until they reached the transit lock. The brushed steel felt cold against Elena's hand. Safe. Contained. Everything the swamp wasn't.
+
+She looked back once, at the village and the black water and the world Mira had built.
+
+And for the first time, she understood what they might lose.
 
 
