@@ -58,11 +58,33 @@ Elena raised an eyebrow at Mira. "Bagels and lox? In 1987 Tahiti?"
 
 "Resorts in 1987 had buffets with heat lamps and sad scrambled eggs. This is..." Elena gestured at the spread. "This is aspirational."
 
-"I'm allowed one indulgence."
+"I'm allowed one indulgence." Mira spread cream cheese on a bagel, then turned toward the bar and raised her hand, the gesture automatic. "The lox is slightly over-salted. I should tell the culinary sub-agent to—"
 
-"If you say so. You once made me redo an entire wheat field because the cultivar was wrong by fifteen years."
+She stopped. Her hand hung in the air.
 
-"That was different. That was work." Mira spread cream cheese on a bagel. "This is breakfast."
+The others watched her. Even Kenji went quiet.
+
+"Mira?" Elena said.
+
+Mira lowered her hand slowly. She looked at the bagel, then at the bar, then at the reconstructed waves rolling past the window—the waves she had spent two years calibrating to match the tidal patterns of a resort that no longer existed.
+
+"I can't tell them anything," she said. "I don't have access anymore. I'm not the operator." She set down the bagel. "I'm a guest in my own resort."
+
+Nobody spoke for a moment.
+
+"Mira," Elena said gently.
+
+"It's fine." Mira picked up her coffee instead, both hands wrapped around the cup. "It's what we chose. It's what we had to do." She looked out at the water. "I just haven't internalized it. I've been walking around all morning thinking about what I need to adjust, what I need to fix, what I need to—and none of it is mine to fix anymore. I gave it away. I gave all of it away."
+
+She took a slow breath. Elena reached across the table and put a hand on her arm.
+
+"The lox tastes fine," Yusuf said quietly. "For what it's worth."
+
+Mira laughed—a short, startled sound. "It's slightly over-salted."
+
+"Maybe. But it's still good."
+
+Mira nodded. She picked up the bagel again. "Yeah," she said. "It's still good."
 
 Jordan wandered in an hour later, ordered tea, and stole a croissant off Kenji's plate.
 
