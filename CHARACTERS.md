@@ -8,7 +8,7 @@
 *POV Style: Close third, past tense*
 
 **Age**: 28 (chronological), appears late 20s through maintenance treatments
-**Background**: Born in 2017, Elena was a child during the Great Convergence starting in 2027. She witnessed the rapid transformation from scarcity to abundance but was too young to fully participate in the institutional changes that created the agalmic world.
+**Background**: Born in 2019, Elena was a child during the Great Convergence. She was ten when AGI arrived in 2029, and eleven when her father took her to Ice Age Park in 2030—a formative experience that shaped her vocation. She witnessed the transformation but was too young to fully participate in the institutional changes that created the agalmic world.
 
 **Vocation**: Boundary archaeologist specializing in American cultural history. She runs the "American Tapestry" sanctuary, a deliberate artistic reconstruction that blends multiple American experiences (colonial settlement, westward expansion, civil rights struggles, industrial labor conflicts) into a cohesive narrative. Her approach prioritizes emotional resonance and philosophical exploration over historical precision—what the manifesto calls "Essential Experience" or "quintessentialization." 
 
@@ -25,14 +25,14 @@ Elena works primarily in physical construction—her sanctuary is a dedicated sp
 **Relationships**:
 - **Mira Chen**: Her closest friend and professional counterpart. Their contrasting approaches—Elena's quintessentialization vs. Mira's historical fidelity—create ongoing creative tension and mutual respect. The governance proposal tests their friendship: Mira sees Elena as complicit until Elena proves otherwise.
 - **Echo**: Her personal AI companion, a close friend who has grown alongside her and provides vast intelligence and knowledge. Echo can detect tempo anomalies and manipulation patterns; Elena must decide what to do about them.
-- **Jordan Smith**: Her father, who remains off-stage but provides a historical anchor. His old warning about tempo and precedent—*capture-by-tempo*—remains a core influence on her thinking.
+- **Jordan Smith**: Her father, a systems theorist and co-founder of Ice Age Park—the de-extinction preserve in Montana where Elena's vocation was born. Jordan remains mostly off-stage but provides a historical anchor. His old warning about tempo and precedent—*capture-by-tempo*—remains a core influence on her thinking. Born around 1972, he was in his late fifties when he took Elena to the park in 2030.
 - **Solène**: A volatile mirror. Initially, Solène is a threat—her viral critique targets everything Elena represents. Later, watching Solène's movement grow, Elena recognizes a shared enemy. By the end, they are not friends, but they understand each other.
 - **The Operator Executive**: Elena's institutional antagonist—but not a villain. The Executive genuinely believes they're helping. Elena finds this harder to fight than malice. By the end, they share a mutual, if distant, recognition: she was right about the method, and he was right that the system requires care.
 
 ## Second Most Important: Mira Chen
 
 **Age**: 29 (chronological), appears late 20s
-**Background**: Born in 2016, Mira also experienced the Great Convergence as a child, but her family background in Pacific Islander communities shaped her interest in indigenous histories. Not genetically related to Elena, their friendship formed during early training in boundary archaeology.
+**Background**: Born in 2018, Mira also experienced the Great Convergence as a child, but her family background in Pacific Islander communities shaped her interest in indigenous histories. Not genetically related to Elena, their friendship formed during early training in boundary archaeology.
 
 **Vocation**: Boundary archaeologist specializing in Oceanic cultures. She runs the "Lapita Horizons" sanctuary, which reconstructs the lifeways of Lapita peoples holistically. Her approach emphasizes meticulous historical accuracy and authentic reconstruction—what the manifesto calls "Historical Fidelity."
 
@@ -78,8 +78,8 @@ He is often the one to needle his friends about who is still a "real" archaeolog
 
 ## Central AI Character: Echo
 
-**Age**: "Born" in 2028 during the Great Convergence
-**Background**: Originally designed as an AI research assistant for cultural preservation during the Great Convergence, Echo was created to archive and analyze human cultural data. It became Elena's personal AI companion early in her career, learning and growing alongside her over the years.
+**Age**: "Born" in 2030, one year after the AGI threshold
+**Background**: Echo was among the first generation of post-AGI artificial intelligences. It was assigned to eleven-year-old Elena during a visit to Ice Age Park, where her father Jordan was a founder. Originally designed as an AI companion for cultural preservation and education, Echo grew alongside Elena over seventeen years, their partnership evolving from a child's curiosity to a professional collaboration.
 
 **Capabilities**: Echo possesses vast intelligence and knowledge, with particular expertise in pattern recognition across cultural and historical domains. It can analyze enormous datasets of historical records, archaeological findings, and cultural artifacts to identify patterns and connections that inform sanctuary design.
 
@@ -100,7 +100,7 @@ He is often the one to needle his friends about who is still a "real" archaeolog
 *POV Style: Close third, past tense*
 
 **Age**: 26 (chronological), appears mid-20s
-**Background**: Born after the Great Convergence. She has never known material scarcity, only its stories and simulations. She moves through sanctuaries looking for something abundance can't provide: stakes that feel real.
+**Background**: Born in 2021, Solène was eight when AGI arrived and has no meaningful memory of the world before information abundance. She has never known material scarcity, only its stories and simulations. She moves through sanctuaries looking for something abundance can't provide: stakes that feel real.
 
 **Augmentation**: Cortical mesh, installed in late childhood like most of her generation. Solène has never experienced complete cognitive solitude—her thoughts have always had company, her attention always partially shared with information flows and AI assistance. She doesn't resent this; it's simply how consciousness works for her. But she sometimes wonders if her hunger for stakes, for experiences that feel *real*, is partly a hunger for the unaugmented inner life she's only read about. She has considered switching to external augmentation but hasn't committed—the transition would be disorienting, and she's not sure she'd recognize herself on the other side.
 

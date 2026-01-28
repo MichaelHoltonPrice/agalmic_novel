@@ -19,9 +19,24 @@ Private ownership persists for personal items and some physical spaces. Essentia
 
 **Universal Basic Services**: Healthcare, housing, nutrition, and transportation are provided as public goods. Work is optional; people pursue vocations driven by passion rather than necessity. The funding comes primarily from the agalmic economy—where production costs are near-zero, the surplus flows to public benefit rather than private accumulation.
 
-**The Great Convergence**: The technological transformation occurred over just a handful of years, beginning around 2027. This remarkable time in human history—featuring many aspects of the so-called "singularity" of yore—felt strangely normal to those experiencing it, even as the world changed indelibly at incredible pace. The Star Trek future arrived as everyday reality.
+**The Great Convergence**: The technological transformation was not a moment but a gradient—different domains of abundance arrived at different times, and the lived experience of the transition varied by what you cared about. Someone focused on information goods experienced "the future" years before someone waiting for physical abundance.
 
 The Convergence was not a rupture but an acceleration. Abundance had been growing for millennia—each generation, on average, living longer, healthier, and more comfortably than the last. The Convergence extended that trajectory rather than breaking from it. There was no collapse, no dark period, no chaos from which humanity emerged. The old systems didn't fail; they were gradually replaced by better ones, often before most people noticed the transition was happening. Those who lived through it remember the transition vividly—the wonder of it, the strangeness of everyday miracles becoming routine. Younger generations know it only through stories and sanctuaries.
+
+### The Convergence Timeline
+
+| Year | Milestone |
+|------|-----------|
+| ~2027 | **First de-extinctions.** Mammoth calves born from years of genetic engineering research. This predates AGI—late-stage pre-Convergence biotech, expensive and exclusive. |
+| ~2029 | **AGI threshold crossed.** AI systems achieve human-level general intelligence. Information goods become effectively free: software, entertainment, education, AI assistance. The marginal cost of intelligence approaches zero. |
+| ~2032 | **Longevity treatments mature.** Whether through reprogramming factors, targeted therapies, or some combination, aging becomes effectively solved for those who choose the treatments. |
+| ~2035 | **Physical automation catches up.** Robotics and embodied AI close the gap with non-embodied intelligence. Manufacturing, construction, and physical labor become dramatically cheaper. Space infrastructure accelerates. |
+| ~2040 | **Universal Basic Services stabilize.** Essential needs (healthcare, housing, nutrition, transit) become public goods globally. Most people no longer work for survival. |
+| 2047 | **Present day.** The Convergence is ongoing—not a completed event but an accelerating process. Information abundance is mature; physical abundance continues spreading. |
+
+### The Embodiment Lag
+
+Non-embodied intelligence outpaced embodied intelligence by roughly 5-10 years. Physical manipulation is simply a harder, newer modality than language and reasoning. Software deploys instantly at zero marginal cost; robots require manufacturing and maintenance. A chatbot's mistakes produce bad text; a robot's mistakes can injure someone. The result: AI companions like Echo existed years before cheap robotic construction transformed space infrastructure.
 
 ## Human Biology and Longevity
 

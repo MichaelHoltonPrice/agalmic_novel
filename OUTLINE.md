@@ -1,12 +1,12 @@
 # OUTLINE.md
 
 ## Logline
-When a governance proposal threatens to turn Elena's popular "Essentialist" philosophy into a mandatory network standard—effectively exiling her friend Mira's "Realist" approach—a close-knit group of pioneering boundary archaeologists must overcome decades of professional friction to save their discipline. After their prestige and expertise fail to move a public indifferent to "policy updates," they resort to a collective costly signal: an unconditional smart contract that will release all their intellectual property into the public domain and transfer their physical sanctuary infrastructure to a public trust—funding the solar system's universal basic services—the moment the governance proposal reaches its final resolution, whether accepted or blocked.
+When a governance proposal threatens to turn Elena's popular "Essentialist" philosophy into a mandatory network standard—effectively exiling her friend Mira's "Realist" approach—a close-knit group of pioneering boundary archaeologists must overcome a decade of professional friction to save their discipline. After their prestige and expertise fail to move a public indifferent to "policy updates," they resort to a collective costly signal: an unconditional smart contract that will release all their intellectual property into the public domain and transfer their physical sanctuary infrastructure to a public trust—funding the solar system's universal basic services—the moment the governance proposal reaches its final resolution, whether accepted or blocked.
 
 ## Core Conflict
 **Pluralism versus standardization.** The central question: *Can a discipline survive when its leading voices are forced into a single methodology?*
 
-The fight is not between "right" and "wrong" ways to do archaeology—the group has spent thirty years needling each other over their different approaches (Essentialism vs. Realism). The fight is about whether the network should mandate one at the expense of the other. The governance proposal (NG-2047-31) would codify Elena's "Essentialist" approach—emotional depth with guaranteed safety—as the mandatory standard for membership. Mira, Yusuf, and other "Realists" who prioritize historical fidelity and permissive risk would be forced out.
+The fight is not between "right" and "wrong" ways to do archaeology—the group has spent their entire careers needling each other over their different approaches (Essentialism vs. Realism). The fight is about whether the network should mandate one at the expense of the other. The governance proposal (NG-2047-31) would codify Elena's "Essentialist" approach—emotional depth with guaranteed safety—as the mandatory standard for membership. Mira, Yusuf, and other "Realists" who prioritize historical fidelity and permissive risk would be forced out.
 
 ---
 
@@ -18,7 +18,7 @@ Three documents and one technical commitment drive the institutional conflict:
 
 **The Procedure** (NG-2047-31, *Sanctuary Standards and Safety Framework*): A governance proposal that mandates quintessential experience as the network's standard. The language is neutral ("codifying existing values"), but the effect is exclusionary. The compressed 45-day review is capture-by-tempo.
 
-**The Costly Signal**: A collective smart contract executed by the core group (Elena, Mira, Kenji, Yusuf, and others). The contract is unconditional and irreversible: it releases their proprietary IP—decades of combined research, sensory calibrations, and design methodology—into the public domain, while transferring their physical sanctuary infrastructure to a public trust designed to fund universal basic services. (The physical sanctuaries continue to operate using the now-public IP.) The transfer is timed for maximum symbolic weight: it triggers the moment the proposal process is finalized (all veto options exhausted). By locking their wheels in this way, they prove that their commitment to the discipline's future is absolute, regardless of whether they "win" or "lose" the vote.
+**The Costly Signal**: A collective smart contract executed by the core group (Elena, Mira, Kenji, Yusuf, and others). The contract is unconditional and irreversible: it releases their proprietary IP—years of combined research, sensory calibrations, and design methodology—into the public domain, while transferring their physical sanctuary infrastructure to a public trust designed to fund universal basic services. (The physical sanctuaries continue to operate using the now-public IP.) The transfer is timed for maximum symbolic weight: it triggers the moment the proposal process is finalized (all veto options exhausted). By locking their wheels in this way, they prove that their commitment to the discipline's future is absolute, regardless of whether they "win" or "lose" the vote.
 
 ---
 
@@ -115,7 +115,7 @@ The table fractures into smaller debates. Henrik and Chen support the proposal (
 ### Chapter 11 (Elena/Group): The Plan (Midpoint Shift)
 The next morning. Mira's receiving room—sparse, functional, no reconstruction. Nine people gather: the core four (Elena, Mira, Kenji, Yusuf), plus Raj, two other colleagues, and—surprisingly—Lena, who "isn't sure she's opposed, but wants to understand what opposing looks like."
 
-The proposal passed overnight—seventy-one percent. Technically, sanctuaries can still change their votes until the resolution window closes, but the legislative phase is effectively over. They pivot to the veto options: Mira takes the Guardian Appeal, Elena and Kenji take the User Veto campaign, Elena attempts institutional influence with the Executive. They toast (miming the gesture): to death adders, to unfinished buffalo, to thirty years of arguments. Professional bickering becomes **Common Purpose**. They are optimistic; their prestige feels like armor.
+The proposal passed overnight—seventy-one percent. Technically, sanctuaries can still change their votes until the resolution window closes, but the legislative phase is effectively over. They pivot to the veto options: Mira takes the Guardian Appeal, Elena and Kenji take the User Veto campaign, Elena attempts institutional influence with the Executive. They toast (miming the gesture): to death adders, to unfinished buffalo, to a decade of arguments. Professional bickering becomes **Common Purpose**. They are optimistic; their prestige feels like armor.
 
 ---
 
@@ -190,7 +190,7 @@ The morning after. Elena wakes in Mira's receiving room, stiff and disoriented. 
 
 The group gathers for a celebratory brunch at the Tahitian Dream—Mira's 1980s resort reconstruction. All six of them: Elena, Mira, Kenji, Yusuf, Solène, and Jordan. Neon cocktail umbrellas and synth-pop. They've won; they've paid the price. The mood is light but real.
 
-Mira reveals what she was working on during the long night of watching the signal propagate: a proposal to revive the Silk Road collaboration. The project they started thirty years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. While the others watched the numbers climb, Mira was already thinking about what comes next.
+Mira reveals what she was working on during the long night of watching the signal propagate: a proposal to revive the Silk Road collaboration. The project they started years ago and never finished—thirty months of argument because their philosophies were different, the buffalo that ate the eastern wing. While the others watched the numbers climb, Mira was already thinking about what comes next.
 
 They agree to pick it up. Solène asks to help; Jordan offers to consult. The work itself will be the same as it always was: arguing about method, needling each other about fidelity versus essence, building something that helps people understand what it meant to be human before abundance.
 
