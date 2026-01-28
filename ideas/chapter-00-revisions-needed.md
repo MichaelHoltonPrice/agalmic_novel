@@ -50,5 +50,9 @@
 - "Bioprinting" (instant creation of adult animals) is not established canon.
 - If this is ~2028 (one year into the Convergence), you cannot have adult mammoths that were created "just last year."
 
-**Needed:** Either revise the timeline (the park has been in development longer, predating the Convergence), or revise what Jordan says to be more accurate about what the Convergence enabled (e.g., the *scale* or *accessibility* of de-extinction, not its existence).
+**Needed:** Revise to account for the established timeline:
+- First mammoths born ~2027 (pre-Convergence biotech, expensive and slow)
+- Chapter 00 is ~2028, so mammoths are only ~1 year old (calves, not adults)
+- Jordan's dialogue should reflect that de-extinction predates the Convergence; the Convergence will make it *scalable*, but these first animals are products of decades of traditional genetic engineering
+- The scene should show mammoth calves, not full-grown adults, or push the flashback later (e.g., Elena at 15, ~2032) to allow for adult animals
 

@@ -14,10 +14,11 @@ The Convergence was not a moment but a **gradient**. Different domains of abunda
 
 | Year | Milestone |
 |------|-----------|
+| **~2027** | **First mammoths born.** De-extinction projects (years in development) produce the first live mammoth calves. This predates AGI—it's late-stage pre-Convergence biotech, not a Convergence product. The Convergence will later make de-extinction *cheap and scalable*, but the first successes come from traditional (expensive, slow) genetic engineering. |
 | **~2029** | **AGI threshold crossed.** AI systems achieve human-level general intelligence by most reasonable definitions. This is the inflection point for information goods: software, virtual experiences, entertainment, education, and AI assistance become effectively free. The marginal cost of intelligence approaches zero. |
 | **~2035** | **Physical automation catches up.** Robotics and embodied AI close the gap with non-embodied intelligence. Manufacturing, construction, and physical labor become dramatically cheaper. Space infrastructure accelerates. |
 | **~2040** | **Abundance becomes ambient.** Universal Basic Services stabilize globally. Essential needs (healthcare, housing, nutrition, transit) are public goods. Most people no longer work for survival. The "old economy" persists but feels vestigial. |
-| **~2045** | **The new normal.** The generation born after AGI has no memory of scarcity. The transition is complete—not in the sense that nothing remains scarce, but in the sense that the *default* has flipped. Scarcity is now the exception, not the rule. |
+| **~2045** | **Main timeline of novel.** The Convergence is still ongoing—not a completed event but an accelerating process. Information abundance is mature; physical abundance is spreading but uneven. Anyone can visit or live in a space habitat, but not everyone can own their own. The generation born after AGI has no memory of information scarcity, but physical scarcity (prime locations, custom environments, private ownership) persists. |
 
 ---
 
@@ -86,6 +87,6 @@ Jordan shouldn't say "just last year, none of this existed." He should say somet
 | Medical / Longevity | ~2032 | Nanotech matures; aging "solved" |
 | Physical automation | ~2035 | Robots catch up; manufacturing/construction cheap |
 | Universal Basic Services | ~2040 | System stabilizes globally |
-| Space habitats at scale | 2035-2045 | Decade of exponential buildout |
-| "Ambient abundance" (new normal) | ~2045 | Main timeline of novel |
+| Space habitats expanding | 2035-ongoing | Decade of buildout; anyone can visit/live in one, but private ownership remains scarce |
+| Main timeline of novel | ~2045 | Convergence still ongoing; physical scarcity persists for premium goods |
 
