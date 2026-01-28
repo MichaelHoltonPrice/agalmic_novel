@@ -76,15 +76,7 @@ Elena wondered sometimes what they would think of her world. A place where no on
 
 She took off her glasses and set them beside her on the stone. The prairie blurred slightly—her natural vision was good but not quite perfect—and the data overlays vanished. Just rock and grass and wind. Just her thoughts, unaugmented, moving at the speed of neurons instead of networks.
 
-She had been eleven when she'd first understood what a sanctuary could be.
-
-Her father had taken her to one of the early ones—not a carefully reconstructed historical space like she built now, but something rawer. A piece of Earth's deep past, Pleistocene rewilding, mammoths and saber-cats moving through grasslands that had been gone for twelve thousand years. She'd watched a mammoth family cross a river, the calves staying close to their mothers, the adults testing each step before committing their weight. And she'd felt something bloom inside her chest—pure wonder, the kind that made her breath catch and her eyes sting.
-
-*This was real.* Not the original real, but real enough. Something that had been gone for twelve thousand years was here, now, breathing and moving and *alive*. Someone had cared enough to bring it back.
-
-Later, much later, she would understand the complications—that these were echoes, not originals, that resurrection was always partial, that loss could never be fully undone. But at eleven, standing by that river, she'd felt only awe. And the conviction, fierce and immediate: *I want to do this. I want to make this my life's work.*
-
-That was when she'd understood what she wanted to spend her life doing.
+The Delgados were coming to experience something she had understood since she was eleven, standing at the river's edge at Ice Age Park while mammoths crossed before her. That had been the beginning—not of the work, which came later, but of the knowing. The conviction that had never wavered since.
 
 Not preservation—preservation implied saving something that still existed. This was something else. Reconstruction. Resurrection. Making echoes loud enough that people could hear what the original sound had been like, even if the original sound was gone forever. Kenji had a name for it now—*boundary archaeology*—and Elena had helped make that name mean something.
 
