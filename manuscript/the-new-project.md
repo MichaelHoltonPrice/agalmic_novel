@@ -1,4 +1,4 @@
-# Chapter 19: The New Project
+# The New Project
 
 ## Ensemble
 

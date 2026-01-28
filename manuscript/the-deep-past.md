@@ -1,4 +1,4 @@
-# Chapter 9: The Deep Past
+# The Deep Past
 
 ## Elena
 

@@ -1,4 +1,4 @@
-# Chapter 5: The Safety Case
+# The Safety Case
 
 ## The Executive
 

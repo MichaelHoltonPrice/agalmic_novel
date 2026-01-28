@@ -1,4 +1,4 @@
-# Chapter 12: The Critique
+# The Critique
 
 ## Solène
 

@@ -1,4 +1,4 @@
-# Chapter 18: The Climb
+# The Climb
 
 ## Ensemble
 

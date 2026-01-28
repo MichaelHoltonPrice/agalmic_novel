@@ -1,4 +1,4 @@
-# Chapter 14: The Low Point
+# The Low Point
 
 ## Ensemble
 

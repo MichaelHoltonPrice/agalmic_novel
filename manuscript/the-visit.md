@@ -1,4 +1,4 @@
-# Chapter 2: The Visit
+# The Visit
 
 ## Solène
 

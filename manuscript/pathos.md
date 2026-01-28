@@ -1,4 +1,4 @@
-# Chapter 7: Pathos
+# Pathos
 
 ## The Executive
 

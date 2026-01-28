@@ -1,4 +1,4 @@
-# Chapter 6: Grokking the Swarm
+# Grokking the Swarm
 
 ## The Executive
 

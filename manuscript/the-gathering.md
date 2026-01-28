@@ -1,4 +1,4 @@
-# Chapter 10: The Gathering
+# The Gathering
 
 The invitation had arrived that morning: coordinates, a dress code ("whatever you'd wear to a dig site in Samarkand"), and a note from Kenji: *We thought you might want to see what we never finished.*
 

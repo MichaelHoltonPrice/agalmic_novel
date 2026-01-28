@@ -1,4 +1,4 @@
-# Chapter 17: Interlude
+# Interlude
 
 ## The Executive
 

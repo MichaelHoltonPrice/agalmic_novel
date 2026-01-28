@@ -1,4 +1,4 @@
-# Chapter 0: Ice Age Park
+# Ice Age Park
 
 ## Elena
 

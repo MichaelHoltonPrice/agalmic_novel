@@ -1,4 +1,4 @@
-# Chapter 15: The Decision
+# The Decision
 
 ## Kenji
 

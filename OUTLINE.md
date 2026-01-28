@@ -68,51 +68,62 @@ Once the proposal passes the legislative stage, the group must pivot to the form
 
 ---
 
-## PART I — THE PROPOSAL
+## PROLOGUE
 
-### Chapter 1 (Elena): The Sanctuary
-Establishment of "American Tapestry" and Elena’s "Essentialist" craft.
+### Ice Age Park (Elena, 2030)
+Eleven-year-old Elena visits Ice Age Park in Montana with her father Jordan, a co-founder of the facility. This is one year after AGI (2029), and the mammoths—born around 2027—are now three-year-old calves and juveniles. Echo, a post-AGI artificial intelligence, is newly assigned to Elena during the visit.
 
-### Chapter 2 (Solène): The Visit
+The chapter establishes Elena's formative moment of wonder: watching young mammoths cross a river, learning about the Clovis people who once lived alongside these animals, and crystallizing her vocation—not to resurrect animals, but to help people understand what it felt like to live in worlds that are gone. Jordan's observation plants the seed: "You can't bring back people. But you can help others understand what their world was like."
+
+This chapter introduces the Convergence as early gradient (AGI exists, but UBS and cheap automation are still years away), Elena's external augmentation philosophy, and the seventeen-year partnership with Echo that will define her career.
+
+---
+
+## PART I — THE PROPOSAL (2047)
+
+### The Sanctuary (Elena)
+Establishment of "American Tapestry" and Elena's "Essentialist" craft. Elena is now 28, working in her space-based sanctuary cylinder—seventeen years after the formative experience at Ice Age Park.
+
+### The Visit (Solène)
 Solène experiences the "beauty without stakes" of Elena's work.
 
-### Chapter 3 (Solène): The Incident
+### The Incident (Solène)
 The Lapita Incident. Solène is injured at Mira’s sanctuary; the network exercises its contractual authority to extract her for "protection," despite her expressed desire to stay. Her viral critique follows.
 
-### Chapter 4 (Elena): The Proposal
+### The Proposal (Elena)
 The notification for NG-2047-31 arrives. Elena recognizes her own work being used as the template for a mandatory standard.
 
-### Chapter 5 (Executive): The Safety Case
+### The Safety Case (Executive)
 The clinical, institutional review of the Lapita Incident. The Executive considers the multiplicative survival function of the network, realizing that "tail risk" from permissive experiences creates a zero-point threat to the entire system.
 
-### Chapter 6 (Executive/Swarm): Swarm Deliberation
+### Swarm Deliberation (Executive/Swarm)
 A glimpse into the millisecond-scale complexity of agalmic decision-making.
 
-### Chapter 7 (Executive): The Closing Case
+### The Closing Case (Executive)
 The Executive presents the standardization framework as a rational necessity for network survival.
 
-### Chapter 8 (Elena): The Beach
+### The Beach (Elena)
 Elena travels to Mira's habitat in response to a message. Kenji greets her with an AR "yellow brick road" experience—built in ninety seconds by one of his ambient AI systems, demonstrating his "slow down to speed up" philosophy. She finds **Kenji** and **Yusuf** already at "The Tahitian Dream, 1987," a 1980s resort with neon cocktail umbrellas.
 
 The dynamic duo is established: jovial Kenji vs. morose Yusuf. They finish each other's complaints ("guesses with better graphics"). When Elena tries to bring up the manifesto, Kenji throws sand at her—"there's time for that later." They trade shop talk instead: audits, visitor complaints, colleagues who've fled to "lifestyle reconstructions." Yusuf goes on a tangent about excavation methodology (locus vs. units, Munsell numbers); later, Kenji quietly picks up the intellectual gauntlet ("Method *is* theory-laden, you know").
 
 Elena notices Mira gave a background bartender a failed marriage—fidelity for its own sake. Still no Mira; she's "deep in the zones," letting them accumulate like silt. The chapter ends on camaraderie: Elena preparing to needle Mira about the starfield—too bright, too crowded for the era. "The only time I've ever seen her choose the view over the truth."
 
-### Chapter 9 (Elena/Group): The Deep Past
+### The Deep Past (Elena/Group)
 The next morning. The group (Elena, Kenji, Yusuf) takes a professional "field trip" to Mira's masterwork: the **Lapita Horizons** site. They leave the 1980s resort for the raw, high-humidity reality of 1000 BCE. Other cohort members (Lena, Raj, others) join them at the site.
 
 The contrast is immediate and visceral. As they walk through the site, they can no longer avoid the proposal. Kenji reminisces about Luna—the first cohort meeting where he coined "boundary archaeology." Elena articulates her discomfort: her Essentialist philosophy is being quoted in the manifesto like axioms, used as the template for mandatory standardization. Yusuf has read the fine print (Section 7.3, "Risk Tier Harmonization") and confirms her fears.
 
 The needling continues—but with an edge now. As they see the permissive-tier risks (venomous reef-life, genuine physical danger), the stakes become tangible. They recall the Silk Road collaboration: thirty months of argument because their philosophies were different, but the discipline was big enough for all of them. Under the new proposal, this entire site would be "sanitized" out of existence. The vote count is climbing.
 
-### Chapter 10 (Elena/Group): The Gathering
+### The Gathering (Elena/Group)
 The dinner party. Kenji and Yusuf have arranged the setting: a caravanserai built by Kenji's AI systems in eighty-seven hours from the old Silk Road survey data—a draft of the collaboration they never finished. ("The buffalo ate the eastern wing.")
 
 Mira finally appears—defensive, exhausted, braced for a fight. She's been waiting three days for Elena to say she supports the proposal. The core four orbit each other until dinner forces them together. Lena argues with Mira about compromise ("sanitize just enough to pass review"); Mira turns and asks Elena directly what she thinks. Elena declares herself publicly: she doesn't want her philosophy weaponized against Mira's.
 
 The table fractures into smaller debates. Henrik and Chen support the proposal (sincere opposition). The arguments circle without resolving. The evening ends with the cohort not united—but the core four knowing they need to talk. Kenji arranges a morning meeting.
 
-### Chapter 11 (Elena/Group): The Plan (Midpoint Shift)
+### The Plan (Midpoint Shift) (Elena/Group)
 The next morning. Mira's receiving room—sparse, functional, no reconstruction. Nine people gather: the core four (Elena, Mira, Kenji, Yusuf), plus Raj, two other colleagues, and—surprisingly—Lena, who "isn't sure she's opposed, but wants to understand what opposing looks like."
 
 The proposal passed overnight—seventy-one percent. Technically, sanctuaries can still change their votes until the resolution window closes, but the legislative phase is effectively over. They pivot to the veto options: Mira takes the Guardian Appeal, Elena and Kenji take the User Veto campaign, Elena attempts institutional influence with the Executive. They toast (miming the gesture): to death adders, to unfinished buffalo, to a decade of arguments. Professional bickering becomes **Common Purpose**. They are optimistic; their prestige feels like armor.
@@ -121,20 +132,20 @@ The proposal passed overnight—seventy-one percent. Technically, sanctuaries ca
 
 ## PART II — THE FAILURE OF PRESTIGE
 
-### Chapter 12 (Solène): The Critique
+### The Critique (Solène)
 Solène writes her critique of the governance proposal—articulating what she's felt since the Lapita Incident: that the network protects you from your own choices, that comfort has become mandatory. The post goes viral. People who feel the same way respond; for the first time, she doesn't feel alone in her hunger for stakes. Then the Founders reach out—and Mira is among them. The woman whose sanctuary gave Solène the only experience that felt real, whose work the proposal threatens to eliminate, whose authority the network overruled when they pulled Solène out against her will. The chapter ends on a high: not just viral success, but *Mira sees her as an ally*.
 
-### Chapter 13 (Mira/Yusuf): The Guardian Appeal
+### The Guardian Appeal (Mira/Yusuf)
 The chapter opens with the ensemble discussing the Guardian Appeal. The proposal has passed—seventy-one percent of operators in favor, the legislative phase closed. Yusuf's analysis confirmed the Operators' Wall is insurmountable; even a follow-on Rollback Motion would be dead on arrival. His path has fizzled. The question arises: should Mira and Yusuf make the trip to the Triad in person? It's days of transit each way. They could present remotely.
 
 The answer is obvious: yes. Making the effort has meaning. In a world where remote presence is nearly indistinguishable from physical presence, choosing to travel is itself a signal. Two founders, days of transit, irreplaceable time. The journey says: *this matters enough to be here*.
 
 Together, they present the case for Pluralism. The AI Guardian is persuaded—standardization reduces reversibility, and that's a concern it takes seriously. But the two human Guardians are not. The Legacy Guardian fears that blocking would look like "founder overhang"—the elite veto they're supposed to prevent. The Contemporary Trust Guardian sees the 2/3 operator vote as democratic legitimacy that a small panel shouldn't overrule. The irony is sharp: the machine sees the capture, but the humans are captured by their own anti-capture anxieties. They suggest this is why there exists a user veto.
 
-### Chapter 14 (Ensemble): The Low Point
+### The Low Point (Ensemble)
 The ensemble reconvenes—Mira and Yusuf joining by call from transit, Elena and Kenji reporting from their User Veto efforts, Solène now part of the group. All failures stack at once: the Guardian appeal denied (2-1, AI dissenting), and the User Veto numbers haven't moved despite Solène's viral success. Elena reports that she met with the Executive—and was rebuffed. He was polite, sincere, and unmoved. The proposal followed every rule; he won't undercut it. Attention isn't translating to votes. Most users remain comfortable and indifferent. Every institutional path has failed. The chapter ends with Mira's homework assignment: think, brainstorm, talk to anyone who might help.
 
-### Chapter 15 (Elena/Kenji): The Decision
+### The Decision (Elena/Kenji)
 Elena is at the beach—one of Kenji's reconstructions at Lapita Horizons—processing the Executive's rejection. Her father Jordan has come to visit after hearing about the crisis; they're talking when Kenji shows up, seeking the same shore to clear his head. Kenji is surprised but pleased to see Jordan (they know each other well). Kenji shares what his AI swarm told him: that attention follows perceived stakes, that "the cost is the hook." Jordan recognizes the pattern immediately—"Your AI already told you the answer. It's called costly signaling theory." He explains the framework: peacock tails, warranties, ritual sacrifice. The question crystallizes: *What's your peacock tail?*
 
 Later, the full group gathers. They debate what they have that could serve as a costly signal. Mira proposes the answer: their intellectual property, released into the public domain, and their physical sanctuary infrastructure, transferred to a public trust—unconditionally. The sanctuaries would continue to operate using the now-public IP, but the proprietary advantage would be gone forever. The transfer triggers the moment the proposal process reaches finality, whether they win or lose. The sacrifice is real either way; that's what makes it honest. One by one, they agree.
@@ -143,7 +154,7 @@ Later, the full group gathers. They debate what they have that could serve as a 
 
 ## PART III — COSTLY SIGNALS
 
-### Chapter 16 (Elena/Ensemble): The Signal
+### The Signal (Elena/Ensemble)
 
 The enumeration of IP and physical infrastructure takes most of a day—not because of processing time, but because of light-speed delays coordinating across the inner solar system. A diversity of AI agents catalog their respective systems; Kenji's swarm coordinates.
 
@@ -157,7 +168,7 @@ They move to a monitoring room. Kenji taps into the open chain—the decentraliz
 
 **By morning:** The number crosses 20%, then 22%. The story has reached general interest feeds. People who'd never heard of boundary archaeology are clicking, reading, voting. The sacrifice is the hook, and the story is beginning to spread.
 
-### Chapter 17 (Executive): Interlude
+### Interlude (Executive)
 
 A temporal cut. We leave the founders at 22% and drop into the Executive's perspective at the Axis.
 
@@ -169,7 +180,7 @@ A moment of doubt. Not about the goal—safety matters, systemic resilience matt
 
 The interlude is brief. A handful of pages. Then we cut back.
 
-### Chapter 18 (Ensemble): The Climb
+### The Climb (Ensemble)
 
 We return to the founders. The vote continues—a sigmoid curve. Initial acceleration, then slowing as the easy conversions are exhausted.
 
@@ -185,7 +196,7 @@ The system locks: the User Veto has been reached. The proposal is blocked. The r
 
 ## AFTERMATH
 
-### Chapter 19: The New Project
+### The New Project
 The morning after. Elena wakes in Mira's receiving room, stiff and disoriented. She and Mira share a quiet moment watching the simulated dawn. Elena expects to feel loss; she doesn't.
 
 The group gathers for a celebratory brunch at the Tahitian Dream—Mira's 1980s resort reconstruction. All six of them: Elena, Mira, Kenji, Yusuf, Solène, and Jordan. Neon cocktail umbrellas and synth-pop. They've won; they've paid the price. The mood is light but real.

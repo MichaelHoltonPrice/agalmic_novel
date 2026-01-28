@@ -1,4 +1,4 @@
-# Chapter 8: The Beach
+# The Beach
 
 ## Elena
 

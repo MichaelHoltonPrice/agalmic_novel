@@ -1,4 +1,4 @@
-# Chapter 11: The Plan
+# The Plan
 
 The receiving room was sparse—a low table, cushions, windows that looked out onto the raw Pacific. No reconstruction here. Just Mira's habitat, functional and unadorned.
 

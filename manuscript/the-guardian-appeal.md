@@ -1,4 +1,4 @@
-# Chapter 13: The Guardian Appeal
+# The Guardian Appeal
 
 ## Mira / Yusuf
 
