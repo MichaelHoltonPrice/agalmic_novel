@@ -22,16 +22,19 @@ To generate a PDF for review:
 - LaTeX distribution: `sudo apt install texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-recommended`
 
 ```bash
-pandoc manuscript/title.md manuscript/chapter-*.md -o build/agalmic-engine.pdf --pdf-engine=pdflatex
+cd manuscript && xargs pandoc -o ../build/agalmic-engine.pdf --pdf-engine=pdflatex < chapters.txt
 ```
 
-This creates a compiled PDF in the `build/` folder with:
-- Title page
-- All 19 chapters in order
+This creates a compiled PDF in the `build/` folder. Chapter order is defined in `manuscript/chapters.txt`.
+
+**Adding or reordering chapters:**
+1. Create the `.md` file in `manuscript/`
+2. Add its filename to `chapters.txt` at the desired position
 
 ## Project Structure
 
 - `manuscript/` - Individual chapter files in Markdown
+- `manuscript/chapters.txt` - Chapter order manifest (used by build)
 - `build/` - Compiled manuscripts (PDFs)
 - `PREMISE.md` - Core vision and world-building principles
 - `WORLD.md` - How the universe works
