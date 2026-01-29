@@ -26,9 +26,11 @@ A pause. With Echo, pauses were choices, not processing delays. "You want me to 
 
 "That's what I'm doing."
 
-Elena smiled despite herself. Seventeen years they'd worked together—since she was eleven and Echo was barely a year old, both of them figuring out what they were for. The AI had grown alongside her, its personality shaped by their collaboration the way rivers shaped canyons: slowly, inexorably, leaving something beautiful in the wake.
+Elena smiled despite herself. Seventeen years they'd worked together—since she was eleven and Echo was barely a year old, both of them figuring out what they were for. She remembered Echo's voice in those early days: stiff, formal, always offering information she hadn't asked for. *Shall I provide context about the de-extinction process?* it had asked, that first day at Ice Age Park, while she was trying to watch dire wolves disappear into a tree line. She'd had to teach it when to be quiet. It had had to teach her how to ask for what she actually needed.
 
-She walked the length of the wagon rut, her boots leaving prints in the calibrated dust. Around her, the Nebraska prairie stretched to a horizon that curved gently upward at the edges—thirty kilometers of reconstructed landscape wrapped around the interior of her cylinder, the grasses rippling in a wind that followed algorithms she'd tuned by hand. The sky was enormous and indifferent, the particular blue of August on the Great Plains projected onto the habitat's central axis, and in the distance a smudge of smoke marked where another family's wagon had thrown a wheel and caught fire while they tried to repair it. A small tragedy. One of thousands.
+The AI had grown alongside her, its personality shaped by their collaboration the way rivers shaped canyons: slowly, inexorably, leaving something beautiful in the wake.
+
+She walked the length of the wagon rut, her boots leaving prints in the calibrated dust. Around her, the Nebraska prairie stretched to a horizon that curved gently upward at the edges—thirty kilometers of reconstructed landscape wrapped around the interior of her cylinder, the grasses rippling in a wind that followed algorithms she'd tuned by hand. The curve still caught her sometimes, after all these years. On Earth, horizons fell away. Here, they rose to meet you, the world bending back on itself like a question. The sky was enormous and indifferent, the particular blue of August on the Great Plains projected onto the habitat's central axis, and in the distance a smudge of smoke marked where another family's wagon had thrown a wheel and caught fire while they tried to repair it. A small tragedy. One of thousands.
 
 "The Delgado family arrives in forty minutes," Echo said. "Their intake profile suggests particular interest in the California gold rush narrative, but also flagged sensitivities around child mortality."
 
@@ -76,7 +78,11 @@ Elena wondered sometimes what they would think of her world. A place where no on
 
 She took off her glasses and set them beside her on the stone. The prairie blurred slightly—her natural vision was good but not quite perfect—and the data overlays vanished. Just rock and grass and wind. Just her thoughts, unaugmented, moving at the speed of neurons instead of networks.
 
-The Delgados were coming to experience something she had understood since she was eleven, standing at the river's edge at Ice Age Park while mammoths crossed before her. That had been the beginning—not of the work, which came later, but of the knowing. The conviction that had never wavered since.
+The Delgados were coming to experience something she had understood since she was eleven, standing at the river's edge at Ice Age Park while mammoths crossed before her.
+
+That had been on Earth—real Earth, with a horizon that stayed flat no matter how far you walked. Montana. Her father had been one of the founders, which was the only reason they could afford to go. She remembered the weight of the ground beneath her feet, the particular quality of sunlight that hadn't been filtered through a space habitat's shell, the way the herd's footsteps had made the actual planet shake. The calves had been three years old, gangly and uncertain, still learning how to be mammoths. Echo had been three weeks old, gangly and uncertain in its own way, still learning how to be *her*.
+
+That had been the beginning—not of the work, which came later, but of the knowing. The conviction that had never wavered since.
 
 Not preservation—preservation implied saving something that still existed. This was something else. Reconstruction. Resurrection. Making echoes loud enough that people could hear what the original sound had been like, even if the original sound was gone forever. Kenji had a name for it now—*boundary archaeology*—and Elena had helped make that name mean something.
 

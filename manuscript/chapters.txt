@@ -1,5 +1,4 @@
 title.md
-ice-age-park.md
 the-sanctuary.md
 the-visit.md
 the-incident.md

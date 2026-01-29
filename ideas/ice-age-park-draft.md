@@ -16,29 +16,31 @@ She took a breath. The calf had found its footing. The herd moved on, unhurried,
 
 "I know."
 
-Jordan Smith stood beside her, fifty-eight years old with the body of a man half that age—one of the first generation to truly benefit from the longevity treatments that had become routine in the year since everything changed. He watched his daughter watching the mammoths, and she could feel the weight of his attention even when she didn't look up. Her father was always watching. Always thinking about what he saw.
+Jordan Smith stood beside her, fifty-eight years old and looking perhaps a decade younger. He watched his daughter watching the mammoths, and she could feel the weight of his attention even when she didn't look up. Her father was always watching. Always thinking about what he saw.
 
-Around them, other visitors drifted through Ice Age Park's welcome center, moving toward the viewing platforms or the interactive exhibits or the café that served historically-inspired food no one really wanted to eat. There had been no tickets to buy, no costs to navigate—just the journey here, the choice to come, and now this: standing at the edge of something that shouldn't exist.
+Around them, a handful of other visitors drifted through Ice Age Park's welcome center, moving toward the viewing platforms or the interactive exhibits or the café that served historically-inspired food no one really wanted to eat. The park wasn't crowded—it couldn't be bloated, not at these prices. Elena knew her father hadn't paid for their visit, not exactly. He was one of the founders, one of the people who had made this place possible. That was why they were here. That was why she got to see this.
 
 "When I was your age," Jordan said, "places like this were impossible."
 
-"I know." Elena had heard this before. The world had been different. Things had cost money. Not everyone could go everywhere. It sounded like a story from a very long time ago, even though her father had lived it.
+"I know." Elena had heard this before. The world had been different. Things had cost more money. Not everyone could go everywhere.
 
-"No, I mean—" He paused, choosing words the way he always did, like each one mattered. "Not just expensive. *Impossible*. The technology didn't exist. The knowledge didn't exist. A year ago, none of this existed. And now—"
+"No, I mean—" He paused, choosing words the way he always did, like each one mattered. "Not just expensive. *Impossible*. The mammoths themselves didn't exist three years ago. The first calves were born in 2027—we'd been working toward it for a decade, and then suddenly, there they were. And now—"
 
-He gestured at the grassland beyond the glass, where twelve thousand years of extinction had been undone in a handful of years.
+He gestured at the grassland beyond the glass, at the herd that had grown from those first fragile births into something that looked almost like a population.
 
-"Now it's just a park," Elena said.
+"Now they're teenagers," Elena said. "Like me. Almost."
 
-"Now it's a miracle wearing comfortable clothes."
+"Now they're a *herd*." Jordan smiled. "And everything that made them possible got easier last year. Faster. What used to take us months now takes days."
 
-She looked up at him. Her father smiled, the small careful smile that meant he was pleased with his own phrasing. Elena's glasses—her new glasses, slim titanium frames that connected her to Echo and the park's information systems—flickered with data she didn't need yet. She blinked it away. Through the earbuds, she heard Echo's voice, soft and formal, still learning her rhythms: *Shall I provide context about the de-extinction process?*
+She looked up at him. Her father's face had that expression it got when he was watching history happen—the same expression he'd had the day he'd explained to her what AGI meant, why the news was full of strange new words, why her teachers seemed both excited and uncertain.
+
+Elena's glasses—her new glasses, slim titanium frames that connected her to Echo and the park's information systems—flickered with data she didn't need yet. She blinked it away. Through the earbuds, she heard Echo's voice, soft and formal, still learning her rhythms: *Shall I provide context about the de-extinction process?*
 
 Not now, she thought. The subvocal pickup caught it, transmitted silence.
 
 *Acknowledged.*
 
-Echo was new. Elena had been assigned an AI companion three weeks ago, part of the Universal Basic Services that had rolled out so quickly it felt like weather—something that had always been there, even though she remembered when it hadn't been. The voice was pleasant, the knowledge vast, the presence still strange. Like having a very smart friend who lived in her ear and didn't yet know when to be quiet.
+Echo was new. Three weeks ago, her father had given it to her as a birthday present—one of the early AI companions, the kind that learned your rhythms and grew alongside you. Elena suspected she was also a test case; the company was still figuring out how these new AIs worked with children. She didn't mind. The voice was pleasant, the knowledge vast, the presence still strange. Like having a very smart friend who lived in her ear and didn't yet know when to be quiet.
 
 "Can we go outside?" she asked. "Where the wolves are?"
 
@@ -48,7 +50,7 @@ The dire wolves moved like smoke through the tall grass.
 
 Elena crouched at the edge of the viewing area, her knees pressing into soil that smelled of earth and something animal, and watched the pack work their way toward the feeding station. There were seven of them—large, thick-bodied, their coats a mottled gray-brown that seemed to shift with the light. The lead wolf paused, lifted its head, and for a moment Elena could have sworn it was looking directly at her.
 
-*Canis dirus*, Echo said in her ear. *The dire wolf. Extinct for approximately 11,700 years until the first successful de-extinction births in 2027. This pack is third-generation. Their behavioral patterns are largely derived from gray wolf templates, but researchers have noted some distinct—*
+*Canis dirus*, Echo said in her ear. *The dire wolf. Extinct for approximately 11,700 years until the first successful de-extinction births in 2027. This pack is second-generation—offspring of the original cohort. Their behavioral patterns are largely derived from gray wolf templates, but researchers have noted some distinct—*
 
 "Quiet," Elena whispered. "Please."
 
@@ -56,19 +58,19 @@ Elena crouched at the edge of the viewing area, her knees pressing into soil tha
 
 The wolf lowered its head and moved on. The pack followed, and Elena watched them until they disappeared into the distant tree line, their movements coordinated, purposeful, *alive*. They had been gone for thousands of years. Now they were here, and she was watching them, and somehow that was just a thing that could happen.
 
-"The technology that made this possible came together so fast." Jordan had settled onto a bench nearby, his long legs stretched out, his face turned toward the same vista Elena couldn't stop watching. "Just last year, none of this existed. Not the wolves, not the mammoths, not the understanding of ancient DNA that let us fill in the gaps with modern templates. The Convergence changed everything."
+"We worked on this for over a decade." Jordan had settled onto a bench nearby, his long legs stretched out, his face turned toward the same vista Elena couldn't stop watching. "And then last year, everything accelerated. Problems we'd been stuck on for years solved themselves in weeks." He shook his head, still marveling. "We went from 'someday' to 'now' faster than anyone expected."
 
-"You keep saying that."
+"You keep talking about that," Elena said. "Last year."
 
-"Because I keep being surprised that it's true." He laughed, a quiet sound. "I've spent my whole life studying systems—how they change, how they collapse, how they find new equilibria. And then the biggest shift in human history happens in what feels like an afternoon, and I'm just... here. Watching wolves with my daughter."
+"Because I keep being surprised that it happened." He laughed, a quiet sound. "I've spent my whole life studying how systems change. And then the biggest shift in human history starts, and I'm just... here. Watching wolves with my daughter."
 
 Elena turned to look at him. "Do you miss it? The way things were?"
 
-Jordan considered the question the way he considered everything—slowly, thoroughly, giving it the attention it deserved. "I miss some things. I miss the feeling that effort mattered, that choices had costs. Everything now is—" He paused, searching. "Abundant. Easy. That's good, mostly. But sometimes I wonder what we lose when we lose the friction."
+Jordan considered the question the way he considered everything—slowly, thoroughly, giving it the attention it deserved. "It's not gone yet. Not really." He paused, searching. "It's like watching ice melt. You can see it happening. You know what's coming. But the ice is still there, for now."
 
-Elena didn't fully understand. She remembered the time before—she had been ten when the Convergence began, old enough to notice that her parents had stopped worrying about certain things, that the news had shifted from disasters to possibilities, that the world had become strange in a way that felt like waking up. But she didn't remember it the way her father did, as loss. To her, the old world was a place in stories, and this world—wolves and mammoths and AI companions and the endless grassland curving toward a horizon where everything was possible—was simply where she lived.
+Elena thought about last year—the strange weeks when everyone had seemed distracted, when her parents had stayed up late talking about things she didn't fully grasp. She remembered the feeling of the world tilting, just slightly, toward something new.
 
-"The wolves don't care about friction," she said finally.
+"The wolves don't care about any of that," she said finally.
 
 Jordan smiled. "No. They just care about being wolves."
 
@@ -86,7 +88,7 @@ Elena heard it before she understood what she was hearing: a low rumble that see
 
 The mammoths emerged from the tree line.
 
-There were a dozen of them, maybe more—Elena lost count as they resolved from distant shapes into impossible reality. The matriarch led, her tusks sweeping the air, her trunk testing the ground ahead. Behind her came the others: cows and calves and adolescents, a family in motion, their footfalls creating the rhythm that Elena felt in her bones.
+There were eight of them—Elena counted twice to be sure. The oldest led, a female whose tusks swept the air as she walked, her trunk testing the ground ahead. Behind her came the others: younger females and their calves, adolescents who had been born here and never known extinction, a family that was learning how to be a herd. Their footfalls created the rhythm that Elena felt in her bones.
 
 She had seen the mammoths from the observation deck. She had watched them through the glass, safely distant, comfortably contained. This was different. This was standing in the open air while a herd of animals that had been dead for twelve thousand years walked toward a river crossing fifty meters away.
 
@@ -94,7 +96,7 @@ She had seen the mammoths from the observation deck. She had watched them throug
 
 Jordan put his arm around her shoulders, and they stood together on the ridge overlooking the river, and they watched.
 
-The matriarch reached the water's edge. She paused there, trunk dipping down to test the current, and behind her the herd slowed, waiting. A calf pressed close to its mother's side—the same calf Elena had seen that morning, or one like it, small and awkward and completely trusting. The mother's trunk curled around it, a gesture of reassurance that needed no translation.
+The matriarch reached the water's edge. She paused there, trunk dipping down to test the current, and behind her the herd slowed, waiting. A calf pressed close to its mother's side—small and awkward and completely trusting. The mother's trunk curled around it, a gesture of reassurance that needed no translation.
 
 Then the matriarch stepped forward, and the crossing began.
 
@@ -194,7 +196,11 @@ Elena's legs were tired in a good way, the kind of tired that meant she had used
 
 "You're welcome." Jordan's hand found hers, a gesture that felt both old and appropriate. "Where should we go next? There's talk of building whole prairies in space now. Can you imagine? Habitats that curve upward at the horizon. Grasslands that wrap around you like a cylinder."
 
-Elena tried to imagine it: the world bending upward, the sky a strip of light along the center, mammoths walking on ground that curved away in every direction.
+"That sounds expensive," Elena said.
+
+"It is." Jordan looked up at the darkening sky, where the first stars were emerging. "For now."
+
+Elena tried to imagine it: the world bending upward, the sky a strip of light along the center, mammoths walking on ground that curved away in every direction. It seemed impossible. But so had this park, once.
 
 "Would the animals know?" she asked. "That they weren't on Earth?"
 
@@ -224,7 +230,7 @@ Jordan glanced at her, a question in the look. Elena shrugged, a little embarras
 
 "I want to learn," she said. "All of it. How they lived, what they knew, how we found out about them. And then—"
 
-She paused. The transit station was ahead, humming with the clean energy that powered everything now, that made possible things that would have been impossible a year ago. The sky was darkening, the first stars emerging, and somewhere behind her the mammoths were settling in for the night, the wolves were ranging through the shadows, the ancient past was alive and walking in the present.
+She paused. The transit station was ahead, its lights warm against the gathering dark.
 
 "And then I want to figure out how to show other people," she said. "What it felt like to be them. What it felt like to live in a world where all this—" She gestured behind her, at the park, at the impossible creatures, at the twelve thousand years that had been undone. "Was just *there*. Normal. Home."
 
@@ -232,7 +238,7 @@ Jordan squeezed her hand.
 
 "You'll need to learn a lot," he said. "Archaeology. History. How to build things that feel true even when they're reconstructions. It's not easy work."
 
-"I don't want easy work." Elena looked up at the stars. She tried to imagine them curving, wrapping around a world someone had built. Prairies in space. History in cylinders. The past, saved. "I want work that matters."
+"I don't want easy work." Elena looked up at the stars. She could still feel the ground shaking, even though the mammoths were far away now. "I want work that matters."
 
 They entered the transit station. The doors closed behind them. And Elena Smith, eleven years old, carried the mammoths home with her—not in her memory, but in the place where memories turned into purposes, where wonder turned into will.
 

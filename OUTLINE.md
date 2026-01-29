@@ -68,21 +68,10 @@ Once the proposal passes the legislative stage, the group must pivot to the form
 
 ---
 
-## PROLOGUE
-
-### Ice Age Park (Elena, 2030)
-Eleven-year-old Elena visits Ice Age Park in Montana with her father Jordan, a co-founder of the facility. This is one year after AGI (2029), and the mammoths—born around 2027—are now three-year-old calves and juveniles. Echo, a post-AGI artificial intelligence, is newly assigned to Elena during the visit.
-
-The chapter establishes Elena's formative moment of wonder: watching young mammoths cross a river, learning about the Clovis people who once lived alongside these animals, and crystallizing her vocation—not to resurrect animals, but to help people understand what it felt like to live in worlds that are gone. Jordan's observation plants the seed: "You can't bring back people. But you can help others understand what their world was like."
-
-This chapter introduces the Convergence as early gradient (AGI exists, but UBS and cheap automation are still years away), Elena's external augmentation philosophy, and the seventeen-year partnership with Echo that will define her career.
-
----
-
 ## PART I — THE PROPOSAL (2047)
 
 ### The Sanctuary (Elena)
-Establishment of "American Tapestry" and Elena's "Essentialist" craft. Elena is now 28, working in her space-based sanctuary cylinder—seventeen years after the formative experience at Ice Age Park.
+Establishment of "American Tapestry" and Elena's "Essentialist" craft. Elena is 28, working in her space-based sanctuary cylinder. Flashbacks to Ice Age Park (2030) weave through the chapter, contrasting the early Convergence (Earth-based park, Echo as a new AI, expensive/exclusive access, mammoths as three-year-old calves) with the mature world of 2047 (space habitats, seventeen-year partnership with Echo, widespread abundance). The chapter establishes her formative experience without requiring a separate prologue.
 
 ### The Visit (Solène)
 Solène experiences the "beauty without stakes" of Elena's work.
