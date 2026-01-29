@@ -8,7 +8,7 @@ The notification arrived while Elena was watching the Delgados disappear down th
 
 "Elena." Echo's voice shifted register—not alarm, but attention. The particular tone that meant: *this matters*. "A governance proposal just dropped. NG-2047-31. You'll want to see this."
 
-Elena pulled up her glasses. Governance proposals arrived monthly, and most were housekeeping: consent language updates, accessibility standards, the slow accumulation of institutional sediment. She almost dismissed it by reflex.
+Elena pulled up her glasses. Governance proposals arrived monthly—sanctuary operators voted on them, setting the rules that bound the network together—and most were housekeeping: consent language updates, accessibility standards, the slow accumulation of institutional sediment. She almost dismissed it by reflex.
 
 "Why this one?"
 
@@ -96,7 +96,7 @@ This proposal would end that. Mira would have to abandon her approach or leave.
 
 "The proposal cites 'clarity of network identity' and 'the upcoming recertification cycle.' It frames the expedited timeline as responsive rather than aggressive."
 
-Elena thought about her father, about the phrase he used when institutions moved faster than people could follow: *capture-by-tempo*. The language was neutral. The timeline was not.
+Elena thought about her father, about the phrase he used when institutions moved faster than people could follow: *capture-by-tempo*. Move quickly enough, and opposition never has time to organize. The language was neutral. The timeline was not.
 
 "How many sanctuaries have approved now?"
 

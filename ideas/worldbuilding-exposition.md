@@ -7,26 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 4 — *The Proposal*
-
-- **What is a "governance proposal" in this world?**
-  - **What shows up**: proposals arrive monthly; sanctuaries "approve" rapidly; numbers climb.
-  - **The gap**: Who votes (operators? users?), what "approval" means (binding? advisory?), and why tens of thousands can approve in hours.
-
-- **Network structure: "membership" and "shared infrastructure"**
-  - **What shows up**: identity systems, consent protocols, discovery services, safety tooling; "delisted" risk.
-  - **The gap**: What the network provides that is *scarce* (trust/brand/data), and what happens to an operator outside it.
-
-- **"Network Philosophy Working Group" appearing from nowhere**
-  - **What shows up**: an influential manifesto by an unfamiliar group with no public record.
-  - **The gap**: Whether this is normal (working groups are common) or suspicious (new entity with outsized power).
-
-- **Tempo / "capture-by-tempo"**
-  - **What shows up**: Elena cites her father's phrase; 45 vs 180 days.
-  - **The gap**: The concept itself ("moving faster than opposition can organize").
-
----
-
 ## Chapter 5 — *The Safety Case*
 
 - **Who/what is "the Executive"?**
