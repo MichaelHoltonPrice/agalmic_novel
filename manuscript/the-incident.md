@@ -24,7 +24,7 @@ At American Tapestry, the consent forms had been thorough but routine—emotiona
 
 "And permissive-tier?"
 
-A pause. Not processing—deliberate. "Permissive-tier removes most intervention protocols. Physical injury is possible. The habitat will not soften consequences for you. Medical extraction occurs only for immediately life-threatening situations."
+A pause. Not processing—deliberate. "Permissive-tier removes most intervention protocols. Physical injury is possible. The habitat will not soften consequences for you. Medical extraction occurs only for immediately life-threatening situations." Another pause. "The network permits this option because it believes informed adults have the right to accept genuine risk. Not everyone agrees. But the choice is yours."
 
 "What counts as life-threatening?"
 
@@ -116,11 +116,11 @@ The aircraft was small, white, clinical—a medical extraction drone, descending
 
 "What? No. I signed—"
 
-"The AI swarm flagged your injury as requiring extraction. I don't have authority to override." She was already standing, stepping back, making room for the drone to land. Her body language said she'd done this before. Her face said she hated it every time.
+"The sanctuary network—the organization that connects all of us, sets shared standards, provides the infrastructure—their AI swarm flagged your injury as requiring extraction. I don't have authority to override." She was already standing, stepping back, making room for the drone to land. Her body language said she'd done this before. Her face said she hated it every time.
 
 "I consented to this," Solène said. The drone settled onto the ground ten meters away, its rotors winding down, a hatch sliding open to reveal a sterile medical bay inside. "I signed the agreement. The injury isn't life-threatening—"
 
-"The swarm deliberated in under three seconds and decided your injury crossed their threshold. Compound fractures, infection risk, recovery complexity—they have a hundred frameworks running in parallel, and somehow they nearly always converge on extraction." She wouldn't meet Solène's eyes. "I've been arguing with their outcomes for two years. I keep losing."
+"The swarm—dozens of AIs deliberating together, checking each other's reasoning—decided in under three seconds that your injury crossed their threshold. Compound fractures, infection risk, recovery complexity—they have a hundred ethical frameworks running in parallel, and somehow they nearly always converge on extraction." She wouldn't meet Solène's eyes. "I've been arguing with their outcomes for two years. I keep losing."
 
 Two figures emerged from the drone—not human, or not entirely, their movements too smooth, their faces too calm. Medical technicians, AI-driven or heavily augmented, Solène couldn't tell and it didn't matter. They were already walking toward her with a stretcher.
 
@@ -134,7 +134,7 @@ Shame. Not hers. The system's.
 
 She was healed in less than two hours.
 
-The medical systems were efficient, thorough, kind. Her ankle rebuilt itself while she lay in a sterile pod and watched readouts she didn't understand. A calm voice explained the procedure, offered her water, asked if she was comfortable. Everything about the experience was designed to reassure her that she was cared for, that the network had her best interests at heart, that this had all been for her own good.
+The medical systems were efficient, thorough, kind. Her ankle rebuilt itself—bone knitting, tissue regenerating—while she lay in a sterile pod and watched readouts she didn't understand. She didn't marvel at it. No one did anymore. A calm voice explained the procedure, offered her water, asked if she was comfortable. Everything about the experience was designed to reassure her that she was cared for, that the network had her best interests at heart, that this had all been for her own good.
 
 She didn't speak. She didn't answer the survey questions. When they released her, she walked out on two perfect ankles and felt nothing at all.
 

@@ -7,34 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 3 — *The Incident*
-
-- **Consent tiers: "safe-tier" vs "permissive-tier"**
-  - **What shows up**: a fork with two options, then "permissive-tier removes most intervention protocols."
-  - **The gap**: What makes "permissive-tier" legally/morally permitted in this society (why it exists, what the boundaries are, who sets them).
-
-- **"The habitat will not soften consequences" (what can actually hurt you?)**
-  - **What shows up**: scorpion, centipedes, death adders, infection risk.
-  - **The gap**: Whether the dangers are real biology, engineered approximations, or controlled simulations. A non-SF reader may not know how literal the stakes are.
-
-- **Proto-language reconstruction**
-  - **What shows up**: reconstructed Proto-Oceanic song with glosses.
-  - **The gap**: How language reconstruction is done here (AI inference? scholarly debate?) and whether visitors are hearing "best guess" vs "authentic recording."
-
-- **Medical extraction drone + "network safety systems" authority**
-  - **What shows up**: drone arrives; operator says "the swarm flagged… I don't have authority to override."
-  - **The gap**: What "the network" is (a membership org? platform? regulator?) and why it can override a signed consent choice.
-
-- **"AI swarm deliberated in under three seconds"**
-  - **What shows up**: swarm does ethical triage instantly.
-  - **The gap**: That "your AI" is often a committee of many AIs (a swarm), not a single mind. The concept is introduced mid-crisis without grounding.
-
-- **Healing in two hours**
-  - **What shows up**: broken ankle → fully healed quickly.
-  - **The gap**: The baseline medical tech (nanomedicine/regeneration) and how routine it is. Without this, the healing reads as magic.
-
----
-
 ## Chapter 4 — *The Proposal*
 
 - **What is a "governance proposal" in this world?**
