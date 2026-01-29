@@ -7,22 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 1 — *The Sanctuary*
-
-- **Biometric "intake profile" + emotional baselines**
-  - **What shows up**: cortisol signatures, heart/breathing baselines used to pace experiences.
-  - **The gap**: How the sanctuary is allowed to read this data (visitor consent? standard practice?) and whether it comes from wearables, implants, or the environment.
-
-- **"NPCs / behavioral models" in a physical space**
-  - **What shows up**: Morrison family is staged, appears like "people," later called NPCs in Ch2.
-  - **The gap**: What these "NPCs" *are* physically (robots? bio-constructs? projected avatars? actors?) and how visitors perceive them (do they know? is it disclosed?).
-
-- **Human longevity**
-  - **What shows up**: Elena is 28 and has worked with Echo for 17 years; later she is treated as a peer to "founders" who remember the pre-Convergence world.
-  - **The gap**: That aging has been solved and humans can live centuries. Without this, Elena's timeline and status are confusing.
-
----
-
 ## Chapter 2 — *The Visit*
 
 - **"Cortics" terminology**
