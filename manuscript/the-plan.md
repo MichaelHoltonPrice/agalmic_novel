@@ -14,7 +14,7 @@ Kenji had arranged for one of his AI systems to facilitate. It manifested as a s
 
 "Please," Mira said.
 
-"You have two formal veto paths and several informal influence channels." The pattern shifted, organizing itself into a simple diagram. "The formal options: First, the **Guardian Triad** can block the proposal by unanimous vote. This requires demonstrating that the proposal violates network principles or creates irreversible harm. Second, a **User Veto**—two-thirds of active end-users can override the operator vote. This has never been achieved for a governance proposal."
+"You have two formal veto paths and several informal influence channels." The pattern shifted, organizing itself into a simple diagram. "The formal options: First, the **Guardian Triad** can block the proposal by majority vote. This requires demonstrating that the proposal violates network principles or creates irreversible harm. Second, a **User Veto**—two-thirds of active end-users can override the operator vote. This has never been achieved for a governance proposal."
 
 "What counts as an active end-user?" Raj asked.
 

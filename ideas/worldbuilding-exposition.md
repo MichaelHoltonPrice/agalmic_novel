@@ -206,10 +206,9 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 ## Chapter 11 — *The Plan*
 
 - **Guardian Triad / User Veto mechanics**
-  - **What shows up**: introduced as core plot machinery; "unanimous vote" claim here conflicts with later 2–1 outcome.
+  - **What shows up**: introduced as core plot machinery.
   - **The gap**:
     - What the Triad is (oversight body).
-    - What it takes to veto (unanimous vs majority—currently inconsistent with Ch 13).
     - What the User Veto is and why eligibility requires "two physical visits."
 
 ---
@@ -308,8 +307,3 @@ This document lists world/tech/governance concepts that the manuscript mentions 
   - **What shows up**: Mira can't adjust her resort anymore; she's "a guest."
   - **The gap**: That ownership/control is access-controlled. Without earlier setup, this emotional beat requires readers to reverse-engineer how "operator permissions" work.
 
----
-
-## Consistency Note
-
-- **Guardian Triad veto rule**: Chapter 11 states the Triad veto requires a **unanimous** vote; Chapter 13 shows a **2–1** decision being sufficient to deny the appeal (and implies a 2–1 could have granted it). This is a direct contradiction in core plot machinery.
