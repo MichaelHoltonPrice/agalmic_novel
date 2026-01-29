@@ -8,7 +8,7 @@ The contract existed before they signed it.
 
 The enumeration had taken most of a day—not because of processing time, but because of light. Mira's sanctuary orbited near L4, Elena's cylinder was in the inner belt, Kenji's habitats scattered across three different orbital positions. Even at lightspeed, round-trip delays of twenty or thirty minutes added up when you needed multiple confirmations and cross-references. Each sanctuary's AI systems had cataloged their own assets in milliseconds, but coordinating across the inner solar system meant waiting for confirmations to crawl back and forth at 300,000 kilometers per second.
 
-Kenji's swarm had volunteered to coordinate—someone had to—but the actual work was distributed across dozens of specialized agents, each with intimate knowledge of their respective systems. Mira's atmospheric composition AIs. Elena's emotional pacing frameworks. Yusuf's stratigraphic modeling engines. Two parallel inventories: the intellectual property—design algorithms, sensory calibrations, decades of methodology—and the physical infrastructure—the habitats themselves, the environmental systems, the equipment that made the reconstructions real.
+Kenji's swarm had volunteered to coordinate—someone had to—but the actual work was distributed across dozens of specialized agents, each with intimate knowledge of their respective systems. Mira's atmospheric composition AIs. Elena's emotional pacing frameworks. Yusuf's stratigraphic modeling engines. Two parallel inventories: the intellectual property—design algorithms, sensory calibrations, years of methodology—and the physical infrastructure—the habitats themselves, the environmental systems, the equipment that made the reconstructions real.
 
 The lists scrolled past Elena's glasses in neat columns. Schedule A: eighty-seven thousand discrete IP assets, from canalization heuristics to emotional pacing frameworks. Schedule B: six major sanctuary habitats, their life support systems, fabrication equipment, sensor arrays. Her entire life's work, reduced to transferable files and deeded property.
 
@@ -70,7 +70,7 @@ Elena watched the names accumulate. Three signed. One remaining.
 
 She stepped forward.
 
-Her hand rose to the interface. She thought about American Tapestry—the thirty kilometers of reconstructed prairie, the decades of refinement, the visitors who had wept in her Nebraska dust. She thought about the methodology she had developed, the frameworks that other archaeologists had studied and adapted. She thought about ownership, and what it meant, and why she was about to give it away.
+Her hand rose to the interface. She thought about American Tapestry—the thirty kilometers of reconstructed prairie, the years of refinement, the visitors who had wept in her Nebraska dust. She thought about the methodology she had developed, the frameworks that other archaeologists had studied and adapted. She thought about ownership, and what it meant, and why she was about to give it away.
 
 *The cost makes it honest.*
 

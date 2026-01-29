@@ -8,7 +8,7 @@ The caravanserai stretched before her—a courtyard of fired brick and carved st
 
 A new message arrived from Kenji: "A draft. The buffalo ate the eastern wing." Elena laughed.
 
-The courtyard was filling. She recognized faces from conferences, from collaborations, from decades of professional friction. Raj was examining the tilework with a jeweler's loupe. Lena was arguing with someone about the placement of a brazier. Others milled in clusters, drinks in hand, voices low.
+The courtyard was filling. She recognized faces from conferences, from collaborations, from years of professional friction. Raj was examining the tilework with a jeweler's loupe. Lena was arguing with someone about the placement of a brazier. Others milled in clusters, drinks in hand, voices low.
 
 And there, standing alone by the far colonnade, was Mira.
 
@@ -142,7 +142,7 @@ Mira looked around the courtyard—at the tilework, the fountain, the silk banne
 
 Something in Mira's face relaxed. Not completely—Elena suspected that would take days—but enough. "You built this for me."
 
-"We built it for us." Kenji handed Elena the other drink. "All of us. Because we've spent thirty years arguing about methodology, and I thought we should remember that the arguments were never the point."
+"We built it for us." Kenji handed Elena the other drink. "All of us. Because we've spent our whole careers arguing about methodology, and I thought we should remember that the arguments were never the point."
 
 Yusuf's voice cut through the moment, characteristically grim. "The vote count is still climbing. Sixty-three percent support as of an hour ago."
 
@@ -170,7 +170,7 @@ Mira looked at her sharply. "What?"
 
 "It's honest."
 
-The argument fractured into smaller debates. Elena heard Henrik—three seats down, a voice she'd known for twenty years—say something about "liability exposure" and "responsible stewardship." Chen was nodding along. Raj was trying to find middle ground that didn't exist.
+The argument fractured into smaller debates. Elena heard Henrik—three seats down, a voice she'd known since the early days—say something about "liability exposure" and "responsible stewardship." Chen was nodding along. Raj was trying to find middle ground that didn't exist.
 
 Mira had gone quiet, watching the table splinter.
 

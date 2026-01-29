@@ -8,7 +8,7 @@ Kenji started with the question that had been bothering him since the call ended
 
 "How do you get attention?" he asked his swarm. "Real attention—not a glance, not a share, but the kind where someone actually stops and thinks. We've got the arguments. When people engage, eighty-three percent vote our way. But most people haven't engaged at all. They haven't seen Solène's essay. They haven't seen the proposal. They're not ignoring us—they just don't know we exist."
 
-His personal swarm had evolved over decades into something like an extended family—dozens of specialized agents with distinct voices, optimized for different kinds of thinking. He'd configured them for adversarial brainstorming—propose solutions, then tear them apart.
+His personal swarm had evolved over the years into something like an extended family—dozens of specialized agents with distinct voices, optimized for different kinds of thinking. He'd configured them for adversarial brainstorming—propose solutions, then tear them apart.
 
 "Give me options," he said. "Every plausible way to reach fourteen million people in ten days. Then tell me why each one won't work."
 
@@ -160,7 +160,7 @@ Mira looked up.
 
 Everyone looked at her.
 
-"Our intellectual property. The design foundations, the proprietary techniques, the systems we've spent decades building." Her voice was steady. "The things that make our sanctuaries *ours*. And the sanctuaries themselves."
+"Our intellectual property. The design foundations, the proprietary techniques, the systems we've spent years building." Her voice was steady. "The things that make our sanctuaries *ours*. And the sanctuaries themselves."
 
 "You're talking about... giving it all away?" Yusuf said.
 

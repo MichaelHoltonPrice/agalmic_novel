@@ -6,7 +6,7 @@ They gathered early. Elena counted nine: herself, Mira, Kenji, Yusuf, Raj, two c
 
 "I'm not sure I'm opposed," Lena had said when Mira raised an eyebrow. "But I'm sure I want to understand what opposing looks like."
 
-The formality of the dinner was gone. So was some of the defensive tension. What remained was a room full of people who had spent decades arguing about methodology, trying to find common ground on something larger.
+The formality of the dinner was gone. So was some of the defensive tension. What remained was a room full of people who had spent years arguing about methodology, trying to find common ground on something larger.
 
 The vote count had crossed the two-thirds threshold overnight—seventy-one percent of sanctuaries now in favor of NG-2047-31. Technically, individual sanctuaries could still change their votes until the resolution window closed, but no one in the room expected that to happen. The proposal would pass. The only question now was whether it could be vetoed.
 
@@ -70,13 +70,13 @@ Yusuf raised an imaginary cup. "To the death adders."
 
 Kenji mimed the gesture. "To the buffalo we never herded."
 
-Elena joined them. "To thirty years of arguments."
+Elena joined them. "To all the arguments."
 
 One by one, the others raised their hands—Raj, the two colleagues, even Lena after a moment's hesitation.
 
 Mira was last. She lifted her hand to meet theirs. "To finishing what we started."
 
-They held the moment—nine people who had spent decades disagreeing about everything, finally trying to build something together.
+They held the moment—nine people who had spent years disagreeing about everything, finally trying to build something together.
 
 Outside, the waves kept breaking. The resolution window was still open. And somewhere out there, fourteen million users were going about their lives, unaware that anything was at stake.
 

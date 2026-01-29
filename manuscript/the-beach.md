@@ -68,7 +68,7 @@ Yusuf glared at them. "I was going to say 'epistemologically adventurous.'"
 
 "You were going to say 'guesses with better graphics,'" Kenji said confidently. "You've been saying it since Luna."
 
-"It bears repeating." But Yusuf's glare softened into something almost fond. "Twenty-five years, and you two still can't let me finish a sentence."
+"It bears repeating." But Yusuf's glare softened into something almost fond. "All these years, and you two still can't let me finish a sentence."
 
 Elena leaned back in her chair, feeling something loosen in her chest. The reconstructed sun was perfect—warm without burning, the light golden and slightly hazy in a way that said *late afternoon, tropical, no obligations*. For a moment, she could almost forget why they were here.
 

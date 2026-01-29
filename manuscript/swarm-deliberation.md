@@ -43,7 +43,7 @@ New data appeared:
 *Religious synthesis: 12%*
 *Virtue ethics: 7%*
 
-He stared at the distribution. Consequentialism and deontology dominated—that made sense. Standard ethical frameworks, ones he recognized from decades of governance work. Expected outcomes, duty-based obligations. Familiar territory.
+He stared at the distribution. Consequentialism and deontology dominated—that made sense. Standard ethical frameworks, ones he recognized from years of governance work. Expected outcomes, duty-based obligations. Familiar territory.
 
 But zero-point ethics? Eighteen percent? He'd never heard of it, and yet it was the third most invoked framework in a decision affecting someone's life.
 
