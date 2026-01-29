@@ -7,26 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 2 — *The Visit*
-
-- **"Cortics" terminology**
-  - **What shows up**: Solène's "cortics" feed her contextual overlays; she can "dim" them.
-  - **The gap**: What "cortics" means (shorthand for cortical mesh/interface) and how the experience feels (inner voice? overlay? shared attention?).
-
-- **How a visitor "arrives" at a sanctuary (transit pod / arrival bay)**
-  - **What shows up**: transit pods, arrival bays, cylinders in space.
-  - **The gap**: Where her body is coming from (Earth? station? another habitat?) and what "travel" means in this era (hours vs days, routine vs rare).
-
-- **"Most sanctuaries hosted multiple groups" / personalization**
-  - **What shows up**: Solène is alone; she infers it's personalized.
-  - **The gap**: The operating model for sanctuaries (booked like resorts? theme-parks with concurrent groups? algorithmically tailored?).
-
-- **What is "historical context info" and where does it come from?**
-  - **What shows up**: cortics provide dates/routes/mortality stats automatically.
-  - **The gap**: Whether this is public metadata, sanctuary-provided, or a universal info-net—i.e., what "knowledge access" looks like in this world.
-
----
-
 ## Chapter 3 — *The Incident*
 
 - **Consent tiers: "safe-tier" vs "permissive-tier"**

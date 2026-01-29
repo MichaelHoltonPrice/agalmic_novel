@@ -6,7 +6,7 @@
 
 She knew what she was looking for. She just didn't know if it existed.
 
-The transit pod released her into the arrival bay, and she stood for a moment in the threshold, letting the pressure equalize. Through the viewport, the cylinder's interior curved away in both directions—thirty kilometers of reconstructed American prairie, the grasses rippling under a wind she couldn't yet feel. The horizon bent upward at the edges, a reminder that this was a container, not a world. Most visitors stopped noticing after a few hours. She never did.
+The transit pod released her into the arrival bay—Los Angeles to low Earth orbit to the inner belt, eighteen hours of travel she'd spent mostly sleeping—and she stood for a moment in the threshold, letting the pressure equalize. Through the viewport, the cylinder's interior curved away in both directions—thirty kilometers of reconstructed American prairie, the grasses rippling under a wind she couldn't yet feel. The horizon bent upward at the edges, a reminder that this was a container, not a world. Most visitors stopped noticing after a few hours. She never did.
 
 This was her seventh sanctuary in three months. She'd walked through the temple reconstructions at Angkor. She'd stood in a Florentine workshop while a behavioral model of Leonardo explained fresco technique. She'd felt the spray of simulated ocean in a dozen different enclaves. Each time, she'd felt something—admiration, sometimes awe, occasionally a sharp stab of beauty that took her breath away.
 
@@ -18,9 +18,9 @@ The entry gate opened, and the prairie swallowed her whole.
 
 The dust was the first thing she noticed. It tasted bitter, metallic, wrong in a way that felt *right*. Someone had thought carefully about this dust. Someone had calibrated it. For what, she wasn't yet sure, but she appreciated the craft. She always appreciated the craft.
 
-The wagon trail stretched ahead, rutted and sun-baked, and she followed it because that's what visitors did. Her cortics fed her contextual information—dates, routes, mortality statistics—but she'd learned to dim that stream when she was in sanctuaries. The data interfered with whatever she was trying to feel. Or trying to fail to feel. She wasn't always sure which.
+The wagon trail stretched ahead, rutted and sun-baked, and she followed it because that's what visitors did. Her cortics—the cortical mesh threaded through her brain, the interface most people her age had grown up with—fed her contextual information that the sanctuary provided: dates, routes, mortality statistics, all of it flowing into her awareness like memories she'd never made. But she'd learned to dim that stream when she was in sanctuaries. The data interfered with whatever she was trying to feel. Or trying to fail to feel. She wasn't always sure which.
 
-The trail was empty except for her. Most sanctuaries hosted multiple groups at once, but this one felt different—curated, personalized, like someone had designed it with attention for exactly who would walk through. She appreciated that. Or she would, if she could figure out what it was trying to give her.
+The trail was empty except for her. Most sanctuaries hosted multiple groups at once, visitors slotted into parallel experiences that rarely intersected. But this one felt different—she'd requested a solo visit when she booked, and someone had actually honored that, curating the experience for exactly who would walk through. She appreciated that. Or she would, if she could figure out what it was trying to give her.
 
 ---
 
