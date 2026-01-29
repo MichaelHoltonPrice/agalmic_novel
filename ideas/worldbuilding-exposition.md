@@ -9,22 +9,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ## Chapter 1 — *The Sanctuary*
 
-- **Boundary sanctuaries / "sanctuary" as a concept**
-  - **What shows up**: Elena is calibrating historical hardship experiences for paying visitors.
-  - **The gap**: The reader doesn't learn what a sanctuary *is* (curated historical hardship as a voluntary experience), how common they are, or why people seek them out.
-
-- **The setting is a rotating space habitat ("cylinder")**
-  - **What shows up**: "thirty kilometers… wrapped around the interior of her cylinder," a horizon that "curved," an artificial sky.
-  - **The gap**: It isn't unmistakably clear that this is a giant rotating space habitat in orbit, not a valley, dome, or VR simulation. The fact that rotation provides "gravity" is never stated.
-
-- **Augmentation baseline: Elena's external augmentation vs "cortical mesh"**
-  - **What shows up**: Elena wears glasses/earbuds; "Most people her age had cortical mesh…"
-  - **The gap**: What cortical mesh *is* (a brain/neural interface), what it does day-to-day, and why Elena's choice of external augmentation is unusual or philosophically meaningful.
-
-- **Echo: what kind of AI is this, in-world?**
-  - **What shows up**: Echo speaks as a companion; has deep access to systems; "barely a year old" in 2028-ish framing.
-  - **The gap**: Whether Echo is a personal assistant, a legally-recognized person, a distributed "swarm," etc.—and why its presence is culturally normal.
-
 - **Biometric "intake profile" + emotional baselines**
   - **What shows up**: cortisol signatures, heart/breathing baselines used to pace experiences.
   - **The gap**: How the sanctuary is allowed to read this data (visitor consent? standard practice?) and whether it comes from wearables, implants, or the environment.
@@ -32,18 +16,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 - **"NPCs / behavioral models" in a physical space**
   - **What shows up**: Morrison family is staged, appears like "people," later called NPCs in Ch2.
   - **The gap**: What these "NPCs" *are* physically (robots? bio-constructs? projected avatars? actors?) and how visitors perceive them (do they know? is it disclosed?).
-
-- **"Convergence" as a historical hinge**
-  - **What shows up**: characters casually reference "the Convergence" and "scarcity" vs "abundance."
-  - **The gap**: What the Convergence was (the swift transition to post-scarcity via AI/automation, starting around 2027) and when it happened relative to the present day.
-
-- **Virtual vs physical access gradient**
-  - **What shows up**: "virtually—millions did… streamed free to anyone with cortical mesh—but they'd chosen to come here in person."
-  - **The gap**: Why physical presence (embodied travel taking days) still matters culturally when virtual access is free and nearly identical.
-
-- **Post-scarcity economics / Universal Basic Services**
-  - **What shows up**: implied by the entire premise (people travel for days to experience hardship).
-  - **The gap**: How people afford to live, travel, and pursue vocations without traditional jobs. The economic foundation of the world is never stated.
 
 - **Human longevity**
   - **What shows up**: Elena is 28 and has worked with Echo for 17 years; later she is treated as a peer to "founders" who remember the pre-Convergence world.
