@@ -7,27 +7,7 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 12 — *The Critique*
-
-- **"Pen and paper" as a deliberate constraint**
-  - **What shows up**: Solène insists on no AI assist; cortics can be "silenced."
-  - **The gap**: What AI-assisted writing is normally like in this world, and why "unassisted" is morally salient.
-
-- **Wanderer's Rest / L5**
-  - **What shows up**: a location marker that assumes familiarity (Lagrange points).
-  - **The gap**: What "L5" refers to (e.g., "a hostel cluster at the Earth–Moon L5 Lagrange point").
-
 ---
-
-## Chapter 13 — *The Guardian Appeal*
-
-- **Triad Chamber / separate orbits**
-  - **What shows up**: separate station, separate orbit, deliberate independence.
-  - **The gap**: Why physical separation matters in a world of remote presence (legitimacy theater? security? independence).
-
-- **AI Guardian as a "presence"**
-  - **What shows up**: no body; geometric projection.
-  - **The gap**: Whether this is a projection of a remote entity, an AI running locally on the station, or a committee/swarm presented as one voice.
 
 ---
 

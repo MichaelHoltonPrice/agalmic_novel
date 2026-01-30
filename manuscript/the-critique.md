@@ -4,7 +4,7 @@
 
 ---
 
-She wrote it in one sitting. By hand, with pen and paper and no AI assist.
+She wrote it in one sitting. By hand, with pen and paper and no AI assist—the way almost no one wrote anymore.
 
 She wanted every word to be hers—not suggested, not polished, not optimized for engagement by something that understood audiences better than she did. If she was going to accuse the network of deciding what people should want, she would do so in her own words.
 
@@ -86,7 +86,7 @@ Mira Chen. Lapita Horizons. The sanctuary she'd been defending in every essay si
 
 Solène had never met her—not really. She'd signed the consent forms Mira had designed, walked the paths Mira had built, been extracted from the world Mira had created. But they'd never spoken. The proposal would eliminate everything Mira stood for.
 
-Her AI flagged the orbital data automatically: Wanderer's Rest to Lapita Horizons, half a light-second. Close enough.
+Her AI flagged the orbital data automatically: Wanderer's Rest—the hostel cluster at Earth-Moon L5, one of the stable points where the two bodies' gravity balanced—to Lapita Horizons, half a light-second. Close enough for real-time conversation.
 
 She typed her reply before she could second-guess it.
 

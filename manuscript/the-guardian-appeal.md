@@ -42,7 +42,7 @@ To the left, the **Legacy Guardian**. A man who looked like he’d been carved o
 
 To the right, the **Contemporary Trust Guardian**. Younger, sharp-eyed, her posture radiating the restless energy of a generation that viewed "founder authority" with deep suspicion. She was there to ensure the network didn't become a museum for its creators.
 
-In the center, the **AI Guardian**. It didn't have a body, only a presence—a soft, multi-layered geometric projection that pulsed with a steady, neutral light. It had access to every governance failure in human history, every record of institutional drift, and a processing capacity that made Mira’s simulation swarms look like abacuses.
+In the center, the **AI Guardian**. It didn't have a body, only a presence—a soft, multi-layered geometric projection that pulsed with a steady, neutral light. The projection was local; the AI itself ran on the station's independent systems, deliberately isolated from the Operating Company's infrastructure. It had access to every governance failure in human history, every record of institutional drift, and a processing capacity that made Mira's simulation swarms look like abacuses.
 
 Mira stood before them, Yusuf at her shoulder. They wore their field clothes—scuffed boots, durable fabrics, the gear of people who worked in worlds where things broke.
 
