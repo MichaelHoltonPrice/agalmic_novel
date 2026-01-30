@@ -9,32 +9,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
----
-
-## Chapter 14 — *The Low Point*
-
-- **User Veto telemetry vs "resolution window" timing**
-  - **What shows up**: countdown and closing windows; "ten days" vs other timings.
-  - **The gap**: The governance timeline (operator vote closes → veto window closes → implementation). The plot depends on this and casual readers may get lost.
-
-- **Attention economy as a background force**
-  - **What shows up**: "attention is the constraint," but "how" is mostly implied until Ch16.
-  - **The gap**: That attention is scarce despite material abundance, and that most people's feeds are AI-curated—so "indifference" isn't apathy, it's infrastructure.
-
----
-
-## Chapter 15 — *The Decision*
-
-- **"Swarm" as Kenji's personal toolchain**
-  - **What shows up**: Kenji has a swarm of agents that brainstorm adversarially.
-  - **The gap**: Whether this is normal personal augmentation (everyone has a swarm) or Kenji's special expertise.
-
-- **Jordan living on Mercury (and why that's normal)**
-  - **What shows up**: "lived on Mercury," matter-of-fact.
-  - **The gap**: That off-Earth living is normal (habitats, life support, radiation shielding, etc.).
-
----
-
 ## Chapter 16 — *The Signal*
 
 - **Light-speed delay as an active constraint**
