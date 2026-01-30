@@ -7,38 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 8 — *The Beach*
-
-- **Kenji's "ambient systems" creating AR overlays in corridors**
-  - **What shows up**: yellow brick road in 90 seconds.
-  - **The gap**: What AR "permissioning" is (who can paint overlays where), and what's physical vs visual-only.
-
-- **"Canalization" used as in-group jargon**
-  - **What shows up**: Elena canalizes transitions; Mira keeps worlds separate.
-  - **The gap**: What canalization means (using geography/gradients to guide movement without signs).
-
-- **Biosecurity / containment stack for dangerous ecologies**
-  - **What shows up**: layered containment (trenches, microclimates) later referenced.
-  - **The gap**: How multiple biomes with hazards can coexist in one cylinder without cross-contamination.
-
----
-
-## Chapter 9 — *The Deep Past*
-
-- **"Death adders" as *real* hazards**
-  - **What shows up**: venomous snake nearly stepped on; "glasses on high-alert."
-  - **The gap**: Whether "high-alert" means automated hazard detection, and whether the snake is real biology or a designed analogue.
-
-- **Mainland New Guinea Lapita sites / the "deferral debate"**
-  - **What shows up**: ethical debate about destructive excavation; hinted history.
-  - **The gap**: Why excavation is irreversible (you destroy context), and why "waiting for better tools" is plausible in this future.
-
-- **AI villagers / "indistinguishable from human"**
-  - **What shows up**: "AI-driven… indistinguishable from human."
-  - **The gap**: What these are physically (robots with synthetic skin? bio-printed bodies? projected avatars with haptics?).
-
----
-
 ## Chapter 10 — *The Gathering*
 
 - **"Buffalo ate the eastern wing" (implied physical simulation failures)**

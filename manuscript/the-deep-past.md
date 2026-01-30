@@ -24,7 +24,7 @@ Elena looked between them. Kenji's tone was too careful. Yusuf was still staring
 
 Yusuf's voice was flat. "And voted to defer. Indefinitely."
 
-Elena absorbed that. She knew the debate, of course—every boundary archaeologist did. Excavation was destructive; you only dug a site once. The question was whether to dig now or wait for better methods that would extract more from that single, irreversible act. The question had always existed. Accelerating technology just made it sharper.
+Elena absorbed that. She knew the debate, of course—every boundary archaeologist did. Excavation was destructive; you only dug a site once. The act of digging dismantled the very thing you were trying to understand—the layering, the spatial relationships, the way artifacts sat in relation to each other. That context was the grammar of the site. Remove an object without recording exactly how it lay against the soil, what was above and below it, what it touched—and you'd stripped away half its meaning. And the soil itself held information—ancient DNA, chemical traces, microbial signatures—that improved with every generation of extraction technology. Modern practice was to store all excavated material rather than dump it in spoil heaps the way earlier generations had, but storage didn't restore what had already been lost or put the layers back together. The question was whether to dig now or wait for better methods that would extract more from that single, irreversible act. The question had always existed. Accelerating technology just made it sharper.
 
 But she hadn't known Yusuf had made *this* call. On relevant, mainland sites.
 
@@ -80,7 +80,7 @@ The words came out harder than she'd intended. Kenji and Yusuf both looked at he
 
 They walked in silence for a moment, the muck sucking at their feet. Elena thought about the manifesto, about seeing her own words reflected back at her in institutional language. It had felt wrong from the start—her choices hardened into requirements, her preferences turned into exclusions. A trap wearing her face.
 
-They reached the edge of the village. A group of villagers—AI-driven, but their skin and movements indistinguishable from human—were working with clay, decorating pottery with the intricate, dentate-stamped patterns that were the signature of the Lapita culture.
+They reached the edge of the village. A group of villagers were working with clay, decorating pottery with the intricate, dentate-stamped patterns that were the signature of the Lapita culture. They were androids—synthetic skin over articulated frames, AI-driven, their movements and expressions indistinguishable from human at conversational distance.
 
 Elena crouched to watch. The potter's hands moved with the patience of someone who had done this ten thousand times—pressing the dentate stamp into wet clay, rotating the vessel, pressing again. The rhythm was hypnotic. The flies didn't seem to bother her.
 

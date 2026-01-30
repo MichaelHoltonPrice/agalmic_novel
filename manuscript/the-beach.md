@@ -14,7 +14,7 @@ Before she could reply, her AR overlay shimmered and the corridor transformed. T
 
 Elena laughed despite herself. "Echo, is this—"
 
-"Kenji's work," Echo confirmed. "One of his ambient systems generated it approximately ninety seconds ago, when your transit pod entered Mira's approach corridor. The theming appears to be *The Wizard of Oz*, 1939. He's drawing on Mira's public infrastructure blueprints—she must have granted him spatial access."
+"Kenji's work," Echo confirmed. "One of his ambient systems generated it approximately ninety seconds ago, when your transit pod entered Mira's approach corridor. The theming appears to be *The Wizard of Oz*, 1939. He's drawing on Mira's public infrastructure blueprints—she must have granted him spatial access, permission to paint visuals in her corridors."
 
 "He built me a yellow brick road in ninety seconds."
 
