@@ -7,22 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 5 — *The Safety Case*
-
-- **Who/what is "the Executive"?**
-  - **What shows up**: institutional leader with staff, authority to access deliberation logs.
-  - **The gap**: What institution he leads (Operating Company? regulator? network HQ) and what powers he has vs doesn't.
-
-- **What is an "autonomy committee"?**
-  - **What shows up**: routing of complaints; escalation options.
-  - **The gap**: The governance layers (committees, audits, appeals) that make up the institutional machinery.
-
-- **Privacy protocols + why he can see what he sees**
-  - **What shows up**: "privacy protocols limited cross-entity access, but as Executive…"
-  - **The gap**: What "entities" are here (individual sanctuaries? users? the network) and what the privacy norm is in a post-scarcity/augmentation society.
-
----
-
 ## Chapter 6 — *Grokking the Swarm*
 
 - **The deliberation log interface & interpretability**

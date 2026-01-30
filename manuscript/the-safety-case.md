@@ -24,11 +24,11 @@ He set down the file and looked up. His deputy had stopped talking, waiting for 
 
 "What category does this fall under?" he asked. A brief pause while he thought over his last words. "Pun not intended."
 
-"The complaint? Consent override review. It'll go to the autonomy committee unless you want to escalate."
+"The complaint? Consent override review. It'll go to the autonomy committee"—one of the network's standing bodies, charged with reviewing cases where system decisions overrode visitor choices—"unless you want to escalate."
 
 "I want to see the full extraction record. Sensor logs, operator notes, everything."
 
-His deputy's expression flickered—not quite surprise, but close. These cases were routine. The Executive didn't usually involve himself in routine.
+His deputy's expression flickered—not quite surprise, but close. These cases were routine. The Executive—head of the Operating Company, the administrative body that kept the sanctuary network running—didn't usually involve himself in routine.
 
 "I'll have it sent over," she said. "Is there something specific you're looking for?"
 
@@ -52,7 +52,7 @@ The operator's notes were precise but carried an undercurrent of frustration. *V
 
 *Personal note: I argued against this protocol when it was implemented. The visitor's consent was genuine and informed—she understood exactly what she was choosing. The extraction felt like a violation of her autonomy. I believe the system overrode what should have been her right to choose.*
 
-He read that last line twice, then accessed the extraction system's decision feed. Privacy protocols limited cross-entity access, but as Executive he could review the system's input stream—the data that had triggered the intervention.
+He read that last line twice, then accessed the extraction system's decision feed. Privacy protocols normally kept sanctuaries, visitors, and network systems in separate informational domains—you couldn't casually inspect another entity's data. But as Executive, he had override authority for governance review. He accessed the system's input stream—the data that had triggered the intervention.
 
 The feed was clinical, algorithmic: biometric overlays on thermal imaging, injury assessment metrics scrolling in real-time. The woman's vitals had been stable but pain indicators were spiking. Bone fracture confirmed—compound, Grade III, infection risk elevated due to environmental contaminants. Consent status: permissive-tier acknowledged. Intervention threshold: exceeded per network protocol 7.2.3.
 
