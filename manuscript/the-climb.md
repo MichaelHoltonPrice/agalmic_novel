@@ -164,15 +164,17 @@ Sixty-seven percent.
 
 The display flickered. New text appeared:
 
-*USER VETO THRESHOLD REACHED*
+*USER VETO THRESHOLD REACHED — 67.0%*
 
-*Proposal NG-2047-31 blocked by acctive user veto.*
+*Proposal NG-2047-31 will be blocked unless veto falls below threshold before window closes.*
 
-*Resolution window remains open for 1 hour, 47 minutes.*
+*Resolution window closes in 1 hour, 47 minutes.*
 
 For a long moment, no one moved.
 
-Then Kenji laughed. "We did it."
+"Users can still change their votes," Kenji said softly. "Technically. Until the window closes." He looked around the room. "But they won't. Not enough of them, at least."
+
+Then louder: "We did it!"
 
 Mira sat very still, a small smile spreading across her face. Solène was grinning.
 
@@ -186,9 +188,9 @@ They had won, and they had paid the price.
 
 ---
 
-The resolution window closed at midnight.
+The resolution window closed at midnight UTC.
 
-They watched the timestamp tick over. The system confirmed what they already knew: the proposal was blocked, the User Veto was final, the outcome was locked.
+They watched the timestamp tick over—the moment when votes became final and could no longer be changed. The veto had held: proposal blocked, outcome certified, permanently recorded.
 
 And then, a moment later, the smart contract executed.
 

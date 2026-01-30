@@ -100,7 +100,7 @@ The contract locked. At the bottom of the screen, new text appeared:
 
 ---
 
-They moved to a different room—a monitoring space Kenji had set up, multiple displays showing feeds and metrics. The open chain dashboard dominated one wall, streams of data flowing past like water.
+They moved to a different room—a monitoring space Kenji had set up, multiple displays showing feeds and metrics. The open chain dashboard dominated one wall—the decentralized layer where algorithms were public and everything was permanently auditable, unlike the proprietary feeds most people used. Streams of data flowed past like water.
 
 "The proof is on the chain," Kenji said. "Now we wait."
 
