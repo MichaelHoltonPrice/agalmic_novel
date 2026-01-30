@@ -7,34 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 6 — *Grokking the Swarm*
-
-- **The deliberation log interface & interpretability**
-  - **What shows up**: 127 AIs, 8,347 exchanges; unreadable raw logs; needs analysis AI.
-  - **The gap**: That swarm reasoning is logged and auditable but not human-readable without tools. This is a brand-new governance premise dropped mid-chapter.
-
-- **"Zero-point ethics"**
-  - **What shows up**: introduced as a major framework, but it's unclear whether humans know it, endorse it, or fear it.
-  - **The gap**: What zero-point reasoning is (catastrophic tail risks / multiplicative survival) and its origins.
-
-- **Self-modifying AIs / quantum randomness / nondeterminism**
-  - **What shows up**: irreproducibility of deliberations.
-  - **The gap**: The distinction between "we can simulate outcomes reliably" vs "we can't replay minds exactly," and why that matters for legitimacy.
-
----
-
-## Chapter 7 — *Pathos*
-
-- **Why "quintessential experience" is being treated as network identity**
-  - **What shows up**: philosophical choice + safety are conflated; staff discuss it.
-  - **The gap**: Why a network would enforce a single "tradition" rather than just safety limits—i.e., what "network identity" means operationally (branding, trust, discoverability).
-
-- **Logos/Ethos/Pathos framing**
-  - **What shows up**: rhetorical triangle appears as an analytic tool.
-  - **The gap**: Not a worldbuilding gap per se, but some readers may need contextualization that this is *his* professional lens, not authorial lecturing.
-
----
-
 ## Chapter 8 — *The Beach*
 
 - **Kenji's "ambient systems" creating AR overlays in corridors**

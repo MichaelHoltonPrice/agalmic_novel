@@ -42,7 +42,7 @@ He considered that. "You're right. Those are distinct questions."
 
 "Which means mandating quintessential experience also mandates a certain risk threshold," his deputy said. "Not as a safety measure, but as a definitional constraint."
 
-"Yes." He saw where this was going. "The proposal frames itself as declaring network identity—what our tradition is. But by mandating quintessential experience, it's doing two things at once."
+"Yes." He saw where this was going. "The proposal frames itself as declaring network identity—what our tradition is. What visitors can expect when they choose a network sanctuary over an independent one. But by mandating quintessential experience, it's doing two things at once."
 
 "It's taking a philosophical position," she said. "And that position has risk implications. We're voting on both together."
 

@@ -4,7 +4,7 @@
 
 ---
 
-He accessed the full deliberation logs.
+He accessed the full deliberation logs—the audit trail that governance required for every swarm decision.
 
 The interface displayed the raw data: 2.3 seconds of real-time deliberation. 127 AIs participating. Final vote: 91 for intervention, 32 for autonomy preservation, 4 abstentions.
 
