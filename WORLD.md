@@ -246,7 +246,15 @@ Operator votes on governance proposals are not instantaneous—they accumulate o
 For User Veto purposes, an "active end-user" is defined as someone who has made at least two physical sanctuary visits within the past standard year. This threshold ensures voting weight reflects genuine engagement rather than passive registration. Virtual-only or AR-mediated experiences don't count toward eligibility—the requirement is embodied presence in a physical sanctuary.
 
 #### The Guardian Triad (oversight body)
-When proposals pass the operator vote, they proceed to the Guardian Triad—a three-seat oversight body (Legacy, Contemporary Trust, AI) with authority to veto. The Guardians have **blanket veto power**: they are not limited to specific grounds such as charter violations. However, they must **publicly justify any veto with principled reasoning**. Their legitimacy derives not from formal constraints but from the quality of their arguments. A veto that appears arbitrary, self-interested, or captured would damage the Triad's standing even if technically valid.
+When proposals pass the operator vote, they proceed to the Guardian Triad—a three-seat oversight body with authority to veto:
+
+- **Legacy**: Represents the network's founding principles and long-term institutional memory.
+- **Contemporary Trust**: Represents current user interests and democratic participation.
+- **AI**: Represents AI perspectives and systemic concerns such as reversibility.
+
+The three seats were established at the network's founding, with each seat holder choosing their own successor with complete autonomy. No succession has ever occurred; the original holders still serve.
+
+The Guardians have **blanket veto power**: they are not limited to specific grounds such as charter violations. However, they must **publicly justify any veto with principled reasoning**. Their legitimacy derives not from formal constraints but from the quality of their arguments. A veto that appears arbitrary, self-interested, or captured would damage the Triad's standing even if technically valid.
 
 This structure creates a deliberate tension. The Guardians *can* block almost anything, but they must explain why—and their explanation becomes part of the network's institutional memory, subject to critique by the community. The result is a body with broad power but strong incentives toward reasoned restraint.
 

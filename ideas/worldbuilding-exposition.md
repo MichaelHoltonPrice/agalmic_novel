@@ -7,24 +7,6 @@ This document lists world/tech/governance concepts that the manuscript mentions 
 
 ---
 
-## Chapter 10 — *The Gathering*
-
-- **"Buffalo ate the eastern wing" (implied physical simulation failures)**
-  - **What shows up**: joke implies large animals are present and can physically damage builds.
-  - **The gap**: That these sanctuaries can include large, physically real animals/ecologies and that "failure modes" are physical, not just software bugs.
-
----
-
-## Chapter 11 — *The Plan*
-
-- **Guardian Triad / User Veto mechanics**
-  - **What shows up**: introduced as core plot machinery.
-  - **The gap**:
-    - What the Triad is (oversight body).
-    - What the User Veto is and why eligibility requires "two physical visits."
-
----
-
 ## Chapter 12 — *The Critique*
 
 - **"Pen and paper" as a deliberate constraint**
