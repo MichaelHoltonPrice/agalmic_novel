@@ -1,4 +1,4 @@
-# The Agalmic Engine
+# Boundary Archaeologists
 
 ## An Abundance Novel
 
@@ -22,7 +22,7 @@ To generate a PDF for review:
 - LaTeX distribution: `sudo apt install texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-recommended`
 
 ```bash
-cd manuscript && xargs pandoc -o ../build/agalmic-engine.pdf --pdf-engine=pdflatex < chapters.txt
+cd manuscript && xargs pandoc -o ../build/boundary-archaeologists.pdf --pdf-engine=pdflatex < chapters.txt
 ```
 
 This creates a compiled PDF in the `build/` folder. Chapter order is defined in `manuscript/chapters.txt`.

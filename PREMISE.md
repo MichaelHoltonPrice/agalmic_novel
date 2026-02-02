@@ -1,7 +1,7 @@
 # PREMISE.md
 
 ## Novel Title
-**The Agalmic Engine**
+**Boundary Archaeologists**
 
 ## Core Vision
 
