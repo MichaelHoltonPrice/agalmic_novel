@@ -8,7 +8,7 @@
 
 **Review Copy**
 
-*Date: $date$*
+*Date: DATE_PLACEHOLDER*
 
 ---
 

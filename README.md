@@ -22,7 +22,7 @@ To generate a PDF for review:
 - LaTeX distribution: `sudo apt install texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-recommended`
 
 ```bash
-cd manuscript && xargs pandoc -o ../build/boundary-archaeologists.pdf --pdf-engine=pdflatex --metadata date="$(date +'%d %b %Y')" < chapters.txt
+cd manuscript && cat $(cat chapters.txt) | sed "s/DATE_PLACEHOLDER/$(date +'%d %b %Y')/" | pandoc -o ../build/boundary-archaeologists.pdf --pdf-engine=pdflatex
 ```
 
 This creates a compiled PDF in the `build/` folder. Chapter order is defined in `manuscript/chapters.txt`.
