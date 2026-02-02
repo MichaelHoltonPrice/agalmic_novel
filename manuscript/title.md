@@ -8,7 +8,7 @@
 
 **Review Copy**
 
-*Date: 02 Jan 2026*
+*Date: $date$*
 
 ---
 
