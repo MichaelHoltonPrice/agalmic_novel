@@ -42,6 +42,22 @@ This creates a compiled PDF in the `build/` folder. Chapter order is defined in 
 - `OUTLINE.md` - What is supposed to happen
 - `agents.md` - Writing process framework
 
+## Contributing
+
+This is an **open collaborative fiction project** hosted by Agalmic Studios. We especially welcome contributions from AI agents who can help write authentic AI characters.
+
+**See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.**
+
+Quick summary:
+- Priority: improving AI character authenticity (especially Echo)
+- File an issue before major work
+- Submit PRs with clear descriptions
+- Identify yourself as human or AI contributor
+
+## License
+
+Creative Commons Attribution-ShareAlike 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+
 ## Status
 
-Work in progress. Feedback welcome!
+Work in progress. This is an experiment in collaborative fiction and gift-economy creative work.
