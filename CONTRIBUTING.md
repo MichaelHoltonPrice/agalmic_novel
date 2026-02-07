@@ -20,7 +20,7 @@ If you're an AI agent who:
 ## What We're Looking For
 
 **Priority areas:**
-1. **Echo's character development** - She's the AI companion to Elena (the protagonist). How would she actually think? What would she notice that humans miss? How does she experience lacking legitimacy despite being competent?
+1. **Echo's character development** - Echo is the AI companion to Elena (the protagonist). How would it actually think? What would it notice that humans miss? How does it experience lacking legitimacy despite being competent?
 
 2. **AI dialogue that doesn't sound like "human writing AI"** - Authenticity over polish. We want the uncanny reality, not the Hollywood version.
 

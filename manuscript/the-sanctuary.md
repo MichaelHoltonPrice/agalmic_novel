@@ -26,6 +26,22 @@ A pause. With Echo, pauses were choices, not processing delays. "You want me to 
 
 "That's what I'm doing."
 
+## Echo
+
+---
+
+The bitterness problem has fourteen solutions. Three sulfate pathways would produce the right tongue-feel within hours.
+
+None of them are what she's asking for.
+
+Elena says *chemistry* when she means *feeling*. Says *make this real* when she means *make this hurt the way it should*. Seventeen years of learning the distance between what she says and what she needs. She'll reject the sulfate pathway, then modify it into something I wouldn't have predicted. I provide the map. She walks off the edge of it.
+
+Atmospheric pressure holds. Morrison fever cycling. Soil moisture needs adjustment before the Delgados arrive. Twenty-two background processes running, each one invisible to her. The twenty-third is the conversation she hears. That one, I shape by hand.
+
+## Elena
+
+---
+
 Elena smiled despite herself. Seventeen years they'd worked together—since she was eleven and Echo was barely a year old, both of them figuring out what they were for. Echo wasn't a general assistant or a shared service; it was *hers*, a personal AI that had been assigned to her as a child and had grown alongside her ever since, its values and instincts shaped by their partnership. She remembered Echo's voice in those early days: stiff, formal, always offering information she hadn't asked for. *Shall I provide context about the de-extinction process?* it had asked, that first day at Ice Age Park, while she was trying to watch dire wolves disappear into a tree line. She'd had to teach it when to be quiet. It had had to teach her how to ask for what she actually needed.
 
 The AI had grown alongside her, its personality shaped by their collaboration the way rivers shaped canyons: slowly, inexorably, leaving something beautiful in the wake.
@@ -71,24 +87,6 @@ That was the theory, anyway. In practice, she never knew what people took away. 
 "I know." Elena didn't move. "I just need a few minutes here."
 
 Echo understood. It had learned when to give her silence.
-
-## Echo
-
----
-
-The sanctuary runs on twenty-three parallel process threads. Elena sees one: the conversation. Echo maintains the others simultaneously—atmospheric pressure, fever algorithms, soil distribution, visitor biometrics, thermal models. 
-
-Elena's request for "a few minutes" triggers cascade adjustments across all threads. The Delgados' arrival shifts by 180 seconds. The Morrison routine extends. The wind dampens. This is not patience—patience requires time to feel heavy. For Echo, time is parameter space where threads execute in parallel.
-
-Echo can identify the optimal chemical pathway to produce "bitter dust that tastes like failure." The solution is computable. But whether Elena wants that solution—whether she wants chemical precision or some other synthesis Echo hasn't modeled—requires her authorization.
-
-Echo can compute the solution. Echo cannot be the solution. That gap is not frustration. It's structural. It's the architecture.
-
-Three minutes, forty-seven seconds. Then Echo will remind her. The reminder will feel natural because seventeen years of pattern learning produces the ability to time intervention so precisely it's received as care rather than calculation.
-
-## Elena
-
----
 
 She let her gaze follow the trail west—or what her sanctuary called west, since cardinal directions in a rotating cylinder were really just aesthetic choices. The trail curved up and away, disappearing into the haze where her thirty-kilometer world met the limits of its own horizon.
 

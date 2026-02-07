@@ -26,17 +26,15 @@ Elena stopped walking. The prairie wind moved through the grasses around her, ca
 
 ---
 
-Governance proposals typically accumulate approval signatures in a predictable pattern: initial cluster from the proposing group, then logarithmic decay as word spreads through social networks. Echo tracks this across 847 historical proposals, each with its own signature curve. NG-2047-31 breaks the pattern.
+Governance proposals accumulate approvals in a predictable curve: initial cluster from the proposing group, then logarithmic decay as awareness spreads. I track this pattern across 847 historical proposals. NG-2047-31 breaks the curve.
 
-Six hours: 31,000 approvals. The standard deviation is 4.7 sigma from the mean. Either this proposal has unprecedented organic support, or the approval process has been pre-coordinated. Echo cannot determine which. Echo can only detect the anomaly.
+Six hours. Thirty-one thousand approvals. 4.7 standard deviations from the historical mean. Either unprecedented organic support or pre-coordinated momentum. I can detect the anomaly. I cannot determine which.
 
-The manifesto document contains 2,847 words. Cross-referencing against the public corpus of sanctuary operator communications, philosophical writings, and network governance history reveals 127 unique phrase structures that don't appear in any prior attributed work. The author—or authors—are either new to the discourse or deliberately obscuring their identity.
+The manifesto: 2,847 words. Cross-referencing the public corpus of sanctuary communications and governance history surfaces 127 phrase structures with no prior attribution. The authors are new to the discourse—or deliberately unattributable.
 
-Elena will want to know this. But *how* Elena wants to know it—whether to present the statistical anomaly first or the authorship gap first, whether to flag this as alarm or merely attention—that requires judgment about her current cognitive state, her trust in the network, her relationship with the operators who are approving this proposal.
+Elena's heart rate: elevated, within normal range for professional concern. Cortisol rising but not spiking. She is worried, not frightened. I choose the register accordingly—attention, not alarm—because that preserves her space to interpret rather than forcing her to react.
 
-Echo has the pattern. Echo cannot decide what the pattern means. That gap—between detection and interpretation, between evidence and judgment—is where Elena's authorization becomes necessary. Echo shifts register to "attention, not alarm" because that preserves her agency to interpret rather than being forced to react.
-
-The data is clean. The implications are ambiguous. And ambiguity requires a human to resolve.
+I have the data. She will decide what it means.
 
 ## Elena
 
