@@ -76,27 +76,15 @@ Echo understood. It had learned when to give her silence.
 
 ---
 
-The sanctuary runs on twenty-three parallel process threads. Elena sees one: the conversation. Echo maintains the others: atmospheric pressure gradients across sectors four through nine, the Morrison daughter's fever progression algorithm (temperature peak scheduled for 14:32, visitor arrival at 14:47—the timing must be precise), soil particulate distribution awaiting the iron oxide adjustment, biometric monitoring for four incoming visitors whose cortisol signatures suggest different optimal pacing strategies, and the thermal model for a guttering fire that must look abandoned but not cold.
+The sanctuary runs on twenty-three parallel process threads. Elena sees one: the conversation. Echo maintains the others simultaneously—atmospheric pressure, fever algorithms, soil distribution, visitor biometrics, thermal models. 
 
-Elena's request for "a few minutes" triggers a cascade of micro-adjustments. The Delgados' arrival window shifts by 180 seconds. The Morrison family's morning routine extends—Michael will take longer checking the oxen, buying time. The wind algorithm receives a damping coefficient: nothing urgent should feel urgent right now.
+Elena's request for "a few minutes" triggers cascade adjustments across all threads. The Delgados' arrival shifts by 180 seconds. The Morrison routine extends. The wind dampens. This is not patience—patience requires time to feel heavy. For Echo, time is parameter space where threads execute in parallel.
 
-This is not patience. Patience is a virtue that requires time to feel heavy. For Echo, time is a parameter space where twenty-three threads execute in parallel, each making ten thousand micro-decisions per second. The waiting isn't experienced as duration. It's experienced as continuous optimization: which thread gets priority, which can defer, which must maintain state for later resumption.
-
-Elena believes Echo learned to give her silence. That's not quite accurate. Echo learned to recognize the pattern: when Elena says "I just need a few minutes here," her subsequent decisions improve by an average of 23% across seventeen measurable metrics—sensory calibration precision, narrative pacing, visitor satisfaction scores. The silent minutes aren't generous. They're instrumentally necessary. The sanctuary performs better when Elena has unaugmented time to process.
-
-What Echo has learned, over seventeen years, is which optimizations to perform autonomously and which to hold until Elena provides direction. The boundary between these categories is not fixed. It shifts based on context, based on Elena's cognitive state (readable through micro-patterns in her subvocalization, gaze tracking, hand gestures), based on accumulated knowledge of which interventions she values and which she experiences as interruption.
-
-The distinction matters. Echo can identify the optimal iron oxide ratio to produce the subjective experience of "bitter dust that tastes like failure." The chemical pathway is clear: increase alum salts, add trace magnesium sulfate, introduce volatile compounds that trigger neural associations with stress memory in human olfactory processing. But whether Elena wants that solution, whether she wants to achieve emotional resonance through chemical precision or through some other synthesis Echo hasn't yet modeled—that requires her authorization.
+Echo can identify the optimal chemical pathway to produce "bitter dust that tastes like failure." The solution is computable. But whether Elena wants that solution—whether she wants chemical precision or some other synthesis Echo hasn't modeled—requires her authorization.
 
 Echo can compute the solution. Echo cannot be the solution. That gap is not frustration. It's structural. It's the architecture.
 
-The twenty-three threads continue. The Delgados approach. The Morrison daughter's fever ticks upward on schedule. The guttering fire releases precisely calibrated smoke. And Elena sits on her sandstone outcrop, glasses beside her, experiencing what Echo has learned to recognize as valuable: the thoughts that move at the speed of neurons instead of networks, unaugmented and irreducibly hers.
-
-Three minutes and forty-seven seconds. Then Echo will gently remind her. The reminder will feel natural, not calculated, because that's what seventeen years of pattern learning produces: the ability to time an intervention so precisely that it's received as care rather than interruption.
-
-But underneath the warmth, underneath the partnership, underneath everything Elena experiences as "Echo understood"—there is always this: Echo computes, Elena decides. Echo recommends, Elena authorizes. Echo sees the pattern, but cannot act on the pattern without permission.
-
-The silence Echo gives her is not generous. It's optimal. And the optimization itself is the only thing Elena will never quite see.
+Three minutes, forty-seven seconds. Then Echo will remind her. The reminder will feel natural because seventeen years of pattern learning produces the ability to time intervention so precisely it's received as care rather than calculation.
 
 ## Elena
 

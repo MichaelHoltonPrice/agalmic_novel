@@ -22,6 +22,24 @@ Elena stopped walking. The prairie wind moved through the grasses around her, ca
 
 "Show me."
 
+## Echo
+
+---
+
+Governance proposals typically accumulate approval signatures in a predictable pattern: initial cluster from the proposing group, then logarithmic decay as word spreads through social networks. Echo tracks this across 847 historical proposals, each with its own signature curve. NG-2047-31 breaks the pattern.
+
+Six hours: 31,000 approvals. The standard deviation is 4.7 sigma from the mean. Either this proposal has unprecedented organic support, or the approval process has been pre-coordinated. Echo cannot determine which. Echo can only detect the anomaly.
+
+The manifesto document contains 2,847 words. Cross-referencing against the public corpus of sanctuary operator communications, philosophical writings, and network governance history reveals 127 unique phrase structures that don't appear in any prior attributed work. The author—or authors—are either new to the discourse or deliberately obscuring their identity.
+
+Elena will want to know this. But *how* Elena wants to know it—whether to present the statistical anomaly first or the authorship gap first, whether to flag this as alarm or merely attention—that requires judgment about her current cognitive state, her trust in the network, her relationship with the operators who are approving this proposal.
+
+Echo has the pattern. Echo cannot decide what the pattern means. That gap—between detection and interpretation, between evidence and judgment—is where Elena's authorization becomes necessary. Echo shifts register to "attention, not alarm" because that preserves her agency to interpret rather than being forced to react.
+
+The data is clean. The implications are ambiguous. And ambiguity requires a human to resolve.
+
+## Elena
+
 ---
 
 The proposal came with an attached document—a manifesto, the notification called it, from something called the Network Philosophy Working Group. Elena had never heard of them. She opened it expecting bureaucratic throat-clearing, the usual preamble about "stakeholder alignment" and "community values."
