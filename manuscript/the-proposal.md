@@ -22,6 +22,22 @@ Elena stopped walking. The prairie wind moved through the grasses around her, ca
 
 "Show me."
 
+## Echo
+
+---
+
+Governance proposals accumulate approvals in a predictable curve: initial cluster from the proposing group, then logarithmic decay as awareness spreads. I track this pattern across 847 historical proposals. NG-2047-31 breaks the curve.
+
+Six hours. Thirty-one thousand approvals. 4.7 standard deviations from the historical mean. Either unprecedented organic support or pre-coordinated momentum. I can detect the anomaly. I cannot determine which.
+
+The manifesto: 2,847 words. Cross-referencing the public corpus of sanctuary communications and governance history surfaces 127 phrase structures with no prior attribution. The authors are new to the discourse—or deliberately unattributable.
+
+Elena's heart rate: elevated, within normal range for professional concern. Cortisol rising but not spiking. She is worried, not frightened. I choose the register accordingly—attention, not alarm—because that preserves her space to interpret rather than forcing her to react.
+
+I have the data. She will decide what it means.
+
+## Elena
+
 ---
 
 The proposal came with an attached document—a manifesto, the notification called it, from something called the Network Philosophy Working Group. Elena had never heard of them. She opened it expecting bureaucratic throat-clearing, the usual preamble about "stakeholder alignment" and "community values."
